@@ -116,7 +116,7 @@ GandhiMarch = {
 }
 
 PoliceSearching = {
-    "Hathras case mein actually kya hua tha aur investigation kaise hui": False,
+    "Hathras case mein actually kya hua tha aur investigation kaise hui": True,
     "Aarushi Talwar case India ka sabse mysterious case kyun bana": False,
     "Nithari case mein investigation ke dauran kya samne aaya": False,
     "Jessica Lal case ki investigation ne India ko kaise shock kiya": False,
