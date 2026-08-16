@@ -4,7 +4,7 @@ Har topic mein 50 questions hain. Value = False (jab topic master ho jaye to Tru
 """
 
 Java = {
-    "Production mein sirf peak traffic ke time aapki app OutOfMemoryError throw kar rahi hai. Aap kaise debug karoge?": False,
+    "Production mein sirf peak traffic ke time aapki app OutOfMemoryError throw kar rahi hai. Aap kaise debug karoge?": True,
     "Do threads ko ek shared counter safely update karna hai bina deadlock ke. Design kaise karoge?": False,
     "Ek legacy system mein raw ArrayList use ho raha hai jisse ClassCastException aa raha hai. Generics mein safely refactor kaise karoge?": False,
     "Aapki microservice ko ek failed HTTP call 3 baar retry karna hai backoff ke saath. Java mein implement kaise karoge?": False,
