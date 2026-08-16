@@ -32,7 +32,7 @@ IndiaPak = {
     "1947 Kashmir conflict ki shuruaat kaise hui": False,
     "Kargil War ne modern warfare ko kaise change kiya": False,
     "Siachen ko duniya ka sabse dangerous battlefield kyun kaha jata hai": False,
-    "India aur Pakistan nuclear powers kaise bane": False,
+    "India aur Pakistan nuclear powers kaise bane": True,
     "Bangladesh Liberation War ki shuruaat kaise hui": False,
     "Agar India Pakistan ke beech phir major war ho to kya ho sakta hai": False
 }
