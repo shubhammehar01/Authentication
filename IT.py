@@ -57,7 +57,7 @@ Java = {
 }
 
 Python = {
-    "Aapka data pipeline script 1M rows process karte waqt beech mein crash ho jata hai. Resumable kaise banaoge?": False,
+    "Aapka data pipeline script 1M rows process karte waqt beech mein crash ho jata hai. Resumable kaise banaoge?": True,
     "Ek CSV bahut badi hai jo memory mein fit nahi hoti. Python mein efficiently kaise handle karoge?": False,
     "Ek function same input ke sath hazaron baar call hota hai. Speed kaise badhaoge?": False,
     "Script mein 5 independent API calls concurrently run karni hain. Kaunsa approach use karoge?": False,
