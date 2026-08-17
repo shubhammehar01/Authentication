@@ -481,7 +481,7 @@ Git = {
 }
 
 OOPs = {
-    "Aap ek payment system design kar rahe ho jisme multiple payment methods (card, wallet, UPI) support karne hain. OOP principles kaise apply karoge?": False,
+    "Aap ek payment system design kar rahe ho jisme multiple payment methods (card, wallet, UPI) support karne hain. OOP principles kaise apply karoge?": True,
     "Ek class bahut zyada responsibilities handle karne lagi hai. OOP principles se refactor kaise karoge?": False,
     "Drawing app mein existing code modify kiye bina naye shape types add karne hain. Kaise design karoge (Open/Closed Principle)?": False,
     "Do classes ko behavior share karna hai lekin clean 'is-a' relationship fit nahi hota. Inheritance aur composition mein kaise decide karoge?": False,
