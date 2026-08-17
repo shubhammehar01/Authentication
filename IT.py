@@ -587,7 +587,7 @@ CollectionFramework = {
 }
 
 AIAPIIntegration = {
-    "User questions answer karne ke liye apni app mein LLM API integrate karni hai. Request/response flow kaise design karoge?": False,
+    "User questions answer karne ke liye apni app mein LLM API integrate karni hai. Request/response flow kaise design karoge?": True,
     "Aapki app AI model API call karti hai jo kabhi kabhi timeout ho jati hai. Gracefully kaise handle karoge?": False,
     "Quality zyada sacrifice kiye bina LLM provider se AI API costs kam karne hain. Kaise approach karoge?": False,
     "User ke prompt mein database se context include karna hai (RAG). Ye pipeline kaise architect karoge?": False,
