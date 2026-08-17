@@ -142,7 +142,7 @@ RoketSatellite = {
 }
 
 Machines = {
-    "Engine fuel ko motion mein kaise convert karta hai": False,
+    "Engine fuel ko motion mein kaise convert karta hai": True,
     "Massive cranes hundreds of tons ka weight kaise lift karti hain": False,
     "Hydraulic machines itna heavy weight kaise utha leti hain": False,
     "Elevator hundreds of meters safely upar neeche kaise jata hai": False,
