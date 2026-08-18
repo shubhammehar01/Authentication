@@ -317,7 +317,7 @@ MySql = {
 }
 
 React = {
-    "React application me unnecessary re-renders ki wajah se UI slow ho raha hai. Is problem ko kaise identify aur optimize karoge?": False,
+    "React application me unnecessary re-renders ki wajah se UI slow ho raha hai. Is problem ko kaise identify aur optimize karoge?": True,
     "React application me ek API call baar-baar trigger ho rahi hai. Is behavior ko kaise prevent karoge?": False,
     "Large list ko React me render karna hai jisme thousands of records hain. Performance improve kaise karoge?": False,
     "React application me multiple components ko same data share karna hai. State management kaise design karoge?": False,
