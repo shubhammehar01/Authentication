@@ -377,7 +377,7 @@ CivilizationAncientPeople = {
 
 # 8. FlyVehicles (50 items)
 FlyVehicles = {
-    'Future ki flying taxis eVTOL tech par base hain.': False,
+    'Future ki flying taxis eVTOL tech par base hain.': True,
     'Supersonic jets London se New York safar aadha karenge.': False,
     'Delivery drones GPS tracking se packages bhejte hain.': False,
     'Lightweight materials se planes ka wajan kam hota hai.': False,
