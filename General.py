@@ -323,7 +323,7 @@ factoryEngineers = {
 
 # 7. CivilizationAncientPeople (50 items)
 CivilizationAncientPeople = {
-    'Indus Valley me advanced underground drainage tha.': False,
+    'Indus Valley me advanced underground drainage tha.': True,
     'Egyptians ne bina modern machines ke pyramids banaye.': False,
     'Maya civilization ka calendar bilkul sateek tha.': False,
     'Mesopotamia me sabse pehli written script bani thi.': False,
