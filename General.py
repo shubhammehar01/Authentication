@@ -424,7 +424,7 @@ FlyVehicles = {
     'Jet fuel kerosene based special liquid hota hai.': False,
     'Sonic boom jab plane speed of sound cross karta hai tab create hota hai.': False,
     'Scramjet engines hypersonic speeds achieve karne ke liye hote hain.': False,
-    * 'Airships ya zeppelins helium gas se float karte hain.': False,
+    'Airships ya zeppelins helium gas se float karte hain.': False,
     'Solar powered planes continuous flight records banate hain.': False,
     'Urban air mobility future cities me traffic solve karne ka plan hai.': False
 }
@@ -439,7 +439,7 @@ GandhiMarch = {
     'Salt Satyagraha british salt tax ke against tha.': False,
     'Dandi march 385 kilometers long foot march thi.': False,
     '78 followers ne Gandhi ji ke sath march start kiya tha.': False,
-    '24 days tak ye yatra chali thi.': Field := False, # Wait, keep regular syntax:
+    '24 days tak ye yatra chali thi.': False, # Wait, keep regular syntax:
     '24 days tak ye yatra chali thi.': False,
     '6 April 1930 ko namak todkar kanoon todha gaya tha.': False,
     'Civil Disobedience Movement ki shuruwat isse hui thi.': False,
@@ -499,7 +499,7 @@ PoliceSearching = {
     'Highway checkposts pe vehicles ki checking hoti hai.': False,
     'Interpol international police cooperation network hai.': False,
     'Undercover operations me police secret agent bhejti hai.': False,
-    * 'Raid actions me illegal substances ya criminals pakde jaate hain.': False,
+    'Raid actions me illegal substances ya criminals pakde jaate hain.': False,
     'APIS system automated fingerprint identification karta hai.': False,
     'CCIS database criminal records maintain rakhta hai.': False,
     'Emergency helpline numbers quick response ke liye hote hain.': False,
@@ -547,7 +547,7 @@ RoketSatellite = {
     'Weather satellites toofan ki jankari pehle deti hain.': False,
     'PSLV ISRO ka workhorse launch vehicle hai.': False,
     'GSLV heavy payloads geostationary orbit me bhejta hai.': False,
-    * 'Reusable rockets space travel ka cost drastically kam karte hain.': False,
+    'Reusable rockets space travel ka cost drastically kam karte hain.': False,
     'Low Earth Orbit (LEO) me Starlink jese constellations hote hain.': False,
     'Geostationary satellites earth ke sath synchronous rotate karti hain.': False,
     'GPS satellites navigation aur timing signals provide karti hain.': False,
@@ -610,7 +610,7 @@ Machines = {
     'Electric motors electrical energy ko mechanical energy me badalti hain.': False,
     'Generators mechanical energy ko electricity me convert karte hain.': False,
     'Transformers voltage levels step up ya down karte hain.': False,
-    * 'Compressors air pressure increase karte hain pneumatic tools ke liye.': False,
+    'Compressors air pressure increase karte hain pneumatic tools ke liye.': False,
     'Pumps liquids transport karne ke liye pipelines me use hote hain.': False,
     'Heat exchangers thermal energy transfer karte hain systems ke beech.': False,
     'Industrial boilers high pressure steam produce karte hain.': False,
@@ -630,7 +630,7 @@ Machines = {
     'Harvesters crops cutting aur threshing ek sath karte hain.': False,
     'Printing presses newspapers aur books mass print karti hain.': False,
     'ATM machines cash dispensing ke liye automated systems hain.': False,
-    * 'Vending machines coins ya cards se items deliver karti hain.': False,
+    'Vending machines coins ya cards se items deliver karti hain.': False,
     'Washing machines clothes cleaning automate karti hain.': False,
     'Refrigerators cooling technology se food fresh rakhte hain.': False,
     'Air conditioners temperature aur humidity control karte hain.': False,
