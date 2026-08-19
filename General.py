@@ -161,7 +161,7 @@ IndiaPak = {
 
 # 4. NaturalDisaster (50 items)
 NaturalDisaster = {
-    'Ring of Fire me duniya ke 75% active volcanoes hain.': False,
+    'Ring of Fire me duniya ke 75% active volcanoes hain.': True,
     'Tsunami waves samundar ke andar bhookamp se banti hain.': False,
     'Duniya ka sabse bada volcano Mauna Loa hai.': False,
     'Jungle ki aag garmi aur sadi patti se lagati hai.': False,
