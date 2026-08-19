@@ -270,7 +270,7 @@ SeaCreature = {
 # 6. factoryEngineers (50 items)
 factoryEngineers = {
     'Factories me AI aur robots se production fast ho gaya hai.': True,
-    'CNC machines metal cutting me 100% precision deti hain.': False,
+    'CNC machines metal cutting me 100% precision deti hain.': True,
     'Factory safety ke liye emergency shutdowns hote hain.': False,
     'Automobile lines par cars kuch ghante me banti hain.': False,
     'Engineers energy save karne ke liye solar use karte hain.': False,
