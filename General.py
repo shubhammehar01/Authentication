@@ -594,7 +594,7 @@ RoketSatellite = {
 
 # 12. Machines (50 items)
 Machines = {
-    'Industrial machines kharab hone ki warning de deti hain.': False,
+    'Industrial machines kharab hone ki warning de deti hain.': True,
     'Quantum computers complex calculations fast solve karte hain.': False,
     '3D printing se metal parts ghar print hote hain.': False,
     'Excavators big construction projects me use hote hain.': False,
