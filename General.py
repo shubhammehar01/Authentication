@@ -107,7 +107,7 @@ War = {
 
 # 3. IndiaPak (50 items)
 IndiaPak = {
-    'Wagah Border ki Beating Retreat ceremony iconic hai.': False,
+    'Wagah Border ki Beating Retreat ceremony iconic hai.': True,
     'India-Pak border line ko Radcliffe Line kehte hain.': False,
     'Siachen Glacier duniya ka sabse uncha militarized zone hai.': False,
     '1971 war ke baad Shimla Agreement sign hua tha.': False,
