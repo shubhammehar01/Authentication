@@ -900,7 +900,7 @@ RestAPIDesign = {
 }
 
 MicroservicesArchitecture = {
-    "Ek microservice temporarily down ho jaati hai aur uski wajah se dependent services bhi fail hone lagti hain. Is cascading failure ko kaise prevent karoge?": False,
+    "Ek microservice temporarily down ho jaati hai aur uski wajah se dependent services bhi fail hone lagti hain. Is cascading failure ko kaise prevent karoge?": True,
     "Multiple microservices ko ek transaction me data update karna hai. Distributed transaction ko kaise handle karoge?": False,
     "Microservices architecture me services ke beech communication bahut slow ho raha hai. Performance improve kaise karoge?": False,
     "Production me ek request multiple microservices se hokar jaati hai aur failure ka root cause identify karna difficult hai. Observability kaise implement karoge?": False,
