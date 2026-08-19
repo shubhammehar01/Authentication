@@ -431,7 +431,7 @@ FlyVehicles = {
 
 # 9. GandhiMarch (50 items)
 GandhiMarch = {
-    'Gandhi ji ne 1930 me Dandi march kiya tha.': False,
+    'Gandhi ji ne 1930 me Dandi march kiya tha.': True,
     'Dandi March se freedom struggle me log jude.': False,
     'Is march ne British economy ko bada jhatka diya.': False,
     'Sabarmati Ashram se ahimsa ki yatra shuru hui.': False,
