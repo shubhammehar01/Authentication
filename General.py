@@ -53,7 +53,7 @@ AnimalPicture = {
 
 # 2. War (50 items)
 War = {
-    'History ki sabse lambi jang sirf 38 minute chali thi.': False,
+    'History ki sabse lambi jang sirf 38 minute chali thi.': True,
     'World War me pigeons ne secret messages deliver kiye the.': False,
     'Purane zamane me war ke liye haathiyo ka use hota hai.': False,
     'Enigma machine ne World War 2 ka rukh badal diya tha.': False,
