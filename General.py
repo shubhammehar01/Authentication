@@ -215,7 +215,7 @@ NaturalDisaster = {
 
 # 5. SeaCreature (50 items)
 SeaCreature = {
-    'Blue Whale ka dil ek choti car ke size ka hota hai.': False,
+    'Blue Whale ka dil ek choti car ke size ka hota hai.': True,
     'Deep sea ki machliyan bioluminescence paida karti hain.': False,
     'Shark ki skin par teeth jaisi scales hoti hain.': False,
     'Coral reefs ko samundar ka rain forest kehte hain.': False,
