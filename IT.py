@@ -1,5 +1,5 @@
 Java = {
-    "Java application me memory usage continuously badh raha hai. Memory leak ko kaise identify aur fix karoge?": False,
+    "Java application me memory usage continuously badh raha hai. Memory leak ko kaise identify aur fix karoge?": True,
     "Java me multiple threads same shared resource ko access kar rahe hain. Thread safety kaise ensure karoge?": False,
     "Production me Java application ke response time suddenly slow ho gaye. Performance issue ko kaise diagnose karoge?": False,
     "Java application me NullPointerException frequently aa rahi hai. Root cause identify karke issue ko kaise prevent karoge?": False,
