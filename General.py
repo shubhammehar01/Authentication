@@ -272,7 +272,7 @@ factoryEngineers = {
     'Factories me AI aur robots se production fast ho gaya hai.': True,
     'CNC machines metal cutting me 100% precision deti hain.': True,
     'Factory safety ke liye emergency shutdowns hote hain.': True,
-    'Automobile lines par cars kuch ghante me banti hain.': False,
+    'Automobile lines par cars kuch ghante me banti hain.': True,
     'Engineers energy save karne ke liye solar use karte hain.': False,
     'Industrial automation human error ko minimize karta hai.': False,
     'Robotic arms welding aur painting ke liye use hoti hain.': False,
