@@ -326,7 +326,7 @@ CivilizationAncientPeople = {
     'Indus Valley me advanced underground drainage tha.': True,
     'Egyptians ne bina modern machines ke pyramids banaye.': True,
     'Maya civilization ka calendar bilkul sateek tha.': True,
-    'Mesopotamia me sabse pehli written script bani thi.': False,
+    'Mesopotamia me sabse pehli written script bani thi.': True,
     'Purane log cave me hunting ki painting banate the.': False,
     'Sumerians ne wheel (pahiya) invent kiya tha.': False,
     'Chinese civilization ne paper aur gunpowder banaye the.': False,
