@@ -158,7 +158,7 @@ JavaScript = {
 }
 
 SQL = {
-    "Database query bahut slow execute ho rahi hai aur table me millions of records hain. Query performance kaise improve karoge?": False,
+    "Database query bahut slow execute ho rahi hai aur table me millions of records hain. Query performance kaise improve karoge?": True,
     "Do tables ke join ke baad duplicate records aa rahe hain. Root cause identify karke query ko kaise fix karoge?": False,
     "Production database me ek query bahut zyada CPU consume kar rahi hai. Is query ko kaise analyze aur optimize karoge?": False,
     "High traffic application me same SQL query baar-baar execute ho rahi hai. Database load kam karne ke liye kya strategy use karoge?": False,
