@@ -2,7 +2,7 @@ AnimalPicture = {
     'Janwaron ki aankhe andhere me 6 guna zyada roshni dekhti hain.': True,
     'Kuch birds bina ruke kai hafton tak hawa me so sakte hain.': True,
     'Octopus ke paas 3 dil aur neela khoon hota hai.': True,
-    'Sher ki dahad 8 km door tak sunai deti hai.': False,
+    'Sher ki dahad 8 km door tak sunai deti hai.': True,
     'Bhalu thand me mahino tak hibernation me sote hain.': False,
     'Cheetah ki speed 100 km/h tak pahunch sakti hai.': False,
     'Giraffe ki jeebh 20 inch lambi aur neele rang ki hoti hai.': False,
