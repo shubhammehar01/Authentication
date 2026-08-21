@@ -795,7 +795,7 @@ Git = {
 
 Redis = {
     "App ko database load kam karne ke liye frequently accessed data cache karni hai. Redis ke sath caching strategy kaise design karoge?": True,
-    "Underlying data change hone ke baad cached value stale ho jati hai. Cache invalidation kaise handle karoge?": False,
+    "Underlying data change hone ke baad cached value stale ho jati hai. Cache invalidation kaise handle karoge?": True,
     "Multiple app instances ke across Redis se distributed lock implement karna hai. Kaise karoge?": False,
     "Aapka Redis cache bahut zyada memory consume kar raha hai. Memory usage kaise diagnose aur control karoge?": False,
     "Redis temporarily unavailable ho jaaye to application ko database par automatically fallback karna hai. Ye strategy kaise implement karoge?": False,
