@@ -636,7 +636,7 @@ AIAPIIntegration = {
 
 CollectionFramework = {
     "Java application me bahut large number of elements store karne hain. ArrayList aur LinkedList me se appropriate collection kaise choose karoge?": True,
-    "Aapko unique elements maintain karne hain aur fast lookup bhi chahiye. Kaunsi collection use karoge aur kyun?": False,
+    "Aapko unique elements maintain karne hain aur fast lookup bhi chahiye. Kaunsi collection use karoge aur kyun?": True,
     "Application me key-value data store karna hai aur fast lookup required hai. Kaunsi Map implementation choose karoge?": False,
     "Collection ko iterate karte waqt elements remove karne hain. ConcurrentModificationException se kaise bachoge?": False,
     "Large dataset me sorted elements continuously maintain karne hain. Kaunsi Java collection appropriate hogi?": False,
