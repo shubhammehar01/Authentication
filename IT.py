@@ -479,7 +479,7 @@ DSA = {
     "Aapke paas ek large array hai aur efficiently duplicate elements find karne hain. Kaunsi approach use karoge aur kyun?": True,
     "Ek string me first non-repeating character efficiently find karna hai. Algorithm kaise design karoge?": True,
     "Large dataset me kisi element ko repeatedly search karna hai. Search operation ko optimize kaise karoge?": True,
-    "Graph me shortest path find karna hai jahan edges ki weights different hain. Kaunsa algorithm use karoge aur kyun?": False,
+    "Graph me shortest path find karna hai jahan edges ki weights different hain. Kaunsa algorithm use karoge aur kyun?": True,
     "Aapko continuously incoming elements me top K largest elements maintain karne hain. Kaunsi data structure use karoge?": False,
     "Two Pointers Technique: Sorted array me Two Sum problem O(N) time and O(1) space complexity me kaise solve karein?": False,
     "Sliding Window Protocol: Variable vs Fixed Size window Maximum Subarray Sum / Longest Substring problems?": False,
