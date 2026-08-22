@@ -648,7 +648,7 @@ Machines = {
 
 # 13. ScientistExperiments (50 items)
 ScientistExperiments = {
-    'CERN ka Collider universe ke raaz kholta hai.': False,
+    'CERN ka Collider universe ke raaz kholta hai.': True,
     'CRISPR gene editing se DNA me badlav hota hai.': False,
     'Quantum physics me particles ajeeb state me hote hain.': False,
     'Nanotechnology me atomic scale par work hota hai.': False,
