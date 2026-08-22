@@ -486,7 +486,7 @@ GandhiMarch = {
 
 # 10. PoliceSearching (50 items)
 PoliceSearching = {
-    'Forensic science me DNA profiling bada hathiyar hai.': False,
+    'Forensic science me DNA profiling bada hathiyar hai.': True,
     'CCTV footage se criminal tezi se pakde jaate hain.': False,
     'Trained police dogs ki sunghne ki shakti tez hoti hai.': False,
     'Cyber cells online frauds ko track karte hain.': False,
