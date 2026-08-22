@@ -847,7 +847,7 @@ Redis = {
 }
 
 RestAPIDesign = {
-    "Aapko ek REST API design karni hai jo millions of users ko serve kare. API ko scalable kaise design karoge?": False,
+    "Aapko ek REST API design karni hai jo millions of users ko serve kare. API ko scalable kaise design karoge?": True,
     "REST API me client ko sirf required fields return karni hain taaki response size kam ho. Isko kaise design karoge?": False,
     "API me ek request successfully process ho gayi lekin client ko response nahi mila aur client ne request retry kar di. Duplicate operation kaise prevent karoge?": False,
     "REST API me breaking changes introduce karni hain lekin existing clients bhi support karne hain. API versioning kaise handle karoge?": False,
