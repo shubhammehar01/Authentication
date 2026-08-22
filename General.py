@@ -596,7 +596,7 @@ RoketSatellite = {
 Machines = {
     'Industrial machines kharab hone ki warning de deti hain.': True,
     'Quantum computers complex calculations fast solve karte hain.': True,
-    '3D printing se metal parts ghar print hote hain.': False,
+    '3D printing se metal parts ghar print hote hain.': True,
     'Excavators big construction projects me use hote hain.': False,
     'Automated weaving looms tezi se kapde banate hain.': False,
     'CNC mills computer program se metal shape karti hain.': False,
