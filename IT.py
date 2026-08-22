@@ -211,7 +211,7 @@ SQL = {
 }
 
 SpringBoot = {
-    "Spring Boot application ka startup time bahut high hai. Startup performance improve karne ke liye kya check karoge?": False,
+    "Spring Boot application ka startup time bahut high hai. Startup performance improve karne ke liye kya check karoge?": True,
     "Spring Boot API par suddenly high traffic aa gaya aur response time increase ho gaya. Application ko kaise scale karoge?": False,
     "Spring Boot application me ek service failure ki wajah se multiple APIs fail ho rahi hain. Is problem ko kaise handle karoge?": False,
     "Spring Boot application me configuration values different environments ke liye alag rakhni hain. Isko kaise design karoge?": False,
