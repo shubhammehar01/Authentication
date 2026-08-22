@@ -599,7 +599,7 @@ Machines = {
     '3D printing se metal parts ghar print hote hain.': True,
     'Excavators big construction projects me use hote hain.': True,
     'Automated weaving looms tezi se kapde banate hain.': True,
-    'CNC mills computer program se metal shape karti hain.': False,
+    'CNC mills computer program se metal shape karti hain.': True,
     'Lathe machine rotation se cylindrical parts banati hai.': False,
     'Injection molding plastic products mass produce karti hai.': False,
     'Robotic arms electronics assembly me precision deti hain.': False,
