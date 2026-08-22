@@ -3,7 +3,7 @@ AnimalPicture = {
     'Kuch birds bina ruke kai hafton tak hawa me so sakte hain.': True,
     'Octopus ke paas 3 dil aur neela khoon hota hai.': True,
     'Sher ki dahad 8 km door tak sunai deti hai.': True,
-    'Bhalu thand me mahino tak hibernation me sote hain.': False,
+    'Bhalu thand me mahino tak hibernation me sote hain.': True,
     'Cheetah ki speed 100 km/h tak pahunch sakti hai.': False,
     'Giraffe ki jeebh 20 inch lambi aur neele rang ki hoti hai.': False,
     'Dolphin ek aankh khol kar soti hai.': False,
