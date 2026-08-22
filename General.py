@@ -600,7 +600,7 @@ Machines = {
     'Excavators big construction projects me use hote hain.': True,
     'Automated weaving looms tezi se kapde banate hain.': True,
     'CNC mills computer program se metal shape karti hain.': True,
-    'Lathe machine rotation se cylindrical parts banati hai.': False,
+    'Lathe machine rotation se cylindrical parts banati hai.': True,
     'Injection molding plastic products mass produce karti hai.': False,
     'Robotic arms electronics assembly me precision deti hain.': False,
     'Conveyor systems material handling easy banate hain.': False,
