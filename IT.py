@@ -797,7 +797,7 @@ Redis = {
     "App ko database load kam karne ke liye frequently accessed data cache karni hai. Redis ke sath caching strategy kaise design karoge?": True,
     "Underlying data change hone ke baad cached value stale ho jati hai. Cache invalidation kaise handle karoge?": True,
     "Multiple app instances ke across Redis se distributed lock implement karna hai. Kaise karoge?": True,
-    "Aapka Redis cache bahut zyada memory consume kar raha hai. Memory usage kaise diagnose aur control karoge?": False,
+    "Aapka Redis cache bahut zyada memory consume kar raha hai. Memory usage kaise diagnose aur control karoge?": True,
     "Redis temporarily unavailable ho jaaye to application ko database par automatically fallback karna hai. Ye strategy kaise implement karoge?": False,
     "Redis Data Structures Selection: Strings, Hashes, Lists, Sets, Sorted Sets (ZSET), Bitmaps, HyperLogLogs, Geospatial?": False,
     "Redis Persistence Mechanisms: RDB (Redis Database Snapshots) vs AOF (Append Only File) vs Hybrid Persistence?": False,
