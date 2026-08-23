@@ -324,7 +324,7 @@ React = {
     "React application me user ke browser refresh karne ke baad state lose ho jaati hai. Is problem ko kaise handle karoge?": True,
     "React Virtual DOM Reconciliation Algorithm (Fiber Architecture) Priority Scheduling and Concurrent Rendering mechanics?": True,
     "React `useMemo` and `useCallback` hooks memoization usage performance overhead balance optimization?": True,
-    "React Custom Hooks extraction stateful logic reusability clean code architecture design patterns?": False,
+    "React Custom Hooks extraction stateful logic reusability clean code architecture design patterns?": True,
     "React Component Lifecycle vs `useEffect` hook dependencies array stale closures bugs prevention?": False,
     "React Context API performance re-rendering issues mitigation splitting contexts vs Redux/Zustand libraries?": False,
     "React State Management Comparison: Redux Toolkit vs Zustand vs Jotai vs Recoil architectural trade-offs?": False,
