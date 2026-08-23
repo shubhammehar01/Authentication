@@ -264,7 +264,7 @@ SpringBoot = {
 }
 
 MySql = {
-    "MySQL table me millions of records hain aur SELECT query bahut slow ho gayi hai. Performance improve kaise karoge?": False,
+    "MySQL table me millions of records hain aur SELECT query bahut slow ho gayi hai. Performance improve kaise karoge?": True,
     "MySQL database me deadlock frequently occur ho raha hai. Deadlock kaise diagnose aur prevent karoge?": False,
     "MySQL database ka disk usage rapidly increase ho raha hai. Storage consumption ko kaise analyze aur control karoge?": False,
     "High traffic ke time MySQL database maximum connections tak pahunch jaata hai. Is problem ko kaise solve karoge?": False,
