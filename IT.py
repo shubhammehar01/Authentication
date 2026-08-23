@@ -903,7 +903,7 @@ MicroservicesArchitecture = {
     "Ek microservice temporarily down ho jaati hai aur uski wajah se dependent services bhi fail hone lagti hain. Is cascading failure ko kaise prevent karoge?": True,
     "Multiple microservices ko ek transaction me data update karna hai. Distributed transaction ko kaise handle karoge?": True,
     "Microservices architecture me services ke beech communication bahut slow ho raha hai. Performance improve kaise karoge?": True,
-    "Production me ek request multiple microservices se hokar jaati hai aur failure ka root cause identify karna difficult hai. Observability kaise implement karoge?": False,
+    "Production me ek request multiple microservices se hokar jaati hai aur failure ka root cause identify karna difficult hai. Observability kaise implement karoge?": True,
     "Microservices ki number rapidly increase ho rahi hai aur service discovery manage karna difficult ho raha hai. Architecture ko kaise design karoge?": False,
     "Monolithic to Microservices Migration Strategies: Strangler Fig Pattern, Domain-Driven Design Bounded Contexts?": False,
     "Service Discovery Pattern: Client-Side Discovery vs Server-Side Discovery (Eureka, Consul, Kubernetes DNS)?": False,
