@@ -423,7 +423,7 @@ Docker = {
 }
 
 AWS = {
-    "AWS par deployed application par traffic suddenly increase ho gaya. Application ko automatically scale kaise karoge?": False,
+    "AWS par deployed application par traffic suddenly increase ho gaya. Application ko automatically scale kaise karoge?": True,
     "AWS me application ke sensitive credentials securely store karne hain. Kaunsi service aur approach use karoge?": False,
     "AWS application ka monthly cost unexpectedly increase ho gaya. Cost ko analyze aur optimize kaise karoge?": False,
     "AWS par application ka single server fail ho gaya aur service unavailable ho gayi. High availability kaise design karoge?": False,
