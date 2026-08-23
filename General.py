@@ -110,7 +110,7 @@ IndiaPak = {
     'Wagah Border ki Beating Retreat ceremony iconic hai.': True,
     'India-Pak border line ko Radcliffe Line kehte hain.': True,
     'Siachen Glacier duniya ka sabse uncha militarized zone hai.': True,
-    '1971 war ke baad Shimla Agreement sign hua tha.': False,
+    '1971 war ke baad Shimla Agreement sign hua tha.': True,
     'Dono desho ki cultural roots aapas me judi hain.': False,
     '1947 me partition ke baad dono nations independent hue the.': False,
     'Indus Waters Treaty rivers ke paani ko divide karti hai.': False,
