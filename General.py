@@ -602,7 +602,7 @@ Machines = {
     'CNC mills computer program se metal shape karti hain.': True,
     'Lathe machine rotation se cylindrical parts banati hai.': True,
     'Injection molding plastic products mass produce karti hai.': True,
-    'Robotic arms electronics assembly me precision deti hain.': False,
+    'Robotic arms electronics assembly me precision deti hain.': True,
     'Conveyor systems material handling easy banate hain.': False,
     'Hydraulic presses heavy metal stamping ke liye hoti hain.': False,
     'Steam turbines power plants me electricity generate karte hain.': False,
