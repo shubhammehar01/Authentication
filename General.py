@@ -164,7 +164,7 @@ NaturalDisaster = {
     'Ring of Fire me duniya ke 75% active volcanoes hain.': True,
     'Tsunami waves samundar ke andar bhookamp se banti hain.': True,
     'Duniya ka sabse bada volcano Mauna Loa hai.': True,
-    'Jungle ki aag garmi aur sadi patti se lagati hai.': False,
+    'Jungle ki aag garmi aur sadi patti se lagati hai.': True,
     'Richter scale par earthquake ki intensity measure hoti hai.': False,
     'Hurricanes aur typhoons tropical oceans me bante hain.': False,
     'Tornadoes ki wind speed 400 km/h tak ho sakti hai.': False,
