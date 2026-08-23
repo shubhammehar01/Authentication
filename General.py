@@ -601,7 +601,7 @@ Machines = {
     'Automated weaving looms tezi se kapde banate hain.': True,
     'CNC mills computer program se metal shape karti hain.': True,
     'Lathe machine rotation se cylindrical parts banati hai.': True,
-    'Injection molding plastic products mass produce karti hai.': False,
+    'Injection molding plastic products mass produce karti hai.': True,
     'Robotic arms electronics assembly me precision deti hain.': False,
     'Conveyor systems material handling easy banate hain.': False,
     'Hydraulic presses heavy metal stamping ke liye hoti hain.': False,
