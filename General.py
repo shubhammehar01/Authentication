@@ -379,7 +379,7 @@ CivilizationAncientPeople = {
 FlyVehicles = {
     'Future ki flying taxis eVTOL tech par base hain.': True,
     'Supersonic jets London se New York safar aadha karenge.': True,
-    'Delivery drones GPS tracking se packages bhejte hain.': False,
+    'Delivery drones GPS tracking se packages bhejte hain.': True,
     'Lightweight materials se planes ka wajan kam hota hai.': False,
     'Mars ke liye special flying drones design huye hain.': False,
     'Wright brothers ne 1903 me pehli flight fly ki thi.': False,
