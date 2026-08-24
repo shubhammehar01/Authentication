@@ -56,7 +56,7 @@ War = {
     'History ki sabse lambi jang sirf 38 minute chali thi.': True,
     'World War me pigeons ne secret messages deliver kiye the.': True,
     'Purane zamane me war ke liye haathiyo ka use hota hai.': True,
-    'Enigma machine ne World War 2 ka rukh badal diya tha.': False,
+    'Enigma machine ne World War 2 ka rukh badal diya tha.': True,
     'Purane kile aisi engineering se bante the jo todna namumkin tha.': False,
     'Spartan warriors bachpan se hi military training shuru kar dete the.': False,
     'Roman empire ke paas world ki sabse disciplined army thi.': False,
