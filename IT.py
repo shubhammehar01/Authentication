@@ -691,7 +691,7 @@ OOPs = {
     "Aapko ek application design karni hai jisme different payment methods hain. OOP concepts ka use karke design kaise karoge?": True,
     "Existing class ke behavior ko modify kiye bina additional functionality add karni hai. Kaunsa OOP principle use karoge?": True,
     "Application me multiple classes ka same method name hai lekin behavior different hai. Is situation ko kaise design karoge?": True,
-    "Aap chahte ho ki kisi class ke internal data ko directly outside code modify na kar sake. Isko kaise implement karोगे?": False,
+    "Aap chahte ho ki kisi class ke internal data ko directly outside code modify na kar sake. Isko kaise implement karोगे?": True,
     "Large application me inheritance ka excessive use maintainability problem create kar raha hai. Isko kaise improve karoge?": False,
     "SOLID Principles Deep Dive: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion?": False,
     "Encapsulation vs Abstraction Data Hiding vs Implementation Hiding architectural clean design distinction?": False,
