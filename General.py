@@ -165,7 +165,7 @@ NaturalDisaster = {
     'Tsunami waves samundar ke andar bhookamp se banti hain.': True,
     'Duniya ka sabse bada volcano Mauna Loa hai.': True,
     'Jungle ki aag garmi aur sadi patti se lagati hai.': True,
-    'Richter scale par earthquake ki intensity measure hoti hai.': False,
+    'Richter scale par earthquake ki intensity measure hoti hai.': True,
     'Hurricanes aur typhoons tropical oceans me bante hain.': False,
     'Tornadoes ki wind speed 400 km/h tak ho sakti hai.': False,
     'Avalanche snow slopes par achanak slide hone se hota hai.': False,
