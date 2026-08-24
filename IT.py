@@ -371,7 +371,7 @@ React = {
 
 Docker = {
     "Docker container ka memory usage continuously increase ho raha hai. Is issue ko kaise diagnose aur control karoge?": True,
-    "Docker image ka size bahut large hai aur deployment slow ho raha hai. Image size kaise reduce karoge?": False,
+    "Docker image ka size bahut large hai aur deployment slow ho raha hai. Image size kaise reduce karoge?": True,
     "Docker container production me unexpectedly crash ho raha hai. Root cause identify karne ke liye kya steps follow karoge?": False,
     "Multiple Docker containers ko ek application ke liye communicate karna hai. Networking kaise configure karoge?": False,
     "Application aur database ko Docker containers me run karna hai aur data container restart ke baad bhi preserve rehna chahiye. Kaise design karoge?": False,
