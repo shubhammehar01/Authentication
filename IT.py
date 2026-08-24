@@ -2,7 +2,7 @@ Java = {
     "Java application me memory usage continuously badh raha hai. Memory leak ko kaise identify aur fix karoge?": True,
     "Java me multiple threads same shared resource ko access kar rahe hain. Thread safety kaise ensure karoge?": True,
     "Production me Java application ke response time suddenly slow ho gaye. Performance issue ko kaise diagnose karoge?": True,
-    "Java application me NullPointerException frequently aa rahi hai. Root cause identify karke issue ko kaise prevent karoge?": False,
+    "Java application me NullPointerException frequently aa rahi hai. Root cause identify karke issue ko kaise prevent karoge?": True,
     "Large amount of data process karte waqt Java application OutOfMemoryError de rahi hai. Is problem ko kaise solve karoge?": False,
     "High CPU usage spike Java process me trace karne ke liye JStack aur JConsole ka use kaise karoge?": False,
     "Java application me Garbage Collection pauses ki wajah se latency badh rahi hai. GC tuning kaise karoge?": False,
