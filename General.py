@@ -651,7 +651,7 @@ ScientistExperiments = {
     'CERN ka Collider universe ke raaz kholta hai.': True,
     'CRISPR gene editing se DNA me badlav hota hai.': True,
     'Quantum physics me particles ajeeb state me hote hain.': True,
-    'Nanotechnology me atomic scale par work hota hai.': False,
+    'Nanotechnology me atomic scale par work hota hai.': True,
     'Labs me controlled reactions se medicines banti hain.': False,
     'Double-slit experiment light ka wave-particle duality show karta hai.': False,
     'Schrödinger cat thought experiment quantum superposition explain karta hai.': False,
