@@ -6,7 +6,7 @@ AnimalPicture = {
     'Bhalu thand me mahino tak hibernation me sote hain.': True,
     'Cheetah ki speed 100 km/h tak pahunch sakti hai.': True,
     'Giraffe ki jeebh 20 inch lambi aur neele rang ki hoti hai.': True,
-    'Dolphin ek aankh khol kar soti hai.': False,
+    'Dolphin ek aankh khol kar soti hai.': True,
     'Kangaroo ulta nahi chal sakte hain.': False,
     'Elephant jump nahi kar sakte hain.': False,
     'Butterfly apne pairo se swad leti hai.': False,
