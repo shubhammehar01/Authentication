@@ -540,7 +540,7 @@ PoliceSearching = {
 
 # 11. RoketSatellite (50 items)
 RoketSatellite = {
-    'SpaceX ke rockets wapas zameen par safe land hote hain.': False,
+    'SpaceX ke rockets wapas zameen par safe land hote hain.': True,
     'Communication satellites internet signals deti hain.': False,
     'ISRO ke launch vehicles cost-effective hote hain.': False,
     'Space debris active satellites ke liye khatra hai.': False,
