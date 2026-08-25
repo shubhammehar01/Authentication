@@ -530,7 +530,7 @@ DSA = {
 
 SystemDesign = {
     "Aapko ek URL Shortener system design karna hai jo millions of requests handle kare. Architecture kaise design karoge?": True,
-    "Aapko ek highly scalable notification system design karna hai jo millions of users ko notifications bhej sake. Kaise design karoge?": False,
+    "Aapko ek highly scalable notification system design karna hai jo millions of users ko notifications bhej sake. Kaise design karoge?": True,
     "Aapki application par sudden traffic spike aata hai aur servers overload ho jaate hain. System ko resilient kaise banaoge?": False,
     "Distributed system me multiple services ko same data ki requirement hai. Data consistency aur scalability kaise maintain karoge?": False,
     "Aapko ek system design karna hai jahan users real-time messages exchange kar saken. Architecture kaise design karoge?": False,
