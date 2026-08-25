@@ -329,7 +329,7 @@ CivilizationAncientPeople = {
     'Mesopotamia me sabse pehli written script bani thi.': True,
     'Purane log cave me hunting ki painting banate the.': True,
     'Sumerians ne wheel (pahiya) invent kiya tha.': True,
-    'Chinese civilization ne paper aur gunpowder banaye the.': False,
+    'Chinese civilization ne paper aur gunpowder banaye the.': True,
     'Greek civilization me democracy aur philosophy start hui thi.': False,
     'Roman empire apne roads aur aqueducts ke liye famous tha.': False,
     'Inca civilization ne Andes mountains me roads banaye the.': False,
