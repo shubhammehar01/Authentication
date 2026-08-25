@@ -111,7 +111,7 @@ IndiaPak = {
     'India-Pak border line ko Radcliffe Line kehte hain.': True,
     'Siachen Glacier duniya ka sabse uncha militarized zone hai.': True,
     '1971 war ke baad Shimla Agreement sign hua tha.': True,
-    'Dono desho ki cultural roots aapas me judi hain.': False,
+    'Dono desho ki cultural roots aapas me judi hain.': True,
     '1947 me partition ke baad dono nations independent hue the.': False,
     'Indus Waters Treaty rivers ke paani ko divide karti hai.': False,
     'Lahore Bus Yatra peace initiative ka ek hissa thi.': False,
