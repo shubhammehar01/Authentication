@@ -435,7 +435,7 @@ GandhiMarch = {
     'Dandi March se freedom struggle me log jude.': True,
     'Is march ne British economy ko bada jhatka diya.': True,
     'Sabarmati Ashram se ahimsa ki yatra shuru hui.': True,
-    'Is movement ne Indian independence ko taqat di.': False,
+    'Is movement ne Indian independence ko taqat di.': True,
     'Salt Satyagraha british salt tax ke against tha.': False,
     'Dandi march 385 kilometers long foot march thi.': False,
     '78 followers ne Gandhi ji ke sath march start kiya tha.': False,
