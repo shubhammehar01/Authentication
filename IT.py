@@ -904,7 +904,7 @@ MicroservicesArchitecture = {
     "Multiple microservices ko ek transaction me data update karna hai. Distributed transaction ko kaise handle karoge?": True,
     "Microservices architecture me services ke beech communication bahut slow ho raha hai. Performance improve kaise karoge?": True,
     "Production me ek request multiple microservices se hokar jaati hai aur failure ka root cause identify karna difficult hai. Observability kaise implement karoge?": True,
-    "Microservices ki number rapidly increase ho rahi hai aur service discovery manage karna difficult ho raha hai. Architecture ko kaise design karoge?": False,
+    "Microservices ki number rapidly increase ho rahi hai aur service discovery manage karna difficult ho raha hai. Architecture ko kaise design karoge?": True,
     "Monolithic to Microservices Migration Strategies: Strangler Fig Pattern, Domain-Driven Design Bounded Contexts?": False,
     "Service Discovery Pattern: Client-Side Discovery vs Server-Side Discovery (Eureka, Consul, Kubernetes DNS)?": False,
     "API Gateway Pattern: Centralized Routing, Rate Limiting, Authentication, Protocol Translation (BFF Pattern)?": False,
