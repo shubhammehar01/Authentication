@@ -7,7 +7,7 @@ AnimalPicture = {
     'Cheetah ki speed 100 km/h tak pahunch sakti hai.': True,
     'Giraffe ki jeebh 20 inch lambi aur neele rang ki hoti hai.': True,
     'Dolphin ek aankh khol kar soti hai.': True,
-    'Kangaroo ulta nahi chal sakte hain.': False,
+    'Kangaroo ulta nahi chal sakte hain.': True,
     'Elephant jump nahi kar sakte hain.': False,
     'Butterfly apne pairo se swad leti hai.': False,
     'Shark ki haddiyan nahi hoti, poora skeleton cartilage ka hota hai.': False,
