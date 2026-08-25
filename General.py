@@ -274,7 +274,7 @@ factoryEngineers = {
     'Factory safety ke liye emergency shutdowns hote hain.': True,
     'Automobile lines par cars kuch ghante me banti hain.': True,
     'Engineers energy save karne ke liye solar use karte hain.': True,
-    'Industrial automation human error ko minimize karta hai.': False,
+    'Industrial automation human error ko minimize karta hai.': True,
     'Robotic arms welding aur painting ke liye use hoti hain.': False,
     'Quality control sensors defective products detect karte hain.': False,
     'Lean manufacturing waste reduce karne par focus karti hai.': False,
