@@ -799,7 +799,7 @@ Redis = {
     "Multiple app instances ke across Redis se distributed lock implement karna hai. Kaise karoge?": True,
     "Aapka Redis cache bahut zyada memory consume kar raha hai. Memory usage kaise diagnose aur control karoge?": True,
     "Redis temporarily unavailable ho jaaye to application ko database par automatically fallback karna hai. Ye strategy kaise implement karoge?": True,
-    "Redis Data Structures Selection: Strings, Hashes, Lists, Sets, Sorted Sets (ZSET), Bitmaps, HyperLogLogs, Geospatial?": False,
+    "Redis Data Structures Selection: Strings, Hashes, Lists, Sets, Sorted Sets (ZSET), Bitmaps, HyperLogLogs, Geospatial?": True,
     "Redis Persistence Mechanisms: RDB (Redis Database Snapshots) vs AOF (Append Only File) vs Hybrid Persistence?": False,
     "Redis Memory Eviction Policies: volatile-lru, allkeys-lru, volatile-lfu, allkeys-lfu, volatile-ttl, noeviction?": False,
     "Redis Cache Stampede / Thundering Herd Problem Mitigation: Probabilistic Early Expiration (XFetch), Mutex Locking?": False,
