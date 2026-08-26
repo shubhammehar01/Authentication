@@ -213,7 +213,7 @@ SQL = {
 SpringBoot = {
     "Spring Boot application ka startup time bahut high hai. Startup performance improve karne ke liye kya check karoge?": True,
     "Spring Boot API par suddenly high traffic aa gaya aur response time increase ho gaya. Application ko kaise scale karoge?": True,
-    "Spring Boot application me ek service failure ki wajah se multiple APIs fail ho rahi hain. Is problem ko kaise handle karoge?": False,
+    "Spring Boot application me ek service failure ki wajah se multiple APIs fail ho rahi hain. Is problem ko kaise handle karoge?": True,
     "Spring Boot application me configuration values different environments ke liye alag rakhni hain. Isko kaise design karoge?": False,
     "Production Spring Boot application me database connection pool exhaust ho raha hai. Root cause aur solution kya hoga?": False,
     "Spring Bean Scope (Singleton, Prototype, Request, Session) multithreaded state safety management design?": False,
