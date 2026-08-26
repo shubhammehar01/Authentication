@@ -583,7 +583,7 @@ SystemDesign = {
 
 AIAPIIntegration = {
     "Application me AI API integrate karni hai lekin API response kabhi-kabhi slow hota hai. User experience improve kaise karoge?": True,
-    "AI API ke requests ki cost bahut high ho rahi hai. API usage aur cost ko kaise optimize karoge?": False,
+    "AI API ke requests ki cost bahut high ho rahi hai. API usage aur cost ko kaise optimize karoge?": True,
     "AI API temporarily unavailable ho jaati hai. Application ko failure ke against resilient kaise banaoge?": False,
     "AI API ko user-generated sensitive data bhejna hai. Data security aur privacy kaise handle karoge?": False,
     "AI API ke response ko repeatedly generate karne ki requirement nahi hai. Unnecessary API calls avoid karne ke liye kya strategy use karoge?": False,
