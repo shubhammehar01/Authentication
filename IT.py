@@ -482,7 +482,7 @@ DSA = {
     "Graph me shortest path find karna hai jahan edges ki weights different hain. Kaunsa algorithm use karoge aur kyun?": True,
     "Aapko continuously incoming elements me top K largest elements maintain karne hain. Kaunsi data structure use karoge?": True,
     "Two Pointers Technique: Sorted array me Two Sum problem O(N) time and O(1) space complexity me kaise solve karein?": True,
-    "Sliding Window Protocol: Variable vs Fixed Size window Maximum Subarray Sum / Longest Substring problems?": False,
+    "Sliding Window Protocol: Variable vs Fixed Size window Maximum Subarray Sum / Longest Substring problems?": True,
     "Binary Search Variations: Rotated Sorted Array search, Lower Bound/Upper Bound, Search in 2D Matrix O(log N)?": False,
     "Fast and Slow Pointers (Floyd's Cycle Detection Algorithm) Linked List cycle detection and starting node finding?": False,
     "Linked List In-place Reversal: Singly Linked List reverse iterative vs recursive approach memory constraints?": False,
