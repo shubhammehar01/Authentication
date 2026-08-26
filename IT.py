@@ -638,7 +638,7 @@ CollectionFramework = {
     "Java application me bahut large number of elements store karne hain. ArrayList aur LinkedList me se appropriate collection kaise choose karoge?": True,
     "Aapko unique elements maintain karne hain aur fast lookup bhi chahiye. Kaunsi collection use karoge aur kyun?": True,
     "Application me key-value data store karna hai aur fast lookup required hai. Kaunsi Map implementation choose karoge?": True,
-    "Collection ko iterate karte waqt elements remove karne hain. ConcurrentModificationException se kaise bachoge?": False,
+    "Collection ko iterate karte waqt elements remove karne hain. ConcurrentModificationException se kaise bachoge?": True,
     "Large dataset me sorted elements continuously maintain karne hain. Kaunsi Java collection appropriate hogi?": False,
     "HashMap Internal Working Mechanics: Bucketing, Hash Code Collisions, Treeification (LinkedList to Red-Black Tree threshold)?": False,
     "ConcurrentHashMap vs SynchronizedMap vs Hashtable: Segment Locking vs Bucket Locking concurrency performance?": False,
