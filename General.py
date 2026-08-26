@@ -59,7 +59,7 @@ War = {
     'Enigma machine ne World War 2 ka rukh badal diya tha.': True,
     'Purane kile aisi engineering se bante the jo todna namumkin tha.': True,
     'Spartan warriors bachpan se hi military training shuru kar dete the.': True,
-    'Roman empire ke paas world ki sabse disciplined army thi.': False,
+    'Roman empire ke paas world ki sabse disciplined army thi.': True,
     'Trojan war me wooden horse ka use kiya gaya tha.': False,
     'Samurai warriors Japan me honor ke liye jeete the.': False,
     'World War 1 me tank sabse pehle use kiye gaye the.': False,
