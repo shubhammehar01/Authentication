@@ -381,7 +381,7 @@ FlyVehicles = {
     'Supersonic jets London se New York safar aadha karenge.': True,
     'Delivery drones GPS tracking se packages bhejte hain.': True,
     'Lightweight materials se planes ka wajan kam hota hai.': True,
-    'Mars ke liye special flying drones design huye hain.': False,
+    'Mars ke liye special flying drones design huye hain.': True,
     'Wright brothers ne 1903 me pehli flight fly ki thi.': False,
     'Commercial airplanes jet engines par operate karte hain.': False,
     'Helicopters vertical takeoff aur landing kar sakte hain.': False,
