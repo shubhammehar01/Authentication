@@ -112,7 +112,7 @@ IndiaPak = {
     'Siachen Glacier duniya ka sabse uncha militarized zone hai.': True,
     '1971 war ke baad Shimla Agreement sign hua tha.': True,
     'Dono desho ki cultural roots aapas me judi hain.': True,
-    '1947 me partition ke baad dono nations independent hue the.': False,
+    '1947 me partition ke baad dono nations independent hue the.': True,
     'Indus Waters Treaty rivers ke paani ko divide karti hai.': False,
     'Lahore Bus Yatra peace initiative ka ek hissa thi.': False,
     'Cricket matches dono countries me high voltage emotions laate hain.': False,
