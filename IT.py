@@ -745,7 +745,7 @@ Git = {
     "Galti se sensitive file commit karke Git repository me push kar di hai. Ab us file ko safely remove kaise karoge?": True,
     "Production branch me accidentally incorrect commit push ho gaya. Is change ko safely rollback kaise karoge?": True,
     "Feature branch ke changes ko latest main branch ke saath synchronize karna hai. Kaunsa Git workflow follow karoge?": True,
-    "Team me multiple developers parallel features par kaam kar rahe hain. Git branching strategy kaise design karoge?": False,
+    "Team me multiple developers parallel features par kaam kar rahe hain. Git branching strategy kaise design karoge?": True,
     "Git Merge vs Git Rebase: Linear Commit History vs Preservation of Merge Commits trade-offs?": False,
     "Git Reset (Soft vs Mixed vs Hard Reset) Staging Area and Working Directory state alterations?": False,
     "Git Revert vs Git Reset: Public Published Branches commit undo safely without history rewriting?": False,
