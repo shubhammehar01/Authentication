@@ -168,7 +168,7 @@ NaturalDisaster = {
     'Richter scale par earthquake ki intensity measure hoti hai.': True,
     'Hurricanes aur typhoons tropical oceans me bante hain.': True,
     'Tornadoes ki wind speed 400 km/h tak ho sakti hai.': True,
-    'Avalanche snow slopes par achanak slide hone se hota hai.': False,
+    'Avalanche snow slopes par achanak slide hone se hota hai.': True,
     'Drought lambe samay tak barish na hone ki wajah se hota hai.': False,
     'Landslide heavy rain ya earthquake se hill slopes par hota hai.': False,
     'Volcanic ash aviation engine ke liye dangerous hoti hai.': False,
