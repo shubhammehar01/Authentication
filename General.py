@@ -113,7 +113,7 @@ IndiaPak = {
     '1971 war ke baad Shimla Agreement sign hua tha.': True,
     'Dono desho ki cultural roots aapas me judi hain.': True,
     '1947 me partition ke baad dono nations independent hue the.': True,
-    'Indus Waters Treaty rivers ke paani ko divide karti hai.': False,
+    'Indus Waters Treaty rivers ke paani ko divide karti hai.': True,
     'Lahore Bus Yatra peace initiative ka ek hissa thi.': False,
     'Cricket matches dono countries me high voltage emotions laate hain.': False,
     'Kartarpur Corridor pilgrims ke liye bina visa visit allow karta hai.': False,
