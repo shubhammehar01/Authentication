@@ -111,7 +111,7 @@ JavaScript = {
     "User rapidly button click kar raha hai aur multiple unnecessary API requests ja rahi hain. Is problem ko kaise solve karoge?": True,
     "Browser application me sensitive data ko securely store karna hai. Client-side storage ke liye kya approach use karoge?": True,
     "Event Loop, Call Stack, Microtask Queue aur Macrotask Queue internal execution flow browser me kaise work karta hai?": True,
-    "JavaScript Closure concept se memory leaks inadvertent scope retainment ke wajah se kaise hote hain aur fix kaise karein?": False,
+    "JavaScript Closure concept se memory leaks inadvertent scope retainment ke wajah se kaise hote hain aur fix kaise karein?": True,
     "Prototypal Inheritance vs Class-based Inheritance internal prototype chain resolution (__proto__) kaise kaam karti hai?": False,
     "Debounce vs Throttle functions implementing user input search fields aur scroll listener throttling me farq kya hai?": False,
     "Promise.all vs Promise.allSettled vs Promise.race vs Promise.any: Concurrent asynchronous operational handling patterns?": False,
