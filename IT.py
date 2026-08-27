@@ -4,7 +4,7 @@ Java = {
     "Production me Java application ke response time suddenly slow ho gaye. Performance issue ko kaise diagnose karoge?": True,
     "Java application me NullPointerException frequently aa rahi hai. Root cause identify karke issue ko kaise prevent karoge?": True,
     "Large amount of data process karte waqt Java application OutOfMemoryError de rahi hai. Is problem ko kaise solve karoge?": True,
-    "High CPU usage spike Java process me trace karne ke liye JStack aur JConsole ka use kaise karoge?": False,
+    "High CPU usage spike Java process me trace karne ke liye JStack aur JConsole ka use kaise karoge?": True,
     "Java application me Garbage Collection pauses ki wajah se latency badh rahi hai. GC tuning kaise karoge?": False,
     "String concatenation loops ke andar memory bloat kar raha hai. StringBuilder ya StringBuffer kab use karna chahiye?": False,
     "Volatile keyword aur Synchronized block ke bich me difference kya hai aur race condition kaise avoid karoge?": False,
