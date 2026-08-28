@@ -603,7 +603,7 @@ Machines = {
     'Lathe machine rotation se cylindrical parts banati hai.': True,
     'Injection molding plastic products mass produce karti hai.': True,
     'Robotic arms electronics assembly me precision deti hain.': True,
-    'Conveyor systems material handling easy banate hain.': False,
+    'Conveyor systems material handling easy banate hain.': True,
     'Hydraulic presses heavy metal stamping ke liye hoti hain.': False,
     'Steam turbines power plants me electricity generate karte hain.': False,
     'Internal combustion engines fossil fuels par chalte hain.': False,
