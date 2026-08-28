@@ -275,7 +275,7 @@ factoryEngineers = {
     'Automobile lines par cars kuch ghante me banti hain.': True,
     'Engineers energy save karne ke liye solar use karte hain.': True,
     'Industrial automation human error ko minimize karta hai.': True,
-    'Robotic arms welding aur painting ke liye use hoti hain.': False,
+    'Robotic arms welding aur painting ke liye use hoti hain.': True,
     'Quality control sensors defective products detect karte hain.': False,
     'Lean manufacturing waste reduce karne par focus karti hai.': False,
     'Six Sigma methodology process improvement ke liye hoti hai.': False,
