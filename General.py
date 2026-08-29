@@ -542,7 +542,7 @@ PoliceSearching = {
 RoketSatellite = {
     'SpaceX ke rockets wapas zameen par safe land hote hain.': True,
     'Communication satellites internet signals deti hain.': True,
-    'ISRO ke launch vehicles cost-effective hote hain.': False,
+    'ISRO ke launch vehicles cost-effective hote hain.': True,
     'Space debris active satellites ke liye khatra hai.': False,
     'Weather satellites toofan ki jankari pehle deti hain.': False,
     'PSLV ISRO ka workhorse launch vehicle hai.': False,
