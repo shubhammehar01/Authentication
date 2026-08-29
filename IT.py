@@ -484,7 +484,7 @@ DSA = {
     "Two Pointers Technique: Sorted array me Two Sum problem O(N) time and O(1) space complexity me kaise solve karein?": True,
     "Sliding Window Protocol: Variable vs Fixed Size window Maximum Subarray Sum / Longest Substring problems?": True,
     "Binary Search Variations: Rotated Sorted Array search, Lower Bound/Upper Bound, Search in 2D Matrix O(log N)?": True,
-    "Fast and Slow Pointers (Floyd's Cycle Detection Algorithm) Linked List cycle detection and starting node finding?": False,
+    "Fast and Slow Pointers (Floyd's Cycle Detection Algorithm) Linked List cycle detection and starting node finding?": True,
     "Linked List In-place Reversal: Singly Linked List reverse iterative vs recursive approach memory constraints?": False,
     "Monotonic Stack / Queue: Next Greater Element, Daily Temperatures, Largest Rectangle in Histogram O(N) solution?": False,
     "Binary Tree Traversal: Inorder, Preorder, Postorder Iterative traversal using Stack vs Level Order (BFS) Queue?": False,
