@@ -6,7 +6,7 @@ Java = {
     "Large amount of data process karte waqt Java application OutOfMemoryError de rahi hai. Is problem ko kaise solve karoge?": True,
     "High CPU usage spike Java process me trace karne ke liye JStack aur JConsole ka use kaise karoge?": True,
     "Java application me Garbage Collection pauses ki wajah se latency badh rahi hai. GC tuning kaise karoge?": True,
-    "String concatenation loops ke andar memory bloat kar raha hai. StringBuilder ya StringBuffer kab use karna chahiye?": False,
+    "String concatenation loops ke andar memory bloat kar raha hai. StringBuilder ya StringBuffer kab use karna chahiye?": True,
     "Volatile keyword aur Synchronized block ke bich me difference kya hai aur race condition kaise avoid karoge?": False,
     "Custom Exception hierarchy design karni hai production application ke liye. Best practices kya hongi?": False,
     "Java 8 Stream API use karte waqt parallelStream ka uncontrolled usage application ko freeze kar raha hai, ise kaise fix karein?": False,
