@@ -543,7 +543,7 @@ RoketSatellite = {
     'SpaceX ke rockets wapas zameen par safe land hote hain.': True,
     'Communication satellites internet signals deti hain.': True,
     'ISRO ke launch vehicles cost-effective hote hain.': True,
-    'Space debris active satellites ke liye khatra hai.': False,
+    'Space debris active satellites ke liye khatra hai.': True,
     'Weather satellites toofan ki jankari pehle deti hain.': False,
     'PSLV ISRO ka workhorse launch vehicle hai.': False,
     'GSLV heavy payloads geostationary orbit me bhejta hai.': False,
