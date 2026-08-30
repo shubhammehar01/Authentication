@@ -115,7 +115,7 @@ IndiaPak = {
     '1947 me partition ke baad dono nations independent hue the.': True,
     'Indus Waters Treaty rivers ke paani ko divide karti hai.': True,
     'Lahore Bus Yatra peace initiative ka ek hissa thi.': True,
-    'Cricket matches dono countries me high voltage emotions laate hain.': False,
+    'Cricket matches dono countries me high voltage emotions laate hain.': True,
     'Kartarpur Corridor pilgrims ke liye bina visa visit allow karta hai.': False,
     '1965 ki war kutch aur kashmir border par ladhi gayi thi.': False,
     'Kargil conflict 1999 me high altitude par hua tha.': False,
