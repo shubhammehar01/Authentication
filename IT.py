@@ -801,7 +801,7 @@ Redis = {
     "Redis temporarily unavailable ho jaaye to application ko database par automatically fallback karna hai. Ye strategy kaise implement karoge?": True,
     "Redis Data Structures Selection: Strings, Hashes, Lists, Sets, Sorted Sets (ZSET), Bitmaps, HyperLogLogs, Geospatial?": True,
     "Redis Persistence Mechanisms: RDB (Redis Database Snapshots) vs AOF (Append Only File) vs Hybrid Persistence?": True,
-    "Redis Memory Eviction Policies: volatile-lru, allkeys-lru, volatile-lfu, allkeys-lfu, volatile-ttl, noeviction?": False,
+    "Redis Memory Eviction Policies: volatile-lru, allkeys-lru, volatile-lfu, allkeys-lfu, volatile-ttl, noeviction?": True,
     "Redis Cache Stampede / Thundering Herd Problem Mitigation: Probabilistic Early Expiration (XFetch), Mutex Locking?": False,
     "Redis Sentinel vs Redis Cluster: High Availability Failover vs Automatic Sharding Partitioning setup?": False,
     "Redis Pub/Sub vs Redis Streams: Fire-and-forget messaging vs Persistent Consumer Groups Queue processing?": False,
