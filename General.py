@@ -8,7 +8,7 @@ AnimalPicture = {
     'Giraffe ki jeebh 20 inch lambi aur neele rang ki hoti hai.': True,
     'Dolphin ek aankh khol kar soti hai.': True,
     'Kangaroo ulta nahi chal sakte hain.': True,
-    'Elephant jump nahi kar sakte hain.': False,
+    'Elephant jump nahi kar sakte hain.': True,
     'Butterfly apne pairo se swad leti hai.': False,
     'Shark ki haddiyan nahi hoti, poora skeleton cartilage ka hota hai.': False,
     'Koali apni zindagi ka 90% sote hue bitate hain.': False,
