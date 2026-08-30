@@ -748,7 +748,7 @@ Git = {
     "Team me multiple developers parallel features par kaam kar rahe hain. Git branching strategy kaise design karoge?": True,
     "Git Merge vs Git Rebase: Linear Commit History vs Preservation of Merge Commits trade-offs?": True,
     "Git Reset (Soft vs Mixed vs Hard Reset) Staging Area and Working Directory state alterations?": True,
-    "Git Revert vs Git Reset: Public Published Branches commit undo safely without history rewriting?": False,
+    "Git Revert vs Git Reset: Public Published Branches commit undo safely without history rewriting?": True,
     "Git Cherry-Pick picking specific hotfix commits production branch release coordination?": False,
     "Git Interactive Rebase (`git rebase -i`) squashing, rewording, dropping, reordering commits history cleanup?": False,
     "Git Stash management (`git stash push -m`, `pop`, `apply`, `drop`, `branch`) context switching?": False,
