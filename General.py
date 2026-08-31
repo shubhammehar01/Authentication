@@ -439,8 +439,8 @@ GandhiMarch = {
     'Salt Satyagraha british salt tax ke against tha.': True,
     'Dandi march 385 kilometers long foot march thi.': True,
     '78 followers ne Gandhi ji ke sath march start kiya tha.': True,
-    '24 days tak ye yatra chali thi.': False, # Wait, keep regular syntax:
-    '24 days tak ye yatra chali thi.': False,
+    '24 days tak ye yatra chali thi.': True, # Wait, keep regular syntax:
+    '24 days tak ye yatra chali thi.': True,
     '6 April 1930 ko namak todkar kanoon todha gaya tha.': False,
     'Civil Disobedience Movement ki shuruwat isse hui thi.': False,
     'International media ne is event ko widely cover kiya tha.': False,
