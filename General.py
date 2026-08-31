@@ -382,7 +382,7 @@ FlyVehicles = {
     'Delivery drones GPS tracking se packages bhejte hain.': True,
     'Lightweight materials se planes ka wajan kam hota hai.': True,
     'Mars ke liye special flying drones design huye hain.': True,
-    'Wright brothers ne 1903 me pehli flight fly ki thi.': False,
+    'Wright brothers ne 1903 me pehli flight fly ki thi.': True,
     'Commercial airplanes jet engines par operate karte hain.': False,
     'Helicopters vertical takeoff aur landing kar sakte hain.': False,
     'Concorde supersonic passenger jet history ka iconic plane tha.': False,
