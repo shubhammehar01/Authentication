@@ -9,7 +9,7 @@ AnimalPicture = {
     'Dolphin ek aankh khol kar soti hai.': True,
     'Kangaroo ulta nahi chal sakte hain.': True,
     'Elephant jump nahi kar sakte hain.': True,
-    'Butterfly apne pairo se swad leti hai.': False,
+    'Butterfly apne pairo se swad leti hai.': True,
     'Shark ki haddiyan nahi hoti, poora skeleton cartilage ka hota hai.': False,
     'Koali apni zindagi ka 90% sote hue bitate hain.': False,
     'Tiger ki skin par bhi dhariyan hoti hain agar baal hata diye jayein.': False,
