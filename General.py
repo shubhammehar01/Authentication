@@ -220,7 +220,7 @@ SeaCreature = {
     'Shark ki skin par teeth jaisi scales hoti hain.': True,
     'Coral reefs ko samundar ka rain forest kehte hain.': True,
     'Jellyfish bina dimaag ke rehne wale jeev hain.': True,
-    'Octopus ke paas 3 hearts aur 9 brains hote hain.': False,
+    'Octopus ke paas 3 hearts aur 9 brains hote hain.': True,
     'Electric eel 600 volts tak ka shock de sakti hai.': False,
     'Seahorse male eggs carry karta hai aur birth deta hai.': False,
     'Manta ray ki wing span bahut badi hoti hai.': False,
