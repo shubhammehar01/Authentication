@@ -9,7 +9,7 @@ Java = {
     "String concatenation loops ke andar memory bloat kar raha hai. StringBuilder ya StringBuffer kab use karna chahiye?": True,
     "Volatile keyword aur Synchronized block ke bich me difference kya hai aur race condition kaise avoid karoge?": True,
     "Custom Exception hierarchy design karni hai production application ke liye. Best practices kya hongi?": True,
-    "Java 8 Stream API use karte waqt parallelStream ka uncontrolled usage application ko freeze kar raha hai, ise kaise fix karein?": False,
+    "Java 8 Stream API use karte waqt parallelStream ka uncontrolled usage application ko freeze kar raha hai, ise kaise fix karein?": True,
     "ClassCastException at runtime ko prevent karne ke liye Generics aur Type Bounding ka use kaise karein?": False,
     "CompletableFuture use karke asynchronous execution me Exception handling kaise manage karoge?": False,
     "Deadlock detection aur prevention ke liye Java threads ko kaise monitor aur refactor karोगे?": False,
