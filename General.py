@@ -170,7 +170,7 @@ NaturalDisaster = {
     'Tornadoes ki wind speed 400 km/h tak ho sakti hai.': True,
     'Avalanche snow slopes par achanak slide hone se hota hai.': True,
     'Drought lambe samay tak barish na hone ki wajah se hota hai.': True,
-    'Landslide heavy rain ya earthquake se hill slopes par hota hai.': False,
+    'Landslide heavy rain ya earthquake se hill slopes par hota hai.': True,
     'Volcanic ash aviation engine ke liye dangerous hoti hai.': False,
     'Earthquake ke waves ko seismograph se record karte hain.': False,
     'Flood rivers overflow hone ya cloudburst se aati hai.': False,
