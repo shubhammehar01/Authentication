@@ -490,7 +490,7 @@ PoliceSearching = {
     'CCTV footage se criminal tezi se pakde jaate hain.': True,
     'Trained police dogs ki sunghne ki shakti tez hoti hai.': True,
     'Cyber cells online frauds ko track karte hain.': True,
-    'Night patrolling se shehar me security rehti hai.': False,
+    'Night patrolling se shehar me security rehti hai.': True,
     'Fingerprint analysis unique identity match karta hai.': False,
     'Ballistic testing se gun aur bullet match ki jaati hai.': False,
     'Lie detector polygraph tests suspect interrogation me use hote hain.': False,
