@@ -53,7 +53,7 @@ Java = {
 
 Python = {
     "Python application me ek API ka response time bahut slow hai. Performance bottleneck ko kaise identify karoge?": True,
-    "Python application bahut zyada memory consume kar rahi hai. Memory usage ko diagnose aur optimize kaise karoge?": False,
+    "Python application bahut zyada memory consume kar rahi hai. Memory usage ko diagnose aur optimize kaise karoge?": True,
     "Multiple threads Python application me same shared data ko modify kar rahe hain. Data inconsistency ko kaise prevent karoge?": False,
     "Python me large CSV file process karni hai jo memory me completely load nahi ho sakti. Isko efficiently kaise handle karoge?": False,
     "Python application me production environment me intermittent exceptions aa rahi hain. Debugging aur logging strategy kaise design karoge?": False,
