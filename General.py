@@ -11,7 +11,7 @@ AnimalPicture = {
     'Elephant jump nahi kar sakte hain.': True,
     'Butterfly apne pairo se swad leti hai.': True,
     'Shark ki haddiyan nahi hoti, poora skeleton cartilage ka hota hai.': True,
-    'Koali apni zindagi ka 90% sote hue bitate hain.': False,
+    'Koali apni zindagi ka 90% sote hue bitate hain.': True,
     'Tiger ki skin par bhi dhariyan hoti hain agar baal hata diye jayein.': False,
     'Penguin khara pani pee sakte hain kyunki unke paas salt gland hota hai.': False,
     'Owl 360 degree tak apna sir guma sakte hain.': False,
