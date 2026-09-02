@@ -640,7 +640,7 @@ CollectionFramework = {
     "Application me key-value data store karna hai aur fast lookup required hai. Kaunsi Map implementation choose karoge?": True,
     "Collection ko iterate karte waqt elements remove karne hain. ConcurrentModificationException se kaise bachoge?": True,
     "Large dataset me sorted elements continuously maintain karne hain. Kaunsi Java collection appropriate hogi?": True,
-    "HashMap Internal Working Mechanics: Bucketing, Hash Code Collisions, Treeification (LinkedList to Red-Black Tree threshold)?": False,
+    "HashMap Internal Working Mechanics: Bucketing, Hash Code Collisions, Treeification (LinkedList to Red-Black Tree threshold)?": True,
     "ConcurrentHashMap vs SynchronizedMap vs Hashtable: Segment Locking vs Bucket Locking concurrency performance?": False,
     "ArrayList Dynamic Resizing Factor (50% capacity growth) array copy performance overhead mitigation?": False,
     "LinkedHashMap Access-Order vs Insertion-Order configuration LRU Cache implementation design?": False,
