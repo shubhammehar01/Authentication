@@ -266,7 +266,7 @@ SpringBoot = {
 MySql = {
     "MySQL table me millions of records hain aur SELECT query bahut slow ho gayi hai. Performance improve kaise karoge?": True,
     "MySQL database me deadlock frequently occur ho raha hai. Deadlock kaise diagnose aur prevent karoge?": True,
-    "MySQL database ka disk usage rapidly increase ho raha hai. Storage consumption ko kaise analyze aur control karoge?": False,
+    "MySQL database ka disk usage rapidly increase ho raha hai. Storage consumption ko kaise analyze aur control karoge?": True,
     "High traffic ke time MySQL database maximum connections tak pahunch jaata hai. Is problem ko kaise solve karoge?": False,
     "MySQL me frequently accessed data ke liye indexing strategy design karni hai. Kaunse factors consider karoge?": False,
     "MySQL InnoDB Engine Storage Architecture: Buffer Pool, Change Buffer, Adaptive Hash Index, Undo/Redo Logs mechanics?": False,
