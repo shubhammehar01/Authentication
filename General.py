@@ -654,7 +654,7 @@ ScientistExperiments = {
     'Nanotechnology me atomic scale par work hota hai.': True,
     'Labs me controlled reactions se medicines banti hain.': True,
     'Double-slit experiment light ka wave-particle duality show karta hai.': True,
-    'Schrödinger cat thought experiment quantum superposition explain karta hai.': False,
+    'Schrödinger cat thought experiment quantum superposition explain karta hai.': True,
     'Pavlov dog experiment classical conditioning prove karta hai.': False,
     'Milgram experiment obedience to authority test karta hai.': False,
     'Stanford prison experiment human behavior study karta hai.': False,
