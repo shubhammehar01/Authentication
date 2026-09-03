@@ -427,7 +427,7 @@ AWS = {
     "AWS me application ke sensitive credentials securely store karne hain. Kaunsi service aur approach use karoge?": True,
     "AWS application ka monthly cost unexpectedly increase ho gaya. Cost ko analyze aur optimize kaise karoge?": True,
     "AWS par application ka single server fail ho gaya aur service unavailable ho gayi. High availability kaise design karoge?": True,
-    "AWS me application ke logs centrally collect karke production issues monitor karne hain. Architecture kaise design karoge?": False,
+    "AWS me application ke logs centrally collect karke production issues monitor karne hain. Architecture kaise design karoge?": True,
     "AWS IAM Roles vs IAM Users vs IAM Policies Least Privilege Access Principle, Cross-Account IAM Roles assume architecture?": False,
     "AWS VPC Design: Public Subnets, Private Subnets, NAT Gateways, Internet Gateways, Route Tables network topology?": False,
     "AWS EC2 Auto Scaling Groups (ASG) Dynamic Scaling Policies, Target Tracking, Predictive Scaling configurations?": False,
