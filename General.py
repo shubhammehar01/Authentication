@@ -61,7 +61,7 @@ War = {
     'Spartan warriors bachpan se hi military training shuru kar dete the.': True,
     'Roman empire ke paas world ki sabse disciplined army thi.': True,
     'Trojan war me wooden horse ka use kiya gaya tha.': True,
-    'Samurai warriors Japan me honor ke liye jeete the.': False,
+    'Samurai warriors Japan me honor ke liye jeete the.': True,
     'World War 1 me tank sabse pehle use kiye gaye the.': False,
     'Cold War me direct fighting nahi hui balki arms race thi.': False,
     'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': False,
