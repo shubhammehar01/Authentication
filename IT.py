@@ -113,7 +113,7 @@ JavaScript = {
     "Event Loop, Call Stack, Microtask Queue aur Macrotask Queue internal execution flow browser me kaise work karta hai?": True,
     "JavaScript Closure concept se memory leaks inadvertent scope retainment ke wajah se kaise hote hain aur fix kaise karein?": True,
     "Prototypal Inheritance vs Class-based Inheritance internal prototype chain resolution (__proto__) kaise kaam karti hai?": True,
-    "Debounce vs Throttle functions implementing user input search fields aur scroll listener throttling me farq kya hai?": False,
+    "Debounce vs Throttle functions implementing user input search fields aur scroll listener throttling me farq kya hai?": True,
     "Promise.all vs Promise.allSettled vs Promise.race vs Promise.any: Concurrent asynchronous operational handling patterns?": False,
     "Web Workers use karke heavy computational JavaScript execution UI thread ko unblock rakhne me kaise leverage karein?": False,
     "DOM Manipulation batching aur Virtual DOM reconciliation repaint aur reflow browser operational costs ko kaise kam karta hai?": False,
