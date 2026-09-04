@@ -118,7 +118,7 @@ IndiaPak = {
     'Cricket matches dono countries me high voltage emotions laate hain.': True,
     'Kartarpur Corridor pilgrims ke liye bina visa visit allow karta hai.': True,
     '1965 ki war kutch aur kashmir border par ladhi gayi thi.': True,
-    'Kargil conflict 1999 me high altitude par hua tha.': False,
+    'Kargil conflict 1999 me high altitude par hua tha.': True,
     'LOC (Line of Control)ashmir region ko divide karti hai.': False,
     'Sufi music aur qawwali dono desho me common heritage hain.': False,
     'Bollywood movies aur music dono taraf pasand kiye jaate hain.': False,
