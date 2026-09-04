@@ -114,7 +114,7 @@ JavaScript = {
     "JavaScript Closure concept se memory leaks inadvertent scope retainment ke wajah se kaise hote hain aur fix kaise karein?": True,
     "Prototypal Inheritance vs Class-based Inheritance internal prototype chain resolution (__proto__) kaise kaam karti hai?": True,
     "Debounce vs Throttle functions implementing user input search fields aur scroll listener throttling me farq kya hai?": True,
-    "Promise.all vs Promise.allSettled vs Promise.race vs Promise.any: Concurrent asynchronous operational handling patterns?": False,
+    "Promise.all vs Promise.allSettled vs Promise.race vs Promise.any: Concurrent asynchronous operational handling patterns?": True,
     "Web Workers use karke heavy computational JavaScript execution UI thread ko unblock rakhne me kaise leverage karein?": False,
     "DOM Manipulation batching aur Virtual DOM reconciliation repaint aur reflow browser operational costs ko kaise kam karta hai?": False,
     "Service Workers registration, caching strategies (Cache-First, Network-First) progressive offline web apps me kaise setup karein?": False,
