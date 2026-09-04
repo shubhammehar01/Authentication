@@ -491,7 +491,7 @@ PoliceSearching = {
     'Trained police dogs ki sunghne ki shakti tez hoti hai.': True,
     'Cyber cells online frauds ko track karte hain.': True,
     'Night patrolling se shehar me security rehti hai.': True,
-    'Fingerprint analysis unique identity match karta hai.': False,
+    'Fingerprint analysis unique identity match karta hai.': True,
     'Ballistic testing se gun aur bullet match ki jaati hai.': False,
     'Lie detector polygraph tests suspect interrogation me use hote hain.': False,
     'CSI teams crime scene se evidence collect karti hain.': False,
