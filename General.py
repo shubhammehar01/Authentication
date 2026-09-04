@@ -222,7 +222,7 @@ SeaCreature = {
     'Jellyfish bina dimaag ke rehne wale jeev hain.': True,
     'Octopus ke paas 3 hearts aur 9 brains hote hain.': True,
     'Electric eel 600 volts tak ka shock de sakti hai.': True,
-    'Seahorse male eggs carry karta hai aur birth deta hai.': False,
+    'Seahorse male eggs carry karta hai aur birth deta hai.': True,
     'Manta ray ki wing span bahut badi hoti hai.': False,
     'Clownfish anemone ke sath symbiotic relationship me rehti hai.': False,
     'Squid ki aakhon ka size basketball jitna ho sakta hai.': False,
