@@ -657,7 +657,7 @@ ScientistExperiments = {
     'Schrödinger cat thought experiment quantum superposition explain karta hai.': True,
     'Pavlov dog experiment classical conditioning prove karta hai.': True,
     'Milgram experiment obedience to authority test karta hai.': True,
-    'Stanford prison experiment human behavior study karta hai.': False,
+    'Stanford prison experiment human behavior study karta hai.': True,
     'Galileo gravity experiment Pisa tower se balls drop karke kiya tha.': False,
     'Newton prism experiment se white light spectrum discover kiya tha.': False,
     'Mendel pea plant experiment genetics ke laws establish karta hai.': False,
