@@ -586,7 +586,7 @@ AIAPIIntegration = {
     "AI API ke requests ki cost bahut high ho rahi hai. API usage aur cost ko kaise optimize karoge?": True,
     "AI API temporarily unavailable ho jaati hai. Application ko failure ke against resilient kaise banaoge?": True,
     "AI API ko user-generated sensitive data bhejna hai. Data security aur privacy kaise handle karoge?": True,
-    "AI API ke response ko repeatedly generate karne ki requirement nahi hai. Unnecessary API calls avoid karne ke liye kya strategy use karoge?": False,
+    "AI API ke response ko repeatedly generate karne ki requirement nahi hai. Unnecessary API calls avoid karne ke liye kya strategy use karoge?": True,
     "LLM API Streaming Responses (Server-Sent Events / WebSockets) frontend Progressive Rendering integration setup?": False,
     "Prompt Engineering In-flight Payload Optimization Token Consumption reduction without losing context quality?": False,
     "Semantic Caching Design using Vector Databases (Pinecone/Milvus/Qdrant) LLM API response caching?": False,
