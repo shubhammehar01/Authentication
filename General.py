@@ -604,7 +604,7 @@ Machines = {
     'Injection molding plastic products mass produce karti hai.': True,
     'Robotic arms electronics assembly me precision deti hain.': True,
     'Conveyor systems material handling easy banate hain.': True,
-    'Hydraulic presses heavy metal stamping ke liye hoti hain.': False,
+    'Hydraulic presses heavy metal stamping ke liye hoti hain.': True,
     'Steam turbines power plants me electricity generate karte hain.': False,
     'Internal combustion engines fossil fuels par chalte hain.': False,
     'Electric motors electrical energy ko mechanical energy me badalti hain.': False,
