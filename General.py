@@ -224,7 +224,7 @@ SeaCreature = {
     'Electric eel 600 volts tak ka shock de sakti hai.': True,
     'Seahorse male eggs carry karta hai aur birth deta hai.': True,
     'Manta ray ki wing span bahut badi hoti hai.': True,
-    'Clownfish anemone ke sath symbiotic relationship me rehti hai.': False,
+    'Clownfish anemone ke sath symbiotic relationship me rehti hai.': True,
     'Squid ki aakhon ka size basketball jitna ho sakta hai.': False,
     'Sea turtle hazaron miles travel karke wapas nesting beach aate hain.': False,
     'Crab side ways move karte hain.': False,
