@@ -384,7 +384,7 @@ FlyVehicles = {
     'Mars ke liye special flying drones design huye hain.': True,
     'Wright brothers ne 1903 me pehli flight fly ki thi.': True,
     'Commercial airplanes jet engines par operate karte hain.': True,
-    'Helicopters vertical takeoff aur landing kar sakte hain.': False,
+    'Helicopters vertical takeoff aur landing kar sakte hain.': True,
     'Concorde supersonic passenger jet history ka iconic plane tha.': False,
     'Fighter jets mach speed se zyada fast ud sakte hain.': False,
     'Stealth technology planes ko radar se hide karti hai.': False,
