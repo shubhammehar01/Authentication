@@ -492,7 +492,7 @@ PoliceSearching = {
     'Cyber cells online frauds ko track karte hain.': True,
     'Night patrolling se shehar me security rehti hai.': True,
     'Fingerprint analysis unique identity match karta hai.': True,
-    'Ballistic testing se gun aur bullet match ki jaati hai.': False,
+    'Ballistic testing se gun aur bullet match ki jaati hai.': True,
     'Lie detector polygraph tests suspect interrogation me use hote hain.': False,
     'CSI teams crime scene se evidence collect karti hain.': False,
     'Missing person search operations me drones use hote hain.': False,
