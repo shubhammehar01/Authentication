@@ -544,7 +544,7 @@ RoketSatellite = {
     'Communication satellites internet signals deti hain.': True,
     'ISRO ke launch vehicles cost-effective hote hain.': True,
     'Space debris active satellites ke liye khatra hai.': True,
-    'Weather satellites toofan ki jankari pehle deti hain.': False,
+    'Weather satellites toofan ki jankari pehle deti hain.': True,
     'PSLV ISRO ka workhorse launch vehicle hai.': False,
     'GSLV heavy payloads geostationary orbit me bhejta hai.': False,
     'Reusable rockets space travel ka cost drastically kam karte hain.': False,
