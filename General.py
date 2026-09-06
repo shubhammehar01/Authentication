@@ -605,7 +605,7 @@ Machines = {
     'Robotic arms electronics assembly me precision deti hain.': True,
     'Conveyor systems material handling easy banate hain.': True,
     'Hydraulic presses heavy metal stamping ke liye hoti hain.': True,
-    'Steam turbines power plants me electricity generate karte hain.': False,
+    'Steam turbines power plants me electricity generate karte hain.': True,
     'Internal combustion engines fossil fuels par chalte hain.': False,
     'Electric motors electrical energy ko mechanical energy me badalti hain.': False,
     'Generators mechanical energy ko electricity me convert karte hain.': False,
