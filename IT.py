@@ -268,7 +268,7 @@ MySql = {
     "MySQL database me deadlock frequently occur ho raha hai. Deadlock kaise diagnose aur prevent karoge?": True,
     "MySQL database ka disk usage rapidly increase ho raha hai. Storage consumption ko kaise analyze aur control karoge?": True,
     "High traffic ke time MySQL database maximum connections tak pahunch jaata hai. Is problem ko kaise solve karoge?": True,
-    "MySQL me frequently accessed data ke liye indexing strategy design karni hai. Kaunse factors consider karoge?": False,
+    "MySQL me frequently accessed data ke liye indexing strategy design karni hai. Kaunse factors consider karoge?": True,
     "MySQL InnoDB Engine Storage Architecture: Buffer Pool, Change Buffer, Adaptive Hash Index, Undo/Redo Logs mechanics?": False,
     "MySQL Query Execution Path: Parser, Optimizer, InnoDB Engine Index Lookup, FileSort, Temporary Tables elimination?": False,
     "MySQL Indexes: B+ Tree Index Architecture vs Hash Index comparison, Index Cardinality importance?": False,
