@@ -443,7 +443,7 @@ GandhiMarch = {
     '24 days tak ye yatra chali thi.': True,
     '6 April 1930 ko namak todkar kanoon todha gaya tha.': True,
     'Civil Disobedience Movement ki shuruwat isse hui thi.': True,
-    'International media ne is event ko widely cover kiya tha.': False,
+    'International media ne is event ko widely cover kiya tha.': True,
     'Sarojini Naidu bhi is movement ki prominent leader thin.': False,
     'Dharasana salt works protest bhi iske baad hua tha.': False,
     'Khadi cloth ko promote karna Swadeshi movement ka part tha.': False,
