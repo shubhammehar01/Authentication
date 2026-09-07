@@ -12,7 +12,7 @@ Java = {
     "Java 8 Stream API use karte waqt parallelStream ka uncontrolled usage application ko freeze kar raha hai, ise kaise fix karein?": True,
     "ClassCastException at runtime ko prevent karne ke liye Generics aur Type Bounding ka use kaise karein?": True,
     "CompletableFuture use karke asynchronous execution me Exception handling kaise manage karoge?": True,
-    "Deadlock detection aur prevention ke liye Java threads ko kaise monitor aur refactor karोगे?": False,
+    "Deadlock detection aur prevention ke liye Java threads ko kaise monitor aur refactor karोगे?": True,
     "Reflection API use karne ke performance overhead aur security risks ko kaise mitigate karoge?": False,
     "Java native Memory Leak (Off-Heap) ko diagnose karne ke liye kaunse tools (e.g. NMT) use karoge?": False,
     "ReentrantLock vs Synchronized performance high-concurrency environment me kaise vary hoti hai?": False,
