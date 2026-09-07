@@ -445,7 +445,7 @@ GandhiMarch = {
     'Civil Disobedience Movement ki shuruwat isse hui thi.': True,
     'International media ne is event ko widely cover kiya tha.': True,
     'Sarojini Naidu bhi is movement ki prominent leader thin.': True,
-    'Dharasana salt works protest bhi iske baad hua tha.': False,
+    'Dharasana salt works protest bhi iske baad hua tha.': True,
     'Khadi cloth ko promote karna Swadeshi movement ka part tha.': False,
     'Ahimsa aur Satyagraha Gandhi ji ke main weapons the.': False,
     'Champaran satyagrah indigo farmers ke liye tha.': False,
