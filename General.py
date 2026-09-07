@@ -62,7 +62,7 @@ War = {
     'Roman empire ke paas world ki sabse disciplined army thi.': True,
     'Trojan war me wooden horse ka use kiya gaya tha.': True,
     'Samurai warriors Japan me honor ke liye jeete the.': True,
-    'World War 1 me tank sabse pehle use kiye gaye the.': False,
+    'World War 1 me tank sabse pehle use kiye gaye the.': True,
     'Cold War me direct fighting nahi hui balki arms race thi.': False,
     'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': False,
     'Naval wars me submarines game changer sabit hui hain.': False,
