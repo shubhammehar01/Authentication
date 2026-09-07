@@ -217,7 +217,7 @@ SpringBoot = {
     "Spring Boot application me configuration values different environments ke liye alag rakhni hain. Isko kaise design karoge?": True,
     "Production Spring Boot application me database connection pool exhaust ho raha hai. Root cause aur solution kya hoga?": True,
     "Spring Bean Scope (Singleton, Prototype, Request, Session) multithreaded state safety management design?": True,
-    "Spring Boot Auto-Configuration Mechanism (`@EnableAutoConfiguration`, `spring.factories`/`AutoConfiguration.imports`) working execution?": False,
+    "Spring Boot Auto-Configuration Mechanism (`@EnableAutoConfiguration`, `spring.factories`/`AutoConfiguration.imports`) working execution?": True,
     "Spring Data JPA N+1 Query Problem `@EntityGraph` aur `JOIN FETCH` queries performance fix implementation?": False,
     "Spring Boot Actuator endpoints custom metrics creation, Prometheus/Grafana security lock down?": False,
     "Spring AOP (Aspect Oriented Programming) custom annotations creation logging, execution time profiling, security interceptors?": False,
