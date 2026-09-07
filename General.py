@@ -225,7 +225,7 @@ SeaCreature = {
     'Seahorse male eggs carry karta hai aur birth deta hai.': True,
     'Manta ray ki wing span bahut badi hoti hai.': True,
     'Clownfish anemone ke sath symbiotic relationship me rehti hai.': True,
-    'Squid ki aakhon ka size basketball jitna ho sakta hai.': False,
+    'Squid ki aakhon ka size basketball jitna ho sakta hai.': True,
     'Sea turtle hazaron miles travel karke wapas nesting beach aate hain.': False,
     'Crab side ways move karte hain.': False,
     'Starfish apna lost arm dobara grow kar sakti hai.': False,
