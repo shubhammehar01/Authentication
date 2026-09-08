@@ -280,7 +280,7 @@ factoryEngineers = {
     'Lean manufacturing waste reduce karne par focus karti hai.': True,
     'Six Sigma methodology process improvement ke liye hoti hai.': True,
     'Preventive maintenance machines breakdown hone se bachati hai.': True,
-    'CAD software se parts ki 3D modeling ki jaati hai.': False,
+    'CAD software se parts ki 3D modeling ki jaati hai.': True,
     'PLC (Programmable Logic Controller) factory machines control karta hai.': False,
     'Conveyor belts materials ek jagah se dusri jagah move karti hain.': False,
     'Supply chain management raw material timing manage karta hai.': False,
