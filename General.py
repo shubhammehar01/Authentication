@@ -333,7 +333,7 @@ CivilizationAncientPeople = {
     'Greek civilization me democracy aur philosophy start hui thi.': True,
     'Roman empire apne roads aur aqueducts ke liye famous tha.': True,
     'Inca civilization ne Andes mountains me roads banaye the.': True,
-    'Aztec civilization floating gardens (chinampas) use karti thi.': False,
+    'Aztec civilization floating gardens (chinampas) use karti thi.': True,
     'Harappan seals par mysterious script mili hai jo padhi nahi gayi.': False,
     'Stonehenge monument ancient astronomy se juda hai.': False,
     'Gobekli Tepe duniya ka sabse purana temple complex mana jata hai.': False,
