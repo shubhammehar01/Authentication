@@ -163,7 +163,7 @@ SQL = {
     "Production database me ek query bahut zyada CPU consume kar rahi hai. Is query ko kaise analyze aur optimize karoge?": True,
     "High traffic application me same SQL query baar-baar execute ho rahi hai. Database load kam karne ke liye kya strategy use karoge?": True,
     "Transaction ke beech application failure hone par database inconsistent state me ja raha hai. Is problem ko kaise prevent karoge?": True,
-    "Database Indexes (B-Tree vs Hash vs GIN) internal node lookup traversal mechanism and index maintenance write penalty?": False,
+    "Database Indexes (B-Tree vs Hash vs GIN) internal node lookup traversal mechanism and index maintenance write penalty?": True,
     "EXPLAIN / EXPLAIN ANALYZE execution plan breakdown: Sequential Scan vs Index Scan vs Index Only Scan interpretation?": False,
     "SQL ACID Properties (Atomicity, Consistency, Isolation, Durability) internal database engine mechanics validation?": False,
     "Database Isolation Levels (Read Uncommitted, Read Committed, Repeatable Read, Serializable) anomalies like Dirty Read, Phantom Read?": False,
