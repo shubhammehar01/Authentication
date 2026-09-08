@@ -165,7 +165,7 @@ SQL = {
     "Transaction ke beech application failure hone par database inconsistent state me ja raha hai. Is problem ko kaise prevent karoge?": True,
     "Database Indexes (B-Tree vs Hash vs GIN) internal node lookup traversal mechanism and index maintenance write penalty?": True,
     "EXPLAIN / EXPLAIN ANALYZE execution plan breakdown: Sequential Scan vs Index Scan vs Index Only Scan interpretation?": True,
-    "SQL ACID Properties (Atomicity, Consistency, Isolation, Durability) internal database engine mechanics validation?": False,
+    "SQL ACID Properties (Atomicity, Consistency, Isolation, Durability) internal database engine mechanics validation?": True,
     "Database Isolation Levels (Read Uncommitted, Read Committed, Repeatable Read, Serializable) anomalies like Dirty Read, Phantom Read?": False,
     "Window Functions (ROW_NUMBER, RANK, DENSE_RANK, NTILE) partitioned streaming analytics queries efficiency design?": False,
     "CTE (Common Table Expressions) WITH RECURSIVE hierarchies hierarchical org chart/graph data traversal SQL me kaise solve karein?": False,
