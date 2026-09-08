@@ -279,7 +279,7 @@ factoryEngineers = {
     'Quality control sensors defective products detect karte hain.': True,
     'Lean manufacturing waste reduce karne par focus karti hai.': True,
     'Six Sigma methodology process improvement ke liye hoti hai.': True,
-    'Preventive maintenance machines breakdown hone se bachati hai.': False,
+    'Preventive maintenance machines breakdown hone se bachati hai.': True,
     'CAD software se parts ki 3D modeling ki jaati hai.': False,
     'PLC (Programmable Logic Controller) factory machines control karta hai.': False,
     'Conveyor belts materials ek jagah se dusri jagah move karti hain.': False,
