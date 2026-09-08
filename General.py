@@ -13,7 +13,7 @@ AnimalPicture = {
     'Shark ki haddiyan nahi hoti, poora skeleton cartilage ka hota hai.': True,
     'Koali apni zindagi ka 90% sote hue bitate hain.': True,
     'Tiger ki skin par bhi dhariyan hoti hain agar baal hata diye jayein.': True,
-    'Penguin khara pani pee sakte hain kyunki unke paas salt gland hota hai.': False,
+    'Penguin khara pani pee sakte hain kyunki unke paas salt gland hota hai.': True,
     'Owl 360 degree tak apna sir guma sakte hain.': False,
     'Bees ki 5 aankhe hoti hain.': False,
     'Horse khade-khade so sakte hain.': False,
