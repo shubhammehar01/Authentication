@@ -63,7 +63,7 @@ War = {
     'Trojan war me wooden horse ka use kiya gaya tha.': True,
     'Samurai warriors Japan me honor ke liye jeete the.': True,
     'World War 1 me tank sabse pehle use kiye gaye the.': True,
-    'Cold War me direct fighting nahi hui balki arms race thi.': False,
+    'Cold War me direct fighting nahi hui balki arms race thi.': True,
     'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': False,
     'Naval wars me submarines game changer sabit hui hain.': False,
     'Cyber warfare aaj ke samay me sabse bada threat ban gaya hai.': False,
