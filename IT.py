@@ -429,7 +429,7 @@ AWS = {
     "AWS par application ka single server fail ho gaya aur service unavailable ho gayi. High availability kaise design karoge?": True,
     "AWS me application ke logs centrally collect karke production issues monitor karne hain. Architecture kaise design karoge?": True,
     "AWS IAM Roles vs IAM Users vs IAM Policies Least Privilege Access Principle, Cross-Account IAM Roles assume architecture?": True,
-    "AWS VPC Design: Public Subnets, Private Subnets, NAT Gateways, Internet Gateways, Route Tables network topology?": False,
+    "AWS VPC Design: Public Subnets, Private Subnets, NAT Gateways, Internet Gateways, Route Tables network topology?": True,
     "AWS EC2 Auto Scaling Groups (ASG) Dynamic Scaling Policies, Target Tracking, Predictive Scaling configurations?": False,
     "AWS Load Balancers: ALB (Application) vs NLB (Network) vs GLB (Gateway) layer 7 vs layer 4 traffic routing selection?": False,
     "AWS S3 Lifecycle Policies, Storage Classes (Standard, IA, Glacier, Deep Archive), Object Lock compliance retention?": False,
