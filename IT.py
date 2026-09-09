@@ -374,7 +374,7 @@ Docker = {
     "Docker image ka size bahut large hai aur deployment slow ho raha hai. Image size kaise reduce karoge?": True,
     "Docker container production me unexpectedly crash ho raha hai. Root cause identify karne ke liye kya steps follow karoge?": True,
     "Multiple Docker containers ko ek application ke liye communicate karna hai. Networking kaise configure karoge?": True,
-    "Application aur database ko Docker containers me run karna hai aur data container restart ke baad bhi preserve rehna chahiye. Kaise design karoge?": False,
+    "Application aur database ko Docker containers me run karna hai aur data container restart ke baad bhi preserve rehna chahiye. Kaise design karoge?": True,
     "Docker Architecture: Docker Daemon, Client, REST API, containerd, runc OCI runtime internal execution mechanics?": False,
     "Docker Storage Drivers: Overlay2, Btrfs, ZFS layer caching copy-on-write (CoW) file systems efficiency?": False,
     "Docker Multi-Stage Builds configuration build dependencies removal production minimal image optimization?": False,
