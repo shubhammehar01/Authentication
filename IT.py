@@ -58,7 +58,7 @@ Python = {
     "Python me large CSV file process karni hai jo memory me completely load nahi ho sakti. Isko efficiently kaise handle karoge?": True,
     "Python application me production environment me intermittent exceptions aa rahi hain. Debugging aur logging strategy kaise design karoge?": True,
     "GIL (Global Interpreter Lock) Python multithreading performance ko CPU-bound tasks me kaise restrict karta hai aur solve kaise karein?": True,
-    "Python Multiprocessing vs Threading vs Asyncio me se IO-bound vs CPU-bound tasks ke liye best module kaise select karoge?": False,
+    "Python Multiprocessing vs Threading vs Asyncio me se IO-bound vs CPU-bound tasks ke liye best module kaise select karoge?": True,
     "Python Memory Management me Reference Counting aur Cyclic Garbage Collector memory leaks ko kaise cleanup karte hain?": False,
     "Custom Decorators banate waqt functools.wraps ka use state aur metadata preserve karne ke liye kyun zaroori hai?": False,
     "Python generators aur iterators ka memory efficiency maintain karne me yield keyword ke sath kya role hai?": False,
