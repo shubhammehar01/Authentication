@@ -64,7 +64,7 @@ War = {
     'Samurai warriors Japan me honor ke liye jeete the.': True,
     'World War 1 me tank sabse pehle use kiye gaye the.': True,
     'Cold War me direct fighting nahi hui balki arms race thi.': True,
-    'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': False,
+    'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': True,
     'Naval wars me submarines game changer sabit hui hain.': False,
     'Cyber warfare aaj ke samay me sabse bada threat ban gaya hai.': False,
     'Drones ka use modern wars me tezi se badh gaya hai.': False,
