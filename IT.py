@@ -375,7 +375,7 @@ Docker = {
     "Docker container production me unexpectedly crash ho raha hai. Root cause identify karne ke liye kya steps follow karoge?": True,
     "Multiple Docker containers ko ek application ke liye communicate karna hai. Networking kaise configure karoge?": True,
     "Application aur database ko Docker containers me run karna hai aur data container restart ke baad bhi preserve rehna chahiye. Kaise design karoge?": True,
-    "Docker Architecture: Docker Daemon, Client, REST API, containerd, runc OCI runtime internal execution mechanics?": False,
+    "Docker Architecture: Docker Daemon, Client, REST API, containerd, runc OCI runtime internal execution mechanics?": True,
     "Docker Storage Drivers: Overlay2, Btrfs, ZFS layer caching copy-on-write (CoW) file systems efficiency?": False,
     "Docker Multi-Stage Builds configuration build dependencies removal production minimal image optimization?": False,
     "Docker Networking Drivers: Bridge, Host, Overlay, Macvlan, None network isolation routing selection?": False,
