@@ -487,7 +487,7 @@ DSA = {
     "Fast and Slow Pointers (Floyd's Cycle Detection Algorithm) Linked List cycle detection and starting node finding?": True,
     "Linked List In-place Reversal: Singly Linked List reverse iterative vs recursive approach memory constraints?": True,
     "Monotonic Stack / Queue: Next Greater Element, Daily Temperatures, Largest Rectangle in Histogram O(N) solution?": True,
-    "Binary Tree Traversal: Inorder, Preorder, Postorder Iterative traversal using Stack vs Level Order (BFS) Queue?": False,
+    "Binary Tree Traversal: Inorder, Preorder, Postorder Iterative traversal using Stack vs Level Order (BFS) Queue?": True,
     "Binary Search Tree (BST) operations Validation, Lowest Common Ancestor (LCA), Deletion balancing BST?": False,
     "Heap / Priority Queue: Merge K Sorted Lists, Find Median from Data Stream (Two Heaps pattern)?": False,
     "Backtracking: N-Queens Problem, Sudoku Solver, Subsets & Permutations state space tree pruning optimization?": False,
