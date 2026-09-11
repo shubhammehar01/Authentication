@@ -494,7 +494,7 @@ PoliceSearching = {
     'Fingerprint analysis unique identity match karta hai.': True,
     'Ballistic testing se gun aur bullet match ki jaati hai.': True,
     'Lie detector polygraph tests suspect interrogation me use hote hain.': True,
-    'CSI teams crime scene se evidence collect karti hain.': False,
+    'CSI teams crime scene se evidence collect karti hain.': True,
     'Missing person search operations me drones use hote hain.': False,
     'Highway checkposts pe vehicles ki checking hoti hai.': False,
     'Interpol international police cooperation network hai.': False,
