@@ -693,7 +693,7 @@ OOPs = {
     "Application me multiple classes ka same method name hai lekin behavior different hai. Is situation ko kaise design karoge?": True,
     "Aap chahte ho ki kisi class ke internal data ko directly outside code modify na kar sake. Isko kaise implement karोगे?": True,
     "Large application me inheritance ka excessive use maintainability problem create kar raha hai. Isko kaise improve karoge?": True,
-    "SOLID Principles Deep Dive: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion?": False,
+    "SOLID Principles Deep Dive: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion?": True,
     "Encapsulation vs Abstraction Data Hiding vs Implementation Hiding architectural clean design distinction?": False,
     "Polymorphism: Compile-Time (Overloading) vs Runtime (Overriding / Dynamic Binding) Virtual Method Table (VTable)?": False,
     "Composition over Inheritance Design Principle Flexibility Loose Coupling Code Reusability?": False,
