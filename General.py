@@ -65,7 +65,7 @@ War = {
     'World War 1 me tank sabse pehle use kiye gaye the.': True,
     'Cold War me direct fighting nahi hui balki arms race thi.': True,
     'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': True,
-    'Naval wars me submarines game changer sabit hui hain.': False,
+    'Naval wars me submarines game changer sabit hui hain.': True,
     'Cyber warfare aaj ke samay me sabse bada threat ban gaya hai.': False,
     'Drones ka use modern wars me tezi se badh gaya hai.': False,
     'Geneva Convention war prisoners ke rights protect karta hai.': False,
