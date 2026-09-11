@@ -587,7 +587,7 @@ AIAPIIntegration = {
     "AI API temporarily unavailable ho jaati hai. Application ko failure ke against resilient kaise banaoge?": True,
     "AI API ko user-generated sensitive data bhejna hai. Data security aur privacy kaise handle karoge?": True,
     "AI API ke response ko repeatedly generate karne ki requirement nahi hai. Unnecessary API calls avoid karne ke liye kya strategy use karoge?": True,
-    "LLM API Streaming Responses (Server-Sent Events / WebSockets) frontend Progressive Rendering integration setup?": False,
+    "LLM API Streaming Responses (Server-Sent Events / WebSockets) frontend Progressive Rendering integration setup?": True,
     "Prompt Engineering In-flight Payload Optimization Token Consumption reduction without losing context quality?": False,
     "Semantic Caching Design using Vector Databases (Pinecone/Milvus/Qdrant) LLM API response caching?": False,
     "LLM API Rate Limiting, Exponential Backoff Retry Jitter Strategy Handling HTTP 429 Too Many Requests?": False,
