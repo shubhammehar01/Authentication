@@ -121,7 +121,7 @@ IndiaPak = {
     'Kargil conflict 1999 me high altitude par hua tha.': True,
     'LOC (Line of Control)ashmir region ko divide karti hai.': True,
     'Sufi music aur qawwali dono desho me common heritage hain.': True,
-    'Bollywood movies aur music dono taraf pasand kiye jaate hain.': False,
+    'Bollywood movies aur music dono taraf pasand kiye jaate hain.': True,
     'Tashkent Declaration 1966 me sign hua tha.': False,
     'Samjhauta Express train service dono desho ke beech chalti thi.': False,
     'Shalimar Bagh Mughal architecture ka symbol hai.': False,
