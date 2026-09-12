@@ -122,7 +122,7 @@ IndiaPak = {
     'LOC (Line of Control)ashmir region ko divide karti hai.': True,
     'Sufi music aur qawwali dono desho me common heritage hain.': True,
     'Bollywood movies aur music dono taraf pasand kiye jaate hain.': True,
-    'Tashkent Declaration 1966 me sign hua tha.': False,
+    'Tashkent Declaration 1966 me sign hua tha.': True,
     'Samjhauta Express train service dono desho ke beech chalti thi.': False,
     'Shalimar Bagh Mughal architecture ka symbol hai.': False,
     'Biryani aur Chai dono cultures ka favourite part hai.': False,
