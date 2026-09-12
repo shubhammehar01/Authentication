@@ -909,7 +909,7 @@ MicroservicesArchitecture = {
     "Service Discovery Pattern: Client-Side Discovery vs Server-Side Discovery (Eureka, Consul, Kubernetes DNS)?": True,
     "API Gateway Pattern: Centralized Routing, Rate Limiting, Authentication, Protocol Translation (BFF Pattern)?": True,
     "Inter-Service Communication: Synchronous REST/gRPC vs Asynchronous Message Driven (Kafka/RabbitMQ) Event-Driven?": True,
-    "Resilience Patterns: Circuit Breaker, Bulkhead Isolation, Retry with Exponential Backoff, Rate Limiter (Resilience4j)?": False,
+    "Resilience Patterns: Circuit Breaker, Bulkhead Isolation, Retry with Exponential Backoff, Rate Limiter (Resilience4j)?": True,
     "Distributed Transactions: Saga Pattern (Choreography-based vs Orchestration-based) Compensation Transactions?": False,
     "Two-Phase Commit (2PC) Protocol limitations in Microservices Coordinator Failures Blocking Bottlenecks?": False,
     "Eventual Consistency Data Consistency across Microservices Bounded Contexts Outbox Pattern implementation?": False,
