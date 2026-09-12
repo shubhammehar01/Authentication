@@ -751,7 +751,7 @@ Git = {
     "Git Revert vs Git Reset: Public Published Branches commit undo safely without history rewriting?": True,
     "Git Cherry-Pick picking specific hotfix commits production branch release coordination?": True,
     "Git Interactive Rebase (`git rebase -i`) squashing, rewording, dropping, reordering commits history cleanup?": True,
-    "Git Stash management (`git stash push -m`, `pop`, `apply`, `drop`, `branch`) context switching?": False,
+    "Git Stash management (`git stash push -m`, `pop`, `apply`, `drop`, `branch`) context switching?": True,
     "Git Bisect binary search debugging tracking breaking bug introduction commit history?": False,
     "Git Hooks (Pre-commit, Pre-push, Post-merge) Husky automated linter unit tests enforcement?": False,
     "Git Submodules vs Git Subtree external dependency repository management version tracking?": False,
