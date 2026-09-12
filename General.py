@@ -336,7 +336,7 @@ CivilizationAncientPeople = {
     'Aztec civilization floating gardens (chinampas) use karti thi.': True,
     'Harappan seals par mysterious script mili hai jo padhi nahi gayi.': True,
     'Stonehenge monument ancient astronomy se juda hai.': True,
-    'Gobekli Tepe duniya ka sabse purana temple complex mana jata hai.': False,
+    'Gobekli Tepe duniya ka sabse purana temple complex mana jata hai.': True,
     'Babylon ki hanging gardens ancient wonders me aati hain.': False,
     'Mummification process ancient Egypt me dead bodies preserve karne ke liye thi.': False,
     'Hieroglyphics Egyptian pictographic writing system hai.': False,
