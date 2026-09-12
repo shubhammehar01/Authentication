@@ -173,7 +173,7 @@ NaturalDisaster = {
     'Landslide heavy rain ya earthquake se hill slopes par hota hai.': True,
     'Volcanic ash aviation engine ke liye dangerous hoti hai.': True,
     'Earthquake ke waves ko seismograph se record karte hain.': True,
-    'Flood rivers overflow hone ya cloudburst se aati hai.': False,
+    'Flood rivers overflow hone ya cloudburst se aati hai.': True,
     'Wildfires ko control karna bahut difficult hota hai.': False,
     'Lightning strike se kai baar bade forest fires shuru hote hain.': False,
     'Sinkholes zameen ke andar cave collapse hone se bante hain.': False,
