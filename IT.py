@@ -116,7 +116,7 @@ JavaScript = {
     "Debounce vs Throttle functions implementing user input search fields aur scroll listener throttling me farq kya hai?": True,
     "Promise.all vs Promise.allSettled vs Promise.race vs Promise.any: Concurrent asynchronous operational handling patterns?": True,
     "Web Workers use karke heavy computational JavaScript execution UI thread ko unblock rakhne me kaise leverage karein?": True,
-    "DOM Manipulation batching aur Virtual DOM reconciliation repaint aur reflow browser operational costs ko kaise kam karta hai?": False,
+    "DOM Manipulation batching aur Virtual DOM reconciliation repaint aur reflow browser operational costs ko kaise kam karta hai?": True,
     "Service Workers registration, caching strategies (Cache-First, Network-First) progressive offline web apps me kaise setup karein?": False,
     "Cross-Origin Resource Sharing (CORS) preflight OPTIONS requests aur security headers browser level enforcement me kaise resolve karein?": False,
     "JavaScript Garbage Collector (Mark-and-Sweep) detached DOM nodes memory cleanup kaise karta hai?": False,
