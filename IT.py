@@ -643,7 +643,7 @@ CollectionFramework = {
     "HashMap Internal Working Mechanics: Bucketing, Hash Code Collisions, Treeification (LinkedList to Red-Black Tree threshold)?": True,
     "ConcurrentHashMap vs SynchronizedMap vs Hashtable: Segment Locking vs Bucket Locking concurrency performance?": True,
     "ArrayList Dynamic Resizing Factor (50% capacity growth) array copy performance overhead mitigation?": True,
-    "LinkedHashMap Access-Order vs Insertion-Order configuration LRU Cache implementation design?": False,
+    "LinkedHashMap Access-Order vs Insertion-Order configuration LRU Cache implementation design?": True,
     "TreeMap / TreeSet Red-Black Tree Implementation Comparator vs Comparable custom sorting?": False,
     "CopyOnWriteArrayList / CopyOnWriteArraySet read-heavy write-rare thread-safe iterator mechanics?": False,
     "ArrayDeque vs Stack / LinkedList: Double-Ended Queue performance overhead memory locality benchmark?": False,
