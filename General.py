@@ -227,7 +227,7 @@ SeaCreature = {
     'Clownfish anemone ke sath symbiotic relationship me rehti hai.': True,
     'Squid ki aakhon ka size basketball jitna ho sakta hai.': True,
     'Sea turtle hazaron miles travel karke wapas nesting beach aate hain.': True,
-    'Crab side ways move karte hain.': False,
+    'Crab side ways move karte hain.': True,
     'Starfish apna lost arm dobara grow kar sakti hai.': False,
     'Killer whales sebenarnya dolphins ki family se belong karti hain.': False,
     'Anglerfish ke paas glowing lure hota hai shikaar ke liye.': False,
