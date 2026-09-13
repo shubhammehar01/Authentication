@@ -752,7 +752,7 @@ Git = {
     "Git Cherry-Pick picking specific hotfix commits production branch release coordination?": True,
     "Git Interactive Rebase (`git rebase -i`) squashing, rewording, dropping, reordering commits history cleanup?": True,
     "Git Stash management (`git stash push -m`, `pop`, `apply`, `drop`, `branch`) context switching?": True,
-    "Git Bisect binary search debugging tracking breaking bug introduction commit history?": False,
+    "Git Bisect binary search debugging tracking breaking bug introduction commit history?": True,
     "Git Hooks (Pre-commit, Pre-push, Post-merge) Husky automated linter unit tests enforcement?": False,
     "Git Submodules vs Git Subtree external dependency repository management version tracking?": False,
     "Git Reflog (`git reflog`) recovering lost commits deleted branches detached HEAD state fixes?": False,
