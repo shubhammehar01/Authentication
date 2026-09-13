@@ -495,7 +495,7 @@ PoliceSearching = {
     'Ballistic testing se gun aur bullet match ki jaati hai.': True,
     'Lie detector polygraph tests suspect interrogation me use hote hain.': True,
     'CSI teams crime scene se evidence collect karti hain.': True,
-    'Missing person search operations me drones use hote hain.': False,
+    'Missing person search operations me drones use hote hain.': True,
     'Highway checkposts pe vehicles ki checking hoti hai.': False,
     'Interpol international police cooperation network hai.': False,
     'Undercover operations me police secret agent bhejti hai.': False,
