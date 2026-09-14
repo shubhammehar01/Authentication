@@ -283,7 +283,7 @@ factoryEngineers = {
     'CAD software se parts ki 3D modeling ki jaati hai.': True,
     'PLC (Programmable Logic Controller) factory machines control karta hai.': True,
     'Conveyor belts materials ek jagah se dusri jagah move karti hain.': True,
-    'Supply chain management raw material timing manage karta hai.': False,
+    'Supply chain management raw material timing manage karta hai.': True,
     'Industrial IoT (IIoT) real-time data monitoring deta hai.': False,
     'Assembly line Henry Ford ne popular ki thi.': False,
     'PPE (Personal Protective Equipment) workers ki safety ke liye zaroori hai.': False,
