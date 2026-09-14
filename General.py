@@ -386,7 +386,7 @@ FlyVehicles = {
     'Commercial airplanes jet engines par operate karte hain.': True,
     'Helicopters vertical takeoff aur landing kar sakte hain.': True,
     'Concorde supersonic passenger jet history ka iconic plane tha.': True,
-    'Fighter jets mach speed se zyada fast ud sakte hain.': False,
+    'Fighter jets mach speed se zyada fast ud sakte hain.': True,
     'Stealth technology planes ko radar se hide karti hai.': False,
     'Autopilot systems modern flights ko safely navigate karte hain.': False,
     'Air traffic control sky me collision avoid karta hai.': False,
