@@ -271,7 +271,7 @@ MySql = {
     "MySQL me frequently accessed data ke liye indexing strategy design karni hai. Kaunse factors consider karoge?": True,
     "MySQL InnoDB Engine Storage Architecture: Buffer Pool, Change Buffer, Adaptive Hash Index, Undo/Redo Logs mechanics?": True,
     "MySQL Query Execution Path: Parser, Optimizer, InnoDB Engine Index Lookup, FileSort, Temporary Tables elimination?": True,
-    "MySQL Indexes: B+ Tree Index Architecture vs Hash Index comparison, Index Cardinality importance?": False,
+    "MySQL Indexes: B+ Tree Index Architecture vs Hash Index comparison, Index Cardinality importance?": True,
     "MySQL Primary Key Selection: Auto-increment INT vs UUID (Clustered Index Page Splits fragmentation issues)?": False,
     "MySQL Indexing Strategies: Covering Index (Using Index), Composite Index Left-most Prefix Rule optimization?": False,
     "MySQL Transaction Isolation Levels (READ COMMITTED, REPEATABLE READ) InnoDB MVCC (Multi-Version Concurrency Control) implementation?": False,
