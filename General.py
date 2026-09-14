@@ -67,7 +67,7 @@ War = {
     'Guerrilla warfare tactics me chhupkar hamla kiya jata hai.': True,
     'Naval wars me submarines game changer sabit hui hain.': True,
     'Cyber warfare aaj ke samay me sabse bada threat ban gaya hai.': True,
-    'Drones ka use modern wars me tezi se badh gaya hai.': False,
+    'Drones ka use modern wars me tezi se badh gaya hai.': True,
     'Geneva Convention war prisoners ke rights protect karta hai.': False,
     'Nuclear weapons ki shakti poori duniya ko tabah kar sakti hai.': False,
     'Kamikaze pilots WWII me apne planes dushman par crash kar dete the.': False,
