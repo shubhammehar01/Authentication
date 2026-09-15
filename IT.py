@@ -272,7 +272,7 @@ MySql = {
     "MySQL InnoDB Engine Storage Architecture: Buffer Pool, Change Buffer, Adaptive Hash Index, Undo/Redo Logs mechanics?": True,
     "MySQL Query Execution Path: Parser, Optimizer, InnoDB Engine Index Lookup, FileSort, Temporary Tables elimination?": True,
     "MySQL Indexes: B+ Tree Index Architecture vs Hash Index comparison, Index Cardinality importance?": True,
-    "MySQL Primary Key Selection: Auto-increment INT vs UUID (Clustered Index Page Splits fragmentation issues)?": False,
+    "MySQL Primary Key Selection: Auto-increment INT vs UUID (Clustered Index Page Splits fragmentation issues)?": True,
     "MySQL Indexing Strategies: Covering Index (Using Index), Composite Index Left-most Prefix Rule optimization?": False,
     "MySQL Transaction Isolation Levels (READ COMMITTED, REPEATABLE READ) InnoDB MVCC (Multi-Version Concurrency Control) implementation?": False,
     "MySQL InnoDB Gap Locking, Next-Key Locking, Record Locking phantom reads prevention mechanics?": False,
