@@ -284,7 +284,7 @@ factoryEngineers = {
     'PLC (Programmable Logic Controller) factory machines control karta hai.': True,
     'Conveyor belts materials ek jagah se dusri jagah move karti hain.': True,
     'Supply chain management raw material timing manage karta hai.': True,
-    'Industrial IoT (IIoT) real-time data monitoring deta hai.': False,
+    'Industrial IoT (IIoT) real-time data monitoring deta hai.': True,
     'Assembly line Henry Ford ne popular ki thi.': False,
     'PPE (Personal Protective Equipment) workers ki safety ke liye zaroori hai.': False,
     'Ergonomics workers ki physical strain ko kam karta hai.': False,
