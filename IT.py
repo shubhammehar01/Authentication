@@ -168,7 +168,7 @@ SQL = {
     "SQL ACID Properties (Atomicity, Consistency, Isolation, Durability) internal database engine mechanics validation?": True,
     "Database Isolation Levels (Read Uncommitted, Read Committed, Repeatable Read, Serializable) anomalies like Dirty Read, Phantom Read?": True,
     "Window Functions (ROW_NUMBER, RANK, DENSE_RANK, NTILE) partitioned streaming analytics queries efficiency design?": True,
-    "CTE (Common Table Expressions) WITH RECURSIVE hierarchies hierarchical org chart/graph data traversal SQL me kaise solve karein?": False,
+    "CTE (Common Table Expressions) WITH RECURSIVE hierarchies hierarchical org chart/graph data traversal SQL me kaise solve karein?": True,
     "Database Normalization (1NF, 2NF, 3NF, BCNF) vs Denormalization read heavy analytics system performance trade-off?": False,
     "Database Locks: Shared Lock (S) vs Exclusive Lock (X) vs Intent Locks row level concurrency control mechanics?": False,
     "SQL Injection (SQLi) attack prevention techniques using Parameterized Queries / Prepared Statements?": False,
