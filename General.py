@@ -124,7 +124,7 @@ IndiaPak = {
     'Bollywood movies aur music dono taraf pasand kiye jaate hain.': True,
     'Tashkent Declaration 1966 me sign hua tha.': True,
     'Samjhauta Express train service dono desho ke beech chalti thi.': True,
-    'Shalimar Bagh Mughal architecture ka symbol hai.': False,
+    'Shalimar Bagh Mughal architecture ka symbol hai.': True,
     'Biryani aur Chai dono cultures ka favourite part hai.': False,
     'Ghulam Ali aur Nusrat Fateh Ali Khan ke fans dono taraf hain.': False,
     'Cross-border trade ke liye kuch checkposts banaye gaye hain.': False,
