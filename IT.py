@@ -432,7 +432,7 @@ AWS = {
     "AWS VPC Design: Public Subnets, Private Subnets, NAT Gateways, Internet Gateways, Route Tables network topology?": True,
     "AWS EC2 Auto Scaling Groups (ASG) Dynamic Scaling Policies, Target Tracking, Predictive Scaling configurations?": True,
     "AWS Load Balancers: ALB (Application) vs NLB (Network) vs GLB (Gateway) layer 7 vs layer 4 traffic routing selection?": True,
-    "AWS S3 Lifecycle Policies, Storage Classes (Standard, IA, Glacier, Deep Archive), Object Lock compliance retention?": False,
+    "AWS S3 Lifecycle Policies, Storage Classes (Standard, IA, Glacier, Deep Archive), Object Lock compliance retention?": True,
     "AWS RDS Multi-AZ Replication vs Read Replicas High Availability Disaster Recovery Performance Scaling design?": False,
     "AWS DynamoDB Data Modeling: Single-Table Design, Partition Keys, Sort Keys, Global Secondary Indexes (GSI) scaling?": False,
     "AWS Lambda Serverless Execution Cold Start Optimization, VPC Attachment latency, Memory/CPU provisioning?": False,
