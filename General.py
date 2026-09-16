@@ -15,7 +15,7 @@ AnimalPicture = {
     'Tiger ki skin par bhi dhariyan hoti hain agar baal hata diye jayein.': True,
     'Penguin khara pani pee sakte hain kyunki unke paas salt gland hota hai.': True,
     'Owl 360 degree tak apna sir guma sakte hain.': True,
-    'Bees ki 5 aankhe hoti hain.': False,
+    'Bees ki 5 aankhe hoti hain.': True,
     'Horse khade-khade so sakte hain.': False,
     'Flamingo pink isliye hote hain kyunki wo shrimp khate hain.': False,
     'Snail 3 saal tak so sakta hai.': False,
