@@ -446,7 +446,7 @@ GandhiMarch = {
     'International media ne is event ko widely cover kiya tha.': True,
     'Sarojini Naidu bhi is movement ki prominent leader thin.': True,
     'Dharasana salt works protest bhi iske baad hua tha.': True,
-    'Khadi cloth ko promote karna Swadeshi movement ka part tha.': False,
+    'Khadi cloth ko promote karna Swadeshi movement ka part tha.': True,
     'Ahimsa aur Satyagraha Gandhi ji ke main weapons the.': False,
     'Champaran satyagrah indigo farmers ke liye tha.': False,
     'Kheda satyagrah tax relief ke liye organize hua tha.': False,
