@@ -497,7 +497,7 @@ PoliceSearching = {
     'CSI teams crime scene se evidence collect karti hain.': True,
     'Missing person search operations me drones use hote hain.': True,
     'Highway checkposts pe vehicles ki checking hoti hai.': True,
-    'Interpol international police cooperation network hai.': False,
+    'Interpol international police cooperation network hai.': True,
     'Undercover operations me police secret agent bhejti hai.': False,
     'Raid actions me illegal substances ya criminals pakde jaate hain.': False,
     'APIS system automated fingerprint identification karta hai.': False,
