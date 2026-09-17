@@ -498,7 +498,7 @@ PoliceSearching = {
     'Missing person search operations me drones use hote hain.': True,
     'Highway checkposts pe vehicles ki checking hoti hai.': True,
     'Interpol international police cooperation network hai.': True,
-    'Undercover operations me police secret agent bhejti hai.': False,
+    'Undercover operations me police secret agent bhejti hai.': True,
     'Raid actions me illegal substances ya criminals pakde jaate hain.': False,
     'APIS system automated fingerprint identification karta hai.': False,
     'CCIS database criminal records maintain rakhta hai.': False,
