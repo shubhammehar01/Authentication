@@ -534,7 +534,7 @@ SystemDesign = {
     "Aapki application par sudden traffic spike aata hai aur servers overload ho jaate hain. System ko resilient kaise banaoge?": True,
     "Distributed system me multiple services ko same data ki requirement hai. Data consistency aur scalability kaise maintain karoge?": True,
     "Aapko ek system design karna hai jahan users real-time messages exchange kar saken. Architecture kaise design karoge?": True,
-    "CAP Theorem (Consistency, Availability, Partition Tolerance) PACELC Theorem trade-off system decisions?": False,
+    "CAP Theorem (Consistency, Availability, Partition Tolerance) PACELC Theorem trade-off system decisions?": True,
     "Distributed Caching Design: Cache-Aside, Write-Through, Write-Behind, Read-Through cache strategies comparison?": False,
     "Consistent Hashing Algorithm implementation distributed cache cluster node addition/removal load balancing?": False,
     "Rate Limiter System Design: Token Bucket, Leaky Bucket, Fixed Window, Sliding Window Log algorithms?": False,
