@@ -753,7 +753,7 @@ Git = {
     "Git Interactive Rebase (`git rebase -i`) squashing, rewording, dropping, reordering commits history cleanup?": True,
     "Git Stash management (`git stash push -m`, `pop`, `apply`, `drop`, `branch`) context switching?": True,
     "Git Bisect binary search debugging tracking breaking bug introduction commit history?": True,
-    "Git Hooks (Pre-commit, Pre-push, Post-merge) Husky automated linter unit tests enforcement?": False,
+    "Git Hooks (Pre-commit, Pre-push, Post-merge) Husky automated linter unit tests enforcement?": True,
     "Git Submodules vs Git Subtree external dependency repository management version tracking?": False,
     "Git Reflog (`git reflog`) recovering lost commits deleted branches detached HEAD state fixes?": False,
     "Git Branching Models: GitFlow vs GitHub Flow vs Trunk-Based Development scaling CI/CD releases?": False,
