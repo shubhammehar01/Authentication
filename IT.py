@@ -377,7 +377,7 @@ Docker = {
     "Application aur database ko Docker containers me run karna hai aur data container restart ke baad bhi preserve rehna chahiye. Kaise design karoge?": True,
     "Docker Architecture: Docker Daemon, Client, REST API, containerd, runc OCI runtime internal execution mechanics?": True,
     "Docker Storage Drivers: Overlay2, Btrfs, ZFS layer caching copy-on-write (CoW) file systems efficiency?": True,
-    "Docker Multi-Stage Builds configuration build dependencies removal production minimal image optimization?": False,
+    "Docker Multi-Stage Builds configuration build dependencies removal production minimal image optimization?": True,
     "Docker Networking Drivers: Bridge, Host, Overlay, Macvlan, None network isolation routing selection?": False,
     "Docker Volumes vs Bind Mounts vs tmpfs mounts persistent data management performance security trade-off?": False,
     "Docker Container Resource Constraints (`--memory`, `--cpus`, `--oom-kill-disable`) resource starvation fixes?": False,
