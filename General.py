@@ -17,7 +17,7 @@ AnimalPicture = {
     'Owl 360 degree tak apna sir guma sakte hain.': True,
     'Bees ki 5 aankhe hoti hain.': True,
     'Horse khade-khade so sakte hain.': True,
-    'Flamingo pink isliye hote hain kyunki wo shrimp khate hain.': False,
+    'Flamingo pink isliye hote hain kyunki wo shrimp khate hain.': True,
     'Snail 3 saal tak so sakta hai.': False,
     'Crocodile apni jeebh bahar nahi nikal sakte.': False,
     'Starfish ke paas dimaag nahi hota.': False,
