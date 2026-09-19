@@ -645,7 +645,7 @@ CollectionFramework = {
     "ArrayList Dynamic Resizing Factor (50% capacity growth) array copy performance overhead mitigation?": True,
     "LinkedHashMap Access-Order vs Insertion-Order configuration LRU Cache implementation design?": True,
     "TreeMap / TreeSet Red-Black Tree Implementation Comparator vs Comparable custom sorting?": True,
-    "CopyOnWriteArrayList / CopyOnWriteArraySet read-heavy write-rare thread-safe iterator mechanics?": False,
+    "CopyOnWriteArrayList / CopyOnWriteArraySet read-heavy write-rare thread-safe iterator mechanics?": True,
     "ArrayDeque vs Stack / LinkedList: Double-Ended Queue performance overhead memory locality benchmark?": False,
     "PriorityQueue Internal Min/Max Binary Heap Structure siftUp / siftDown log(N) insertion deletion?": False,
     "IdentityHashMap vs HashMap: Reference Equality (`==`) vs Value Equality (`equals()`) key comparisons?": False,
