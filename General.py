@@ -285,7 +285,7 @@ factoryEngineers = {
     'Conveyor belts materials ek jagah se dusri jagah move karti hain.': True,
     'Supply chain management raw material timing manage karta hai.': True,
     'Industrial IoT (IIoT) real-time data monitoring deta hai.': True,
-    'Assembly line Henry Ford ne popular ki thi.': False,
+    'Assembly line Henry Ford ne popular ki thi.': True,
     'PPE (Personal Protective Equipment) workers ki safety ke liye zaroori hai.': False,
     'Ergonomics workers ki physical strain ko kam karta hai.': False,
     'Material handling equipment heavy loads lift karta hai.': False,
