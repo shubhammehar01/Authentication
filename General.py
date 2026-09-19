@@ -69,7 +69,7 @@ War = {
     'Cyber warfare aaj ke samay me sabse bada threat ban gaya hai.': True,
     'Drones ka use modern wars me tezi se badh gaya hai.': True,
     'Geneva Convention war prisoners ke rights protect karta hai.': True,
-    'Nuclear weapons ki shakti poori duniya ko tabah kar sakti hai.': False,
+    'Nuclear weapons ki shakti poori duniya ko tabah kar sakti hai.': True,
     'Kamikaze pilots WWII me apne planes dushman par crash kar dete the.': False,
     'Radar technology WWII ke dauran invent ki gayi thi.': False,
     'Sun Tzu ki book The Art of War military strategy ke liye famous hai.': False,
