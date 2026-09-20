@@ -174,7 +174,7 @@ NaturalDisaster = {
     'Volcanic ash aviation engine ke liye dangerous hoti hai.': True,
     'Earthquake ke waves ko seismograph se record karte hain.': True,
     'Flood rivers overflow hone ya cloudburst se aati hai.': True,
-    'Wildfires ko control karna bahut difficult hota hai.': False,
+    'Wildfires ko control karna bahut difficult hota hai.': True,
     'Lightning strike se kai baar bade forest fires shuru hote hain.': False,
     'Sinkholes zameen ke andar cave collapse hone se bante hain.': False,
     'Blizzard severe snowstorm ko kehte hain jisme visibility low hoti hai.': False,
