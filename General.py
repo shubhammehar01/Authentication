@@ -388,7 +388,7 @@ FlyVehicles = {
     'Concorde supersonic passenger jet history ka iconic plane tha.': True,
     'Fighter jets mach speed se zyada fast ud sakte hain.': True,
     'Stealth technology planes ko radar se hide karti hai.': True,
-    'Autopilot systems modern flights ko safely navigate karte hain.': False,
+    'Autopilot systems modern flights ko safely navigate karte hain.': True,
     'Air traffic control sky me collision avoid karta hai.': False,
     'Hot air balloons hot air ki buoyancy par fly karte hain.': False,
     'Gliders bina engine ke air currents par glide karte hain.': False,
