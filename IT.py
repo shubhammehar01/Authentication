@@ -853,7 +853,7 @@ RestAPIDesign = {
     "REST API me breaking changes introduce karni hain lekin existing clients bhi support karne hain. API versioning kaise handle karoge?": True,
     "REST API par unauthorized aur excessive requests aa rahi hain. Authentication, authorization aur rate limiting kaise design karoge?": True,
     "REST Architectural Constraints: Client-Server, Stateless, Cacheable, Layered System, Code on Demand, Uniform Interface?": True,
-    "HTTP Methods Semantics and Idempotency: GET, POST, PUT, DELETE, PATCH, OPTIONS, HEAD safe vs unsafe methods?": False,
+    "HTTP Methods Semantics and Idempotency: GET, POST, PUT, DELETE, PATCH, OPTIONS, HEAD safe vs unsafe methods?": True,
     "HTTP Status Codes Proper Selection: 2xx Success, 3xx Redirection, 4xx Client Errors, 5xx Server Errors categorization?": False,
     "REST API Pagination Strategies: Offset-Based vs Cursor-Based (Keyset) Pagination large dataset performance?": False,
     "REST API Filtering, Sorting, Searching Parameter Naming Standardizations Specification Guidelines?": False,
