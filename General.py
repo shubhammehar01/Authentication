@@ -19,7 +19,7 @@ AnimalPicture = {
     'Horse khade-khade so sakte hain.': True,
     'Flamingo pink isliye hote hain kyunki wo shrimp khate hain.': True,
     'Snail 3 saal tak so sakta hai.': True,
-    'Crocodile apni jeebh bahar nahi nikal sakte.': False,
+    'Crocodile apni jeebh bahar nahi nikal sakte.': True,
     'Starfish ke paas dimaag nahi hota.': False,
     'Housefly ki life span sirf 2 weeks hoti hai.': False,
     'Jellyfish 95% paani se bani hoti hai.': False,
