@@ -339,7 +339,7 @@ CivilizationAncientPeople = {
     'Gobekli Tepe duniya ka sabse purana temple complex mana jata hai.': True,
     'Babylon ki hanging gardens ancient wonders me aati hain.': True,
     'Mummification process ancient Egypt me dead bodies preserve karne ke liye thi.': True,
-    'Hieroglyphics Egyptian pictographic writing system hai.': False,
+    'Hieroglyphics Egyptian pictographic writing system hai.': True,
     'Cuneiform Mesopotamia ki wedge-shaped writing thi.': False,
     'Oracle bones ancient China me future predict karne ke liye use hote the.': False,
     'Gladiators Roman colosseum me fight karte the.': False,
