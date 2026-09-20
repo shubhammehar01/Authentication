@@ -536,7 +536,7 @@ SystemDesign = {
     "Aapko ek system design karna hai jahan users real-time messages exchange kar saken. Architecture kaise design karoge?": True,
     "CAP Theorem (Consistency, Availability, Partition Tolerance) PACELC Theorem trade-off system decisions?": True,
     "Distributed Caching Design: Cache-Aside, Write-Through, Write-Behind, Read-Through cache strategies comparison?": True,
-    "Consistent Hashing Algorithm implementation distributed cache cluster node addition/removal load balancing?": False,
+    "Consistent Hashing Algorithm implementation distributed cache cluster node addition/removal load balancing?": True,
     "Rate Limiter System Design: Token Bucket, Leaky Bucket, Fixed Window, Sliding Window Log algorithms?": False,
     "Distributed Unique ID Generator Design: Twitter Snowflake Algorithm vs UUID vs Database Auto-Increment?": False,
     "Web Crawler System Design: Scalable URL Frontier, HTML Downloader, Deduplication Bloom Filters?": False,
