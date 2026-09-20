@@ -274,7 +274,7 @@ MySql = {
     "MySQL Indexes: B+ Tree Index Architecture vs Hash Index comparison, Index Cardinality importance?": True,
     "MySQL Primary Key Selection: Auto-increment INT vs UUID (Clustered Index Page Splits fragmentation issues)?": True,
     "MySQL Indexing Strategies: Covering Index (Using Index), Composite Index Left-most Prefix Rule optimization?": True,
-    "MySQL Transaction Isolation Levels (READ COMMITTED, REPEATABLE READ) InnoDB MVCC (Multi-Version Concurrency Control) implementation?": False,
+    "MySQL Transaction Isolation Levels (READ COMMITTED, REPEATABLE READ) InnoDB MVCC (Multi-Version Concurrency Control) implementation?": True,
     "MySQL InnoDB Gap Locking, Next-Key Locking, Record Locking phantom reads prevention mechanics?": False,
     "MySQL Slow Query Log configuration, `mysqldumpslow` aur `pt-query-digest` log analysis tools usage?": False,
     "MySQL Replication Topologies: Master-Slave, Master-Master, GTID Based Async vs Semi-Sync Replication delay mitigation?": False,
