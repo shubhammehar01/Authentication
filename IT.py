@@ -696,7 +696,7 @@ OOPs = {
     "SOLID Principles Deep Dive: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion?": True,
     "Encapsulation vs Abstraction Data Hiding vs Implementation Hiding architectural clean design distinction?": True,
     "Polymorphism: Compile-Time (Overloading) vs Runtime (Overriding / Dynamic Binding) Virtual Method Table (VTable)?": True,
-    "Composition over Inheritance Design Principle Flexibility Loose Coupling Code Reusability?": False,
+    "Composition over Inheritance Design Principle Flexibility Loose Coupling Code Reusability?": True,
     "Abstract Class vs Interface Design Decisions Multiple Inheritance Problem Default/Static Methods in Interfaces?": False,
     "Design Patterns: Factory Method Pattern vs Abstract Factory Pattern Extensible Object Creation?": False,
     "Design Patterns: Singleton Pattern Thread-Safety, Double-Checked Locking, Serialization / Reflection Breaks Fixes?": False,
