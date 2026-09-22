@@ -329,7 +329,7 @@ React = {
     "React Context API performance re-rendering issues mitigation splitting contexts vs Redux/Zustand libraries?": True,
     "React State Management Comparison: Redux Toolkit vs Zustand vs Jotai vs Recoil architectural trade-offs?": True,
     "React Code Splitting Lazy Loading components using `React.lazy` and `Suspense` bundle size reduction?": True,
-    "React Error Boundaries (`componentDidCatch`, `getDerivedStateFromError`) fallback UI rendering crash prevention?": False,
+    "React Error Boundaries (`componentDidCatch`, `getDerivedStateFromError`) fallback UI rendering crash prevention?": True,
     "React Portal (`createPortal`) modal dialogs, tooltips rendering outside parent DOM hierarchy z-index bugs fix?": False,
     "React Server Components (RSC) vs Client Components Data Fetching SSR Next.js App Router architecture?": False,
     "React High Order Components (HOC) vs Render Props vs Custom Hooks evolution clean code refactoring?": False,
