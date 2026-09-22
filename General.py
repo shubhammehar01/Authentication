@@ -287,7 +287,7 @@ factoryEngineers = {
     'Industrial IoT (IIoT) real-time data monitoring deta hai.': True,
     'Assembly line Henry Ford ne popular ki thi.': True,
     'PPE (Personal Protective Equipment) workers ki safety ke liye zaroori hai.': True,
-    'Ergonomics workers ki physical strain ko kam karta hai.': False,
+    'Ergonomics workers ki physical strain ko kam karta hai.': True,
     'Material handling equipment heavy loads lift karta hai.': False,
     'Hydraulic systems high pressure force generate karte hain.': False,
     'Pneumatic systems compressed air par kaam karte hain.': False,
