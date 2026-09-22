@@ -548,7 +548,7 @@ RoketSatellite = {
     'PSLV ISRO ka workhorse launch vehicle hai.': True,
     'GSLV heavy payloads geostationary orbit me bhejta hai.': True,
     'Reusable rockets space travel ka cost drastically kam karte hain.': True,
-    'Low Earth Orbit (LEO) me Starlink jese constellations hote hain.': False,
+    'Low Earth Orbit (LEO) me Starlink jese constellations hote hain.': True,
     'Geostationary satellites earth ke sath synchronous rotate karti hain.': False,
     'GPS satellites navigation aur timing signals provide karti hain.': False,
     'Hubble Space Telescope deep space images capture karta hai.': False,
