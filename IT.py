@@ -590,7 +590,7 @@ AIAPIIntegration = {
     "LLM API Streaming Responses (Server-Sent Events / WebSockets) frontend Progressive Rendering integration setup?": True,
     "Prompt Engineering In-flight Payload Optimization Token Consumption reduction without losing context quality?": True,
     "Semantic Caching Design using Vector Databases (Pinecone/Milvus/Qdrant) LLM API response caching?": True,
-    "LLM API Rate Limiting, Exponential Backoff Retry Jitter Strategy Handling HTTP 429 Too Many Requests?": False,
+    "LLM API Rate Limiting, Exponential Backoff Retry Jitter Strategy Handling HTTP 429 Too Many Requests?": True,
     "AI Gateway Integration (LiteLLM/Portkey) Load Balancing, Fallback Models (OpenAI to Anthropic), Multi-tenant tracking?": False,
     "RAG (Retrieval-Augmented Generation) Architecture Design: Document Chunking, Embedding Generation, Vector Search?": False,
     "Function Calling / Tool Use API Integration structured JSON Output parsing error handling schemas?": False,
