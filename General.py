@@ -607,7 +607,7 @@ Machines = {
     'Hydraulic presses heavy metal stamping ke liye hoti hain.': True,
     'Steam turbines power plants me electricity generate karte hain.': True,
     'Internal combustion engines fossil fuels par chalte hain.': True,
-    'Electric motors electrical energy ko mechanical energy me badalti hain.': False,
+    'Electric motors electrical energy ko mechanical energy me badalti hain.': True,
     'Generators mechanical energy ko electricity me convert karte hain.': False,
     'Transformers voltage levels step up ya down karte hain.': False,
     'Compressors air pressure increase karte hain pneumatic tools ke liye.': False,
