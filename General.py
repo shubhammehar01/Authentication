@@ -390,7 +390,7 @@ FlyVehicles = {
     'Stealth technology planes ko radar se hide karti hai.': True,
     'Autopilot systems modern flights ko safely navigate karte hain.': True,
     'Air traffic control sky me collision avoid karta hai.': True,
-    'Hot air balloons hot air ki buoyancy par fly karte hain.': False,
+    'Hot air balloons hot air ki buoyancy par fly karte hain.': True,
     'Gliders bina engine ke air currents par glide karte hain.': False,
     'Seaplanes pani par land aur takeoff kar sakte hain.': False,
     'Cargo planes heavy goods transport karne ke liye hote hain.': False,
