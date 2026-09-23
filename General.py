@@ -499,7 +499,7 @@ PoliceSearching = {
     'Highway checkposts pe vehicles ki checking hoti hai.': True,
     'Interpol international police cooperation network hai.': True,
     'Undercover operations me police secret agent bhejti hai.': True,
-    'Raid actions me illegal substances ya criminals pakde jaate hain.': False,
+    'Raid actions me illegal substances ya criminals pakde jaate hain.': True,
     'APIS system automated fingerprint identification karta hai.': False,
     'CCIS database criminal records maintain rakhta hai.': False,
     'Emergency helpline numbers quick response ke liye hote hain.': False,
