@@ -490,7 +490,7 @@ DSA = {
     "Binary Tree Traversal: Inorder, Preorder, Postorder Iterative traversal using Stack vs Level Order (BFS) Queue?": True,
     "Binary Search Tree (BST) operations Validation, Lowest Common Ancestor (LCA), Deletion balancing BST?": True,
     "Heap / Priority Queue: Merge K Sorted Lists, Find Median from Data Stream (Two Heaps pattern)?": True,
-    "Backtracking: N-Queens Problem, Sudoku Solver, Subsets & Permutations state space tree pruning optimization?": False,
+    "Backtracking: N-Queens Problem, Sudoku Solver, Subsets & Permutations state space tree pruning optimization?": True,
     "Dynamic Programming - 1D: Climbing Stairs, House Robber, Coin Change Top-Down Memoization vs Bottom-Up Tabulation?": False,
     "Dynamic Programming - 2D: Longest Common Subsequence (LCS), Edit Distance, Knapsack 0/1 problem space optimization?": False,
     "Greedy Algorithms: Activity Selection, Fractional Knapsack, Huffman Coding local optimal choice verification?": False,
