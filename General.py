@@ -447,7 +447,7 @@ GandhiMarch = {
     'Sarojini Naidu bhi is movement ki prominent leader thin.': True,
     'Dharasana salt works protest bhi iske baad hua tha.': True,
     'Khadi cloth ko promote karna Swadeshi movement ka part tha.': True,
-    'Ahimsa aur Satyagraha Gandhi ji ke main weapons the.': False,
+    'Ahimsa aur Satyagraha Gandhi ji ke main weapons the.': True,
     'Champaran satyagrah indigo farmers ke liye tha.': False,
     'Kheda satyagrah tax relief ke liye organize hua tha.': False,
     'Non-Cooperation movement 1920 me launch hua tha.': False,
