@@ -434,7 +434,7 @@ AWS = {
     "AWS Load Balancers: ALB (Application) vs NLB (Network) vs GLB (Gateway) layer 7 vs layer 4 traffic routing selection?": True,
     "AWS S3 Lifecycle Policies, Storage Classes (Standard, IA, Glacier, Deep Archive), Object Lock compliance retention?": True,
     "AWS RDS Multi-AZ Replication vs Read Replicas High Availability Disaster Recovery Performance Scaling design?": True,
-    "AWS DynamoDB Data Modeling: Single-Table Design, Partition Keys, Sort Keys, Global Secondary Indexes (GSI) scaling?": False,
+    "AWS DynamoDB Data Modeling: Single-Table Design, Partition Keys, Sort Keys, Global Secondary Indexes (GSI) scaling?": True,
     "AWS Lambda Serverless Execution Cold Start Optimization, VPC Attachment latency, Memory/CPU provisioning?": False,
     "AWS ECS (Elastic Container Service) Fargate vs EC2 Launch Types task definitions autoscaling deployment?": False,
     "AWS EKS (Elastic Kubernetes Service) Worker Node Groups, VPC CNI networking, IAM Roles for Service Accounts (IRSA)?": False,
