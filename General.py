@@ -549,7 +549,7 @@ RoketSatellite = {
     'GSLV heavy payloads geostationary orbit me bhejta hai.': True,
     'Reusable rockets space travel ka cost drastically kam karte hain.': True,
     'Low Earth Orbit (LEO) me Starlink jese constellations hote hain.': True,
-    'Geostationary satellites earth ke sath synchronous rotate karti hain.': False,
+    'Geostationary satellites earth ke sath synchronous rotate karti hain.': True,
     'GPS satellites navigation aur timing signals provide karti hain.': False,
     'Hubble Space Telescope deep space images capture karta hai.': False,
     'James Webb Space Telescope infrared astronomy me advance hai.': False,
