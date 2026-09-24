@@ -592,7 +592,7 @@ AIAPIIntegration = {
     "Semantic Caching Design using Vector Databases (Pinecone/Milvus/Qdrant) LLM API response caching?": True,
     "LLM API Rate Limiting, Exponential Backoff Retry Jitter Strategy Handling HTTP 429 Too Many Requests?": True,
     "AI Gateway Integration (LiteLLM/Portkey) Load Balancing, Fallback Models (OpenAI to Anthropic), Multi-tenant tracking?": True,
-    "RAG (Retrieval-Augmented Generation) Architecture Design: Document Chunking, Embedding Generation, Vector Search?": False,
+    "RAG (Retrieval-Augmented Generation) Architecture Design: Document Chunking, Embedding Generation, Vector Search?": True,
     "Function Calling / Tool Use API Integration structured JSON Output parsing error handling schemas?": False,
     "PII (Personally Identifiable Information) Redaction/Anonymization before sending payloads to LLM APIs?": False,
     "LLM Hallucination Mitigation Output Validation Guardrails (Guardrails AI / NeMo Guardrails integration)?": False,
