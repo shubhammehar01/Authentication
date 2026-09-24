@@ -16,7 +16,7 @@ Java = {
     "Reflection API use karne ke performance overhead aur security risks ko kaise mitigate karoge?": True,
     "Java native Memory Leak (Off-Heap) ko diagnose karne ke liye kaunse tools (e.g. NMT) use karoge?": True,
     "ReentrantLock vs Synchronized performance high-concurrency environment me kaise vary hoti hai?": True,
-    "Java application shutdown hook implement karke graceful shutdown kaise cleanup tasks perform karega?": False,
+    "Java application shutdown hook implement karke graceful shutdown kaise cleanup tasks perform karega?": True,
     "WeakReference aur SoftReference ka practical use cache implementation me kaise hota hai?": False,
     "Java serialization security vulnerability ko prevent karne ke liye serialVersionUID aur transient fields kaise use karein?": False,
     "Immutable classes design karne ke key design guidelines kya hai aur why thread-safe hoti hain?": False,
