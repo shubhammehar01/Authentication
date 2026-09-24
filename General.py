@@ -176,7 +176,7 @@ NaturalDisaster = {
     'Flood rivers overflow hone ya cloudburst se aati hai.': True,
     'Wildfires ko control karna bahut difficult hota hai.': True,
     'Lightning strike se kai baar bade forest fires shuru hote hain.': True,
-    'Sinkholes zameen ke andar cave collapse hone se bante hain.': False,
+    'Sinkholes zameen ke andar cave collapse hone se bante hain.': True,
     'Blizzard severe snowstorm ko kehte hain jisme visibility low hoti hai.': False,
     'Heatwave extreme temperature increase hone se hoti hai.': False,
     'Cyclone ka eye center calm area hota hai.': False,
