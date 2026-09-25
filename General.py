@@ -391,7 +391,7 @@ FlyVehicles = {
     'Autopilot systems modern flights ko safely navigate karte hain.': True,
     'Air traffic control sky me collision avoid karta hai.': True,
     'Hot air balloons hot air ki buoyancy par fly karte hain.': True,
-    'Gliders bina engine ke air currents par glide karte hain.': False,
+    'Gliders bina engine ke air currents par glide karte hain.': True,
     'Seaplanes pani par land aur takeoff kar sakte hain.': False,
     'Cargo planes heavy goods transport karne ke liye hote hain.': False,
     'Refueling aircraft mid-air me doosre plane me fuel transfer karte hain.': False,
