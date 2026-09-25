@@ -501,7 +501,7 @@ PoliceSearching = {
     'Undercover operations me police secret agent bhejti hai.': True,
     'Raid actions me illegal substances ya criminals pakde jaate hain.': True,
     'APIS system automated fingerprint identification karta hai.': True,
-    'CCIS database criminal records maintain rakhta hai.': False,
+    'CCIS database criminal records maintain rakhta hai.': True,
     'Emergency helpline numbers quick response ke liye hote hain.': False,
     'SWAT teams high-risk hostage situations handle karti hain.': False,
     'Bomb disposal squads explosives neutralise karte hain.': False,
