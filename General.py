@@ -71,7 +71,7 @@ War = {
     'Geneva Convention war prisoners ke rights protect karta hai.': True,
     'Nuclear weapons ki shakti poori duniya ko tabah kar sakti hai.': True,
     'Kamikaze pilots WWII me apne planes dushman par crash kar dete the.': True,
-    'Radar technology WWII ke dauran invent ki gayi thi.': False,
+    'Radar technology WWII ke dauran invent ki gayi thi.': True,
     'Sun Tzu ki book The Art of War military strategy ke liye famous hai.': False,
     'Mongol empire ne horse archers ki madad se bada area jeeta tha.': False,
     'Crusades medieval period ki religious wars thin.': False,
