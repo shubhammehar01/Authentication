@@ -593,7 +593,7 @@ AIAPIIntegration = {
     "LLM API Rate Limiting, Exponential Backoff Retry Jitter Strategy Handling HTTP 429 Too Many Requests?": True,
     "AI Gateway Integration (LiteLLM/Portkey) Load Balancing, Fallback Models (OpenAI to Anthropic), Multi-tenant tracking?": True,
     "RAG (Retrieval-Augmented Generation) Architecture Design: Document Chunking, Embedding Generation, Vector Search?": True,
-    "Function Calling / Tool Use API Integration structured JSON Output parsing error handling schemas?": False,
+    "Function Calling / Tool Use API Integration structured JSON Output parsing error handling schemas?": True,
     "PII (Personally Identifiable Information) Redaction/Anonymization before sending payloads to LLM APIs?": False,
     "LLM Hallucination Mitigation Output Validation Guardrails (Guardrails AI / NeMo Guardrails integration)?": False,
     "Token Window Overflow Management Tokenizer truncation, Sliding Window History Summarization strategies?": False,
