@@ -435,7 +435,7 @@ AWS = {
     "AWS S3 Lifecycle Policies, Storage Classes (Standard, IA, Glacier, Deep Archive), Object Lock compliance retention?": True,
     "AWS RDS Multi-AZ Replication vs Read Replicas High Availability Disaster Recovery Performance Scaling design?": True,
     "AWS DynamoDB Data Modeling: Single-Table Design, Partition Keys, Sort Keys, Global Secondary Indexes (GSI) scaling?": True,
-    "AWS Lambda Serverless Execution Cold Start Optimization, VPC Attachment latency, Memory/CPU provisioning?": False,
+    "AWS Lambda Serverless Execution Cold Start Optimization, VPC Attachment latency, Memory/CPU provisioning?": True,
     "AWS ECS (Elastic Container Service) Fargate vs EC2 Launch Types task definitions autoscaling deployment?": False,
     "AWS EKS (Elastic Kubernetes Service) Worker Node Groups, VPC CNI networking, IAM Roles for Service Accounts (IRSA)?": False,
     "AWS CloudFront CDN Caching Strategies, Origin Request Policies, Edge Lambda / CloudFront Functions customizations?": False,
