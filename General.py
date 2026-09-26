@@ -609,7 +609,7 @@ Machines = {
     'Internal combustion engines fossil fuels par chalte hain.': True,
     'Electric motors electrical energy ko mechanical energy me badalti hain.': True,
     'Generators mechanical energy ko electricity me convert karte hain.': True,
-    'Transformers voltage levels step up ya down karte hain.': False,
+    'Transformers voltage levels step up ya down karte hain.': True,
     'Compressors air pressure increase karte hain pneumatic tools ke liye.': False,
     'Pumps liquids transport karne ke liye pipelines me use hote hain.': False,
     'Heat exchangers thermal energy transfer karte hain systems ke beech.': False,
