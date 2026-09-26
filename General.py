@@ -660,7 +660,7 @@ ScientistExperiments = {
     'Stanford prison experiment human behavior study karta hai.': True,
     'Galileo gravity experiment Pisa tower se balls drop karke kiya tha.': True,
     'Newton prism experiment se white light spectrum discover kiya tha.': True,
-    'Mendel pea plant experiment genetics ke laws establish karta hai.': False,
+    'Mendel pea plant experiment genetics ke laws establish karta hai.': True,
     'Pasteur rabies vaccine aur pasteurization process invent ki thi.': False,
     'Fleming penicillin antibiotic serendipity se discover ki thi.': False,
     'Curie radiation research me radium aur polonium find kiye the.': False,
