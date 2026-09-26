@@ -380,7 +380,7 @@ Docker = {
     "Docker Multi-Stage Builds configuration build dependencies removal production minimal image optimization?": True,
     "Docker Networking Drivers: Bridge, Host, Overlay, Macvlan, None network isolation routing selection?": True,
     "Docker Volumes vs Bind Mounts vs tmpfs mounts persistent data management performance security trade-off?": True,
-    "Docker Container Resource Constraints (`--memory`, `--cpus`, `--oom-kill-disable`) resource starvation fixes?": False,
+    "Docker Container Resource Constraints (`--memory`, `--cpus`, `--oom-kill-disable`) resource starvation fixes?": True,
     "Docker File Best Practices: Layer Caching Order, `.dockerignore` setup, Single Responsibility Principle?": False,
     "Docker Container Security Hardening: Non-Root User execution, Read-Only Root Filesystem, Capabilities drop?": False,
     "Docker Daemon Security: TLS authentication setup, rootless Docker mode security exposure mitigation?": False,
