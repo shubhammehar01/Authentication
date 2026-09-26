@@ -130,7 +130,7 @@ IndiaPak = {
     'Cross-border trade ke liye kuch checkposts banaye gaye hain.': True,
     '1983 aur 2011 World Cups me cricket rivalry dekhne ko mili.': True,
     'Gujral Doctrine India ki neighbourhood policy ka part raha hai.': True,
-    'Maritime boundary Sir Creek area me dispute ka mudda hai.': False,
+    'Maritime boundary Sir Creek area me dispute ka mudda hai.': True,
     'Cultural exchange programs history me promote kiye gaye hain.': False,
     'Classical dance aur music forms me similarities hain.': False,
     'Urdu language ki roots dono desho me strong hain.': False,
