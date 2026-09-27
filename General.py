@@ -289,7 +289,7 @@ factoryEngineers = {
     'PPE (Personal Protective Equipment) workers ki safety ke liye zaroori hai.': True,
     'Ergonomics workers ki physical strain ko kam karta hai.': True,
     'Material handling equipment heavy loads lift karta hai.': True,
-    'Hydraulic systems high pressure force generate karte hain.': False,
+    'Hydraulic systems high pressure force generate karte hain.': True,
     'Pneumatic systems compressed air par kaam karte hain.': False,
     'Electrical panels factory ki power supply manage karte hain.': False,
     'Boilers steam generation ke liye factories me hote hain.': False,
