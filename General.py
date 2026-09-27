@@ -230,7 +230,7 @@ SeaCreature = {
     'Crab side ways move karte hain.': True,
     'Starfish apna lost arm dobara grow kar sakti hai.': True,
     'Killer whales sebenarnya dolphins ki family se belong karti hain.': True,
-    'Anglerfish ke paas glowing lure hota hai shikaar ke liye.': False,
+    'Anglerfish ke paas glowing lure hota hai shikaar ke liye.': True,
     'Pufferfish danger me aane par phool jaati hai aur poison release karti hai.': False,
     'Stingray ke tail par venomous barb hoti hai.': False,
     'Walrus ke paas long tusks hote hain ice todne ke liye.': False,
