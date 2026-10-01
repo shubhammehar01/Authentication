@@ -856,7 +856,7 @@ RestAPIDesign = {
     "HTTP Methods Semantics and Idempotency: GET, POST, PUT, DELETE, PATCH, OPTIONS, HEAD safe vs unsafe methods?": True,
     "HTTP Status Codes Proper Selection: 2xx Success, 3xx Redirection, 4xx Client Errors, 5xx Server Errors categorization?": True,
     "REST API Pagination Strategies: Offset-Based vs Cursor-Based (Keyset) Pagination large dataset performance?": True,
-    "REST API Filtering, Sorting, Searching Parameter Naming Standardizations Specification Guidelines?": False,
+    "REST API Filtering, Sorting, Searching Parameter Naming Standardizations Specification Guidelines?": True,
     "Idempotency Key Implementation (`Idempotency-Key` Header) Distributed Locks Redis Request Deduplication?": False,
     "REST API Versioning Strategies: URI Path Versioning, Query Parameter, Custom Request Headers, Accept Header (Content Negotiation)?": False,
     "REST API Error Handling Architecture: Standardized JSON Error Payload (RFC 7807 Problem Details)?": False,
