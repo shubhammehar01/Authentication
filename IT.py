@@ -914,7 +914,7 @@ MicroservicesArchitecture = {
     "Two-Phase Commit (2PC) Protocol limitations in Microservices Coordinator Failures Blocking Bottlenecks?": True,
     "Eventual Consistency Data Consistency across Microservices Bounded Contexts Outbox Pattern implementation?": True,
     "Transactional Outbox Pattern & Change Data Capture (CDC - Debezium) Guaranteed Event Publishing?": True,
-    "CQRS (Command Query Responsibility Segregation) Pattern Read Model Write Model Database Separation?": False,
+    "CQRS (Command Query Responsibility Segregation) Pattern Read Model Write Model Database Separation?": True,
     "Event Sourcing Architecture Immutable Event Store State Reconstruction Replayability Audit Trails?": False,
     "Microservices Observability Stack: Distributed Tracing (OpenTelemetry, Jaeger, Zipkin), Metrics (Prometheus), Logs (ELK)?": False,
     "Correlation ID Propagation HTTP Headers / Message Metadata Tracing Requests End-To-End Cross Services?": False,
