@@ -857,7 +857,7 @@ RestAPIDesign = {
     "HTTP Status Codes Proper Selection: 2xx Success, 3xx Redirection, 4xx Client Errors, 5xx Server Errors categorization?": True,
     "REST API Pagination Strategies: Offset-Based vs Cursor-Based (Keyset) Pagination large dataset performance?": True,
     "REST API Filtering, Sorting, Searching Parameter Naming Standardizations Specification Guidelines?": True,
-    "Idempotency Key Implementation (`Idempotency-Key` Header) Distributed Locks Redis Request Deduplication?": False,
+    "Idempotency Key Implementation (`Idempotency-Key` Header) Distributed Locks Redis Request Deduplication?": True,
     "REST API Versioning Strategies: URI Path Versioning, Query Parameter, Custom Request Headers, Accept Header (Content Negotiation)?": False,
     "REST API Error Handling Architecture: Standardized JSON Error Payload (RFC 7807 Problem Details)?": False,
     "REST API Security: OAuth 2.0 Access Tokens, Refresh Token Rotation, Scopes, JWT Validation, Rate Limiting?": False,
