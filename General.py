@@ -20,7 +20,7 @@ AnimalPicture = {
     'Flamingo pink isliye hote hain kyunki wo shrimp khate hain.': True,
     'Snail 3 saal tak so sakta hai.': True,
     'Crocodile apni jeebh bahar nahi nikal sakte.': True,
-    'Starfish ke paas dimaag nahi hota.': False,
+    'Starfish ke paas dimaag nahi hota.': True,
     'Housefly ki life span sirf 2 weeks hoti hai.': False,
     'Jellyfish 95% paani se bani hoti hai.': False,
     'Camel ke paas 3 eyelids hoti hain jo unhe ret se bachati hain.': False,
