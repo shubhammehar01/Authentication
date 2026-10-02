@@ -178,7 +178,7 @@ NaturalDisaster = {
     'Lightning strike se kai baar bade forest fires shuru hote hain.': True,
     'Sinkholes zameen ke andar cave collapse hone se bante hain.': True,
     'Blizzard severe snowstorm ko kehte hain jisme visibility low hoti hai.': True,
-    'Heatwave extreme temperature increase hone se hoti hai.': False,
+    'Heatwave extreme temperature increase hone se hoti hai.': True,
     'Cyclone ka eye center calm area hota hai.': False,
     'Seismic waves primary aur secondary waves me divide hoti hain.': False,
     'Pacific Tsunami Warning Center earthquakes detect karta hai.': False,
