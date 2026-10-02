@@ -915,7 +915,7 @@ MicroservicesArchitecture = {
     "Eventual Consistency Data Consistency across Microservices Bounded Contexts Outbox Pattern implementation?": True,
     "Transactional Outbox Pattern & Change Data Capture (CDC - Debezium) Guaranteed Event Publishing?": True,
     "CQRS (Command Query Responsibility Segregation) Pattern Read Model Write Model Database Separation?": True,
-    "Event Sourcing Architecture Immutable Event Store State Reconstruction Replayability Audit Trails?": False,
+    "Event Sourcing Architecture Immutable Event Store State Reconstruction Replayability Audit Trails?": True,
     "Microservices Observability Stack: Distributed Tracing (OpenTelemetry, Jaeger, Zipkin), Metrics (Prometheus), Logs (ELK)?": False,
     "Correlation ID Propagation HTTP Headers / Message Metadata Tracing Requests End-To-End Cross Services?": False,
     "Centralized Configuration Management (Spring Cloud Config, Consul, HashiCorp Vault) Dynamic Refresh?": False,
