@@ -179,7 +179,7 @@ NaturalDisaster = {
     'Sinkholes zameen ke andar cave collapse hone se bante hain.': True,
     'Blizzard severe snowstorm ko kehte hain jisme visibility low hoti hai.': True,
     'Heatwave extreme temperature increase hone se hoti hai.': True,
-    'Cyclone ka eye center calm area hota hai.': False,
+    'Cyclone ka eye center calm area hota hai.': True,
     'Seismic waves primary aur secondary waves me divide hoti hain.': False,
     'Pacific Tsunami Warning Center earthquakes detect karta hai.': False,
     'Magma zameen ke andar hota hai aur lava bahar aane par kehte hain.': False,
