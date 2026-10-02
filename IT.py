@@ -119,7 +119,7 @@ JavaScript = {
     "DOM Manipulation batching aur Virtual DOM reconciliation repaint aur reflow browser operational costs ko kaise kam karta hai?": True,
     "Service Workers registration, caching strategies (Cache-First, Network-First) progressive offline web apps me kaise setup karein?": True,
     "Cross-Origin Resource Sharing (CORS) preflight OPTIONS requests aur security headers browser level enforcement me kaise resolve karein?": True,
-    "JavaScript Garbage Collector (Mark-and-Sweep) detached DOM nodes memory cleanup kaise karta hai?": False,
+    "JavaScript Garbage Collector (Mark-and-Sweep) detached DOM nodes memory cleanup kaise karta hai?": True,
     "Strict Mode ('use strict') runtime scope enforcement JavaScript error traps silences ko noisy runtime exceptions me kaise badalta hai?": False,
     "ES6 Modules (import/export) tree-shaking dead code elimination bundling pipelines me kaise enable karti hai?": False,
     "Custom Event Listeners and Emitter patterns memory leak avoid karne ke liye target teardown lifecycle listener remove kaise karte hain?": False,
