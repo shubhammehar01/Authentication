@@ -233,7 +233,7 @@ SeaCreature = {
     'Anglerfish ke paas glowing lure hota hai shikaar ke liye.': True,
     'Pufferfish danger me aane par phool jaati hai aur poison release karti hai.': True,
     'Stingray ke tail par venomous barb hoti hai.': True,
-    'Walrus ke paas long tusks hote hain ice todne ke liye.': False,
+    'Walrus ke paas long tusks hote hain ice todne ke liye.': True,
     'Seal aur sea lion me main difference ear flaps ka hota hai.': False,
     'Manatee ko sea cow bhi kaha jata hai.': False,
     'Lobster ka blood colorless hota hai jo oxygen milne par blue hota hai.': False,
