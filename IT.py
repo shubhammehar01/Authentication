@@ -756,7 +756,7 @@ Git = {
     "Git Hooks (Pre-commit, Pre-push, Post-merge) Husky automated linter unit tests enforcement?": True,
     "Git Submodules vs Git Subtree external dependency repository management version tracking?": True,
     "Git Reflog (`git reflog`) recovering lost commits deleted branches detached HEAD state fixes?": True,
-    "Git Branching Models: GitFlow vs GitHub Flow vs Trunk-Based Development scaling CI/CD releases?": False,
+    "Git Branching Models: GitFlow vs GitHub Flow vs Trunk-Based Development scaling CI/CD releases?": True,
     "Git Large File Storage (LFS) media assets binary binaries tracking repository bloat reduction?": False,
     "Git Merge Strategies (Fast-Forward, Recursive, Ours, Theirs, Octopus) behavior execution?": False,
     "Git Commit Signing (GPG Keys) commit verification identity spoofing security enforcement?": False,
