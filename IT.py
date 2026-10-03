@@ -699,7 +699,7 @@ OOPs = {
     "Composition over Inheritance Design Principle Flexibility Loose Coupling Code Reusability?": True,
     "Abstract Class vs Interface Design Decisions Multiple Inheritance Problem Default/Static Methods in Interfaces?": True,
     "Design Patterns: Factory Method Pattern vs Abstract Factory Pattern Extensible Object Creation?": True,
-    "Design Patterns: Singleton Pattern Thread-Safety, Double-Checked Locking, Serialization / Reflection Breaks Fixes?": False,
+    "Design Patterns: Singleton Pattern Thread-Safety, Double-Checked Locking, Serialization / Reflection Breaks Fixes?": True,
     "Design Patterns: Strategy Pattern Dynamic Behavior Switching runtime algorithm swapping?": False,
     "Design Patterns: Observer Pattern Event Driven Architecture Reactive Loose Coupling Decoupling?": False,
     "Design Patterns: Decorator Pattern Adding Responsibilities Dynamically Object Wrapper Inheritance Alternative?": False,
