@@ -180,7 +180,7 @@ NaturalDisaster = {
     'Blizzard severe snowstorm ko kehte hain jisme visibility low hoti hai.': True,
     'Heatwave extreme temperature increase hone se hoti hai.': True,
     'Cyclone ka eye center calm area hota hai.': True,
-    'Seismic waves primary aur secondary waves me divide hoti hain.': False,
+    'Seismic waves primary aur secondary waves me divide hoti hain.': True,
     'Pacific Tsunami Warning Center earthquakes detect karta hai.': False,
     'Magma zameen ke andar hota hai aur lava bahar aane par kehte hain.': False,
     'Supervolcanoes huge explosive eruptions kar sakte hain.': False,
