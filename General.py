@@ -503,7 +503,7 @@ PoliceSearching = {
     'APIS system automated fingerprint identification karta hai.': True,
     'CCIS database criminal records maintain rakhta hai.': True,
     'Emergency helpline numbers quick response ke liye hote hain.': True,
-    'SWAT teams high-risk hostage situations handle karti hain.': False,
+    'SWAT teams high-risk hostage situations handle karti hain.': True,
     'Bomb disposal squads explosives neutralise karte hain.': False,
     'Traffic police road safety aur rules enforce karti hai.': False,
     'Speed cameras overspeeding vehicles detect karte hain.': False,
