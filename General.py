@@ -291,7 +291,7 @@ factoryEngineers = {
     'Material handling equipment heavy loads lift karta hai.': True,
     'Hydraulic systems high pressure force generate karte hain.': True,
     'Pneumatic systems compressed air par kaam karte hain.': True,
-    'Electrical panels factory ki power supply manage karte hain.': False,
+    'Electrical panels factory ki power supply manage karte hain.': True,
     'Boilers steam generation ke liye factories me hote hain.': False,
     'Cooling towers excess heat remove karte hain machines se.': False,
     'Welding techniques me MIG, TIG aur Arc welding aati hain.': False,
