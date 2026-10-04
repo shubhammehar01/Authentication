@@ -393,7 +393,7 @@ FlyVehicles = {
     'Hot air balloons hot air ki buoyancy par fly karte hain.': True,
     'Gliders bina engine ke air currents par glide karte hain.': True,
     'Seaplanes pani par land aur takeoff kar sakte hain.': True,
-    'Cargo planes heavy goods transport karne ke liye hote hain.': False,
+    'Cargo planes heavy goods transport karne ke liye hote hain.': True,
     'Refueling aircraft mid-air me doosre plane me fuel transfer karte hain.': False,
     'Unmanned Aerial Vehicles (UAVs) military aur civilian use me hain.': False,
     'Spaceplanes atmosphere aur space dono me fly kar sakte hain.': False,
