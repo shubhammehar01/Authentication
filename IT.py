@@ -436,7 +436,7 @@ AWS = {
     "AWS RDS Multi-AZ Replication vs Read Replicas High Availability Disaster Recovery Performance Scaling design?": True,
     "AWS DynamoDB Data Modeling: Single-Table Design, Partition Keys, Sort Keys, Global Secondary Indexes (GSI) scaling?": True,
     "AWS Lambda Serverless Execution Cold Start Optimization, VPC Attachment latency, Memory/CPU provisioning?": True,
-    "AWS ECS (Elastic Container Service) Fargate vs EC2 Launch Types task definitions autoscaling deployment?": False,
+    "AWS ECS (Elastic Container Service) Fargate vs EC2 Launch Types task definitions autoscaling deployment?": True,
     "AWS EKS (Elastic Kubernetes Service) Worker Node Groups, VPC CNI networking, IAM Roles for Service Accounts (IRSA)?": False,
     "AWS CloudFront CDN Caching Strategies, Origin Request Policies, Edge Lambda / CloudFront Functions customizations?": False,
     "AWS API Gateway REST vs HTTP APIs throttling, API Keys, Custom Authorizer Lambda, Rate Limiting protection?": False,
