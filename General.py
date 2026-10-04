@@ -132,7 +132,7 @@ IndiaPak = {
     'Gujral Doctrine India ki neighbourhood policy ka part raha hai.': True,
     'Maritime boundary Sir Creek area me dispute ka mudda hai.': True,
     'Cultural exchange programs history me promote kiye gaye hain.': True,
-    'Classical dance aur music forms me similarities hain.': False,
+    'Classical dance aur music forms me similarities hain.': True,
     'Urdu language ki roots dono desho me strong hain.': False,
     'Partition ki stories oral history archives me save hain.': False,
     'Diplomatic missions dono capitals me established hain.': False,
