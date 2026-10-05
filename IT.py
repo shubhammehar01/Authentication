@@ -382,7 +382,7 @@ Docker = {
     "Docker Volumes vs Bind Mounts vs tmpfs mounts persistent data management performance security trade-off?": True,
     "Docker Container Resource Constraints (`--memory`, `--cpus`, `--oom-kill-disable`) resource starvation fixes?": True,
     "Docker File Best Practices: Layer Caching Order, `.dockerignore` setup, Single Responsibility Principle?": True,
-    "Docker Container Security Hardening: Non-Root User execution, Read-Only Root Filesystem, Capabilities drop?": False,
+    "Docker Container Security Hardening: Non-Root User execution, Read-Only Root Filesystem, Capabilities drop?": True,
     "Docker Daemon Security: TLS authentication setup, rootless Docker mode security exposure mitigation?": False,
     "Docker Compose multi-container orchestrations dependencies healthchecks (`depends_on` with `condition`) setup?": False,
     "Docker Entrypoint vs CMD difference override behavior initialization scripts execution handling?": False,
