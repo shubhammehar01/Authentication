@@ -646,7 +646,7 @@ CollectionFramework = {
     "LinkedHashMap Access-Order vs Insertion-Order configuration LRU Cache implementation design?": True,
     "TreeMap / TreeSet Red-Black Tree Implementation Comparator vs Comparable custom sorting?": True,
     "CopyOnWriteArrayList / CopyOnWriteArraySet read-heavy write-rare thread-safe iterator mechanics?": True,
-    "ArrayDeque vs Stack / LinkedList: Double-Ended Queue performance overhead memory locality benchmark?": False,
+    "ArrayDeque vs Stack / LinkedList: Double-Ended Queue performance overhead memory locality benchmark?": True,
     "PriorityQueue Internal Min/Max Binary Heap Structure siftUp / siftDown log(N) insertion deletion?": False,
     "IdentityHashMap vs HashMap: Reference Equality (`==`) vs Value Equality (`equals()`) key comparisons?": False,
     "WeakHashMap Garbage Collection reachability key disposal memory caching application?": False,
