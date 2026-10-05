@@ -394,7 +394,7 @@ FlyVehicles = {
     'Gliders bina engine ke air currents par glide karte hain.': True,
     'Seaplanes pani par land aur takeoff kar sakte hain.': True,
     'Cargo planes heavy goods transport karne ke liye hote hain.': True,
-    'Refueling aircraft mid-air me doosre plane me fuel transfer karte hain.': False,
+    'Refueling aircraft mid-air me doosre plane me fuel transfer karte hain.': True,
     'Unmanned Aerial Vehicles (UAVs) military aur civilian use me hain.': False,
     'Spaceplanes atmosphere aur space dono me fly kar sakte hain.': False,
     'Electric aircrafts zero emission aviation goal par work kar rahe hain.': False,
