@@ -292,7 +292,7 @@ factoryEngineers = {
     'Hydraulic systems high pressure force generate karte hain.': True,
     'Pneumatic systems compressed air par kaam karte hain.': True,
     'Electrical panels factory ki power supply manage karte hain.': True,
-    'Boilers steam generation ke liye factories me hote hain.': False,
+    'Boilers steam generation ke liye factories me hote hain.': True,
     'Cooling towers excess heat remove karte hain machines se.': False,
     'Welding techniques me MIG, TIG aur Arc welding aati hain.': False,
     'Metal casting molten metal ko molds me pour karke shape deti hai.': False,
