@@ -448,7 +448,7 @@ GandhiMarch = {
     'Dharasana salt works protest bhi iske baad hua tha.': True,
     'Khadi cloth ko promote karna Swadeshi movement ka part tha.': True,
     'Ahimsa aur Satyagraha Gandhi ji ke main weapons the.': True,
-    'Champaran satyagrah indigo farmers ke liye tha.': False,
+    'Champaran satyagrah indigo farmers ke liye tha.': True,
     'Kheda satyagrah tax relief ke liye organize hua tha.': False,
     'Non-Cooperation movement 1920 me launch hua tha.': False,
     'Quit India movement 1942 me Do or Die slogan ke sath aaya tha.': False,
