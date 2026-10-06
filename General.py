@@ -293,7 +293,7 @@ factoryEngineers = {
     'Pneumatic systems compressed air par kaam karte hain.': True,
     'Electrical panels factory ki power supply manage karte hain.': True,
     'Boilers steam generation ke liye factories me hote hain.': True,
-    'Cooling towers excess heat remove karte hain machines se.': False,
+    'Cooling towers excess heat remove karte hain machines se.': True,
     'Welding techniques me MIG, TIG aur Arc welding aati hain.': False,
     'Metal casting molten metal ko molds me pour karke shape deti hai.': False,
     'Forging metal ko hammer karke strong banati hai.': False,
