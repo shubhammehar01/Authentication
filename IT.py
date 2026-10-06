@@ -538,7 +538,7 @@ SystemDesign = {
     "Distributed Caching Design: Cache-Aside, Write-Through, Write-Behind, Read-Through cache strategies comparison?": True,
     "Consistent Hashing Algorithm implementation distributed cache cluster node addition/removal load balancing?": True,
     "Rate Limiter System Design: Token Bucket, Leaky Bucket, Fixed Window, Sliding Window Log algorithms?": True,
-    "Distributed Unique ID Generator Design: Twitter Snowflake Algorithm vs UUID vs Database Auto-Increment?": False,
+    "Distributed Unique ID Generator Design: Twitter Snowflake Algorithm vs UUID vs Database Auto-Increment?": True,
     "Web Crawler System Design: Scalable URL Frontier, HTML Downloader, Deduplication Bloom Filters?": False,
     "Distributed Message Queue Design (Kafka/RabbitMQ): Partitioning, Consumer Groups, At-least-once vs Exactly-once?": False,
     "E-Commerce Flash Sale System Design: High Concurrency Inventory Locks, Overbooking Prevention, Queueing?": False,
