@@ -341,7 +341,7 @@ CivilizationAncientPeople = {
     'Mummification process ancient Egypt me dead bodies preserve karne ke liye thi.': True,
     'Hieroglyphics Egyptian pictographic writing system hai.': True,
     'Cuneiform Mesopotamia ki wedge-shaped writing thi.': True,
-    'Oracle bones ancient China me future predict karne ke liye use hote the.': False,
+    'Oracle bones ancient China me future predict karne ke liye use hote the.': True,
     'Gladiators Roman colosseum me fight karte the.': False,
     'Spartan children ki harsh training hoti thi warrior banane ke liye.': False,
     'Athens art, science aur literature ka center tha.': False,
