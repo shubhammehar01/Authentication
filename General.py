@@ -295,7 +295,7 @@ factoryEngineers = {
     'Boilers steam generation ke liye factories me hote hain.': True,
     'Cooling towers excess heat remove karte hain machines se.': True,
     'Welding techniques me MIG, TIG aur Arc welding aati hain.': True,
-    'Metal casting molten metal ko molds me pour karke shape deti hai.': False,
+    'Metal casting molten metal ko molds me pour karke shape deti hai.': True,
     'Forging metal ko hammer karke strong banati hai.': False,
     'Machining process me turning, milling aur drilling hoti hain.': False,
     'Additive manufacturing ya 3D printing layer by layer parts banati hai.': False,
