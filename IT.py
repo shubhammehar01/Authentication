@@ -806,7 +806,7 @@ Redis = {
     "Redis Sentinel vs Redis Cluster: High Availability Failover vs Automatic Sharding Partitioning setup?": True,
     "Redis Pub/Sub vs Redis Streams: Fire-and-forget messaging vs Persistent Consumer Groups Queue processing?": True,
     "Redis Key Expiration Implementation: Passive vs Active Expiration TTL Memory Reclamation Mechanics?": True,
-    "Redis Transactions (MULTI, EXEC, WATCH, DISCARD) Optimistic Locking CAS implementation?": False,
+    "Redis Transactions (MULTI, EXEC, WATCH, DISCARD) Optimistic Locking CAS implementation?": True,
     "Redis Lua Scripting (`EVAL`) Atomic Execution complex multi-step operations server side execution?": False,
     "Redis Distributed Locking Algorithm (Redlock): Multi-node consensus locking reliability validation?": False,
     "Redis Performance Optimization: Pipeline Processing Batch Commands Network RTT Latency Drop?": False,
