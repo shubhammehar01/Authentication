@@ -342,7 +342,7 @@ CivilizationAncientPeople = {
     'Hieroglyphics Egyptian pictographic writing system hai.': True,
     'Cuneiform Mesopotamia ki wedge-shaped writing thi.': True,
     'Oracle bones ancient China me future predict karne ke liye use hote the.': True,
-    'Gladiators Roman colosseum me fight karte the.': False,
+    'Gladiators Roman colosseum me fight karte the.': True,
     'Spartan children ki harsh training hoti thi warrior banane ke liye.': False,
     'Athens art, science aur literature ka center tha.': False,
     'Persian empire postal system aur roads ke liye jana jata tha.': False,
