@@ -73,7 +73,7 @@ War = {
     'Kamikaze pilots WWII me apne planes dushman par crash kar dete the.': True,
     'Radar technology WWII ke dauran invent ki gayi thi.': True,
     'Sun Tzu ki book The Art of War military strategy ke liye famous hai.': True,
-    'Mongol empire ne horse archers ki madad se bada area jeeta tha.': False,
+    'Mongol empire ne horse archers ki madad se bada area jeeta tha.': True,
     'Crusades medieval period ki religious wars thin.': False,
     'Battle of Waterloo Napoleon ki final defeat thi.': False,
     'Vietnam war me helicopter ka massive use hua tha.': False,
