@@ -594,7 +594,7 @@ AIAPIIntegration = {
     "AI Gateway Integration (LiteLLM/Portkey) Load Balancing, Fallback Models (OpenAI to Anthropic), Multi-tenant tracking?": True,
     "RAG (Retrieval-Augmented Generation) Architecture Design: Document Chunking, Embedding Generation, Vector Search?": True,
     "Function Calling / Tool Use API Integration structured JSON Output parsing error handling schemas?": True,
-    "PII (Personally Identifiable Information) Redaction/Anonymization before sending payloads to LLM APIs?": False,
+    "PII (Personally Identifiable Information) Redaction/Anonymization before sending payloads to LLM APIs?": True,
     "LLM Hallucination Mitigation Output Validation Guardrails (Guardrails AI / NeMo Guardrails integration)?": False,
     "Token Window Overflow Management Tokenizer truncation, Sliding Window History Summarization strategies?": False,
     "AI Model Latency Optimization Async Parallel LLM Calls Speculative Decoding/Routing Simple Queries to Smaller Models?": False,
