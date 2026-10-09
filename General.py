@@ -296,7 +296,7 @@ factoryEngineers = {
     'Cooling towers excess heat remove karte hain machines se.': True,
     'Welding techniques me MIG, TIG aur Arc welding aati hain.': True,
     'Metal casting molten metal ko molds me pour karke shape deti hai.': True,
-    'Forging metal ko hammer karke strong banati hai.': False,
+    'Forging metal ko hammer karke strong banati hai.': True,
     'Machining process me turning, milling aur drilling hoti hain.': False,
     'Additive manufacturing ya 3D printing layer by layer parts banati hai.': False,
     'Industrial robots repetitive tasks bina thake karte hain.': False,
