@@ -383,7 +383,7 @@ Docker = {
     "Docker Container Resource Constraints (`--memory`, `--cpus`, `--oom-kill-disable`) resource starvation fixes?": True,
     "Docker File Best Practices: Layer Caching Order, `.dockerignore` setup, Single Responsibility Principle?": True,
     "Docker Container Security Hardening: Non-Root User execution, Read-Only Root Filesystem, Capabilities drop?": True,
-    "Docker Daemon Security: TLS authentication setup, rootless Docker mode security exposure mitigation?": False,
+    "Docker Daemon Security: TLS authentication setup, rootless Docker mode security exposure mitigation?": True,
     "Docker Compose multi-container orchestrations dependencies healthchecks (`depends_on` with `condition`) setup?": False,
     "Docker Entrypoint vs CMD difference override behavior initialization scripts execution handling?": False,
     "Docker Logging Drivers: json-file, journald, fluentd, log-rotation policies disk space exhaustion prevention?": False,
