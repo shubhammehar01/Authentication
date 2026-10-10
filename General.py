@@ -182,7 +182,7 @@ NaturalDisaster = {
     'Cyclone ka eye center calm area hota hai.': True,
     'Seismic waves primary aur secondary waves me divide hoti hain.': True,
     'Pacific Tsunami Warning Center earthquakes detect karta hai.': True,
-    'Magma zameen ke andar hota hai aur lava bahar aane par kehte hain.': False,
+    'Magma zameen ke andar hota hai aur lava bahar aane par kehte hain.': True,
     'Supervolcanoes huge explosive eruptions kar sakte hain.': False,
     'Monsoon floods south asia me har saal common hain.': False,
     'El Nino weather pattern global climate ko affect karta hai.': False,
