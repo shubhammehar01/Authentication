@@ -22,7 +22,7 @@ AnimalPicture = {
     'Crocodile apni jeebh bahar nahi nikal sakte.': True,
     'Starfish ke paas dimaag nahi hota.': True,
     'Housefly ki life span sirf 2 weeks hoti hai.': True,
-    'Jellyfish 95% paani se bani hoti hai.': False,
+    'Jellyfish 95% paani se bani hoti hai.': True,
     'Camel ke paas 3 eyelids hoti hain jo unhe ret se bachati hain.': False,
     'Squirrels plant lagane me anjaane me madad karti hain kyunki wo nuts bhool jaati hain.': False,
     'Bat ekmatra mammal hai jo ud sakta hai.': False,
