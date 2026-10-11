@@ -758,7 +758,7 @@ Git = {
     "Git Reflog (`git reflog`) recovering lost commits deleted branches detached HEAD state fixes?": True,
     "Git Branching Models: GitFlow vs GitHub Flow vs Trunk-Based Development scaling CI/CD releases?": True,
     "Git Large File Storage (LFS) media assets binary binaries tracking repository bloat reduction?": True,
-    "Git Merge Strategies (Fast-Forward, Recursive, Ours, Theirs, Octopus) behavior execution?": False,
+    "Git Merge Strategies (Fast-Forward, Recursive, Ours, Theirs, Octopus) behavior execution?": True,
     "Git Commit Signing (GPG Keys) commit verification identity spoofing security enforcement?": False,
     "Git Worktree simultaneous checkout multiple branches separate directories context switching?": False,
     "Git `.gitignore` and `.gitkeep` rules tracked file untracking (`git rm --cached`) syntax fixes?": False,
