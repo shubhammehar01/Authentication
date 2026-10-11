@@ -235,7 +235,7 @@ SeaCreature = {
     'Stingray ke tail par venomous barb hoti hai.': True,
     'Walrus ke paas long tusks hote hain ice todne ke liye.': True,
     'Seal aur sea lion me main difference ear flaps ka hota hai.': True,
-    'Manatee ko sea cow bhi kaha jata hai.': False,
+    'Manatee ko sea cow bhi kaha jata hai.': True,
     'Lobster ka blood colorless hota hai jo oxygen milne par blue hota hai.': False,
     'Oyster pearls produce karte hain jab koi irritant andar jata hai.': False,
     'Barnacles rock par chipke rehte hain aur filter feeding karte hain.': False,
