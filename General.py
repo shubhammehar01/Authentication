@@ -134,7 +134,7 @@ IndiaPak = {
     'Cultural exchange programs history me promote kiye gaye hain.': True,
     'Classical dance aur music forms me similarities hain.': True,
     'Urdu language ki roots dono desho me strong hain.': True,
-    'Partition ki stories oral history archives me save hain.': False,
+    'Partition ki stories oral history archives me save hain.': True,
     'Diplomatic missions dono capitals me established hain.': False,
     'UN observers border area me peace monitor karte rahe hain.': False,
     'Himalayan ecosystem dono desho me shared hai.': False,
