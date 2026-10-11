@@ -541,7 +541,7 @@ SystemDesign = {
     "Distributed Unique ID Generator Design: Twitter Snowflake Algorithm vs UUID vs Database Auto-Increment?": True,
     "Web Crawler System Design: Scalable URL Frontier, HTML Downloader, Deduplication Bloom Filters?": True,
     "Distributed Message Queue Design (Kafka/RabbitMQ): Partitioning, Consumer Groups, At-least-once vs Exactly-once?": True,
-    "E-Commerce Flash Sale System Design: High Concurrency Inventory Locks, Overbooking Prevention, Queueing?": False,
+    "E-Commerce Flash Sale System Design: High Concurrency Inventory Locks, Overbooking Prevention, Queueing?": True,
     "Real-Time Chat Application Design (WhatsApp/Slack): WebSockets, Long Polling, Presence Server, Message Storage?": False,
     "Video Streaming Platform Design (YouTube/Netflix): Video Transcoding, Chunking (HLS/DASH), CDN Distribution?": False,
     "Location-Based Service Design (Uber/Nearby Places): QuadTree, Geohash, Spatial Indexing Real-Time Tracking?": False,
