@@ -333,7 +333,7 @@ React = {
     "React Portal (`createPortal`) modal dialogs, tooltips rendering outside parent DOM hierarchy z-index bugs fix?": True,
     "React Server Components (RSC) vs Client Components Data Fetching SSR Next.js App Router architecture?": True,
     "React High Order Components (HOC) vs Render Props vs Custom Hooks evolution clean code refactoring?": True,
-    "React Virtualized Lists (`react-window`, `react-virtualized`) DOM node count reduction performance scaling?": False,
+    "React Virtualized Lists (`react-window`, `react-virtualized`) DOM node count reduction performance scaling?": True,
     "React Controlled vs Uncontrolled Components (`useRef` hook) form performance re-render optimization?": False,
     "React `useLayoutEffect` vs `useEffect` DOM measurement mutations layout shift flicker prevention?": False,
     "React Batching Updates (Automatic Batching React 18) async event handlers re-render optimizations?": False,
