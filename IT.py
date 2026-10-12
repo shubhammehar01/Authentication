@@ -222,7 +222,7 @@ SpringBoot = {
     "Spring Boot Actuator endpoints custom metrics creation, Prometheus/Grafana security lock down?": True,
     "Spring AOP (Aspect Oriented Programming) custom annotations creation logging, execution time profiling, security interceptors?": True,
     "Spring Boot Graceful Shutdown handling active long running in-flight HTTP requests termination prevention?": True,
-    "Spring Security JWT Authentication, Refresh Token Rotation, Stateless Stateless Filter Chain implementation?": False,
+    "Spring Security JWT Authentication, Refresh Token Rotation, Stateless Stateless Filter Chain implementation?": True,
     "Spring Transaction Management (`@Transactional`) Propagation levels (REQUIRED, REQUIRES_NEW) and Isolation levels handling?": False,
     "Spring Boot Application Multi-Profile configuration (`application-dev.yml`, `application-prod.yml`) external secrets management?": False,
     "Spring Cloud Resilience4j Circuit Breaker, Rate Limiter, Retry, Bulkhead patterns service failure resilience?": False,
