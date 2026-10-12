@@ -662,7 +662,7 @@ ScientistExperiments = {
     'Newton prism experiment se white light spectrum discover kiya tha.': True,
     'Mendel pea plant experiment genetics ke laws establish karta hai.': True,
     'Pasteur rabies vaccine aur pasteurization process invent ki thi.': True,
-    'Fleming penicillin antibiotic serendipity se discover ki thi.': False,
+    'Fleming penicillin antibiotic serendipity se discover ki thi.': True,
     'Curie radiation research me radium aur polonium find kiye the.': False,
     'Einstein relativity theory space-time fabric explain karti hai.': False,
     'Tesla alternating current electrical system develop kiya tha.': False,
