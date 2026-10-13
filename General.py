@@ -663,7 +663,7 @@ ScientistExperiments = {
     'Mendel pea plant experiment genetics ke laws establish karta hai.': True,
     'Pasteur rabies vaccine aur pasteurization process invent ki thi.': True,
     'Fleming penicillin antibiotic serendipity se discover ki thi.': True,
-    'Curie radiation research me radium aur polonium find kiye the.': False,
+    'Curie radiation research me radium aur polonium find kiye the.': True,
     'Einstein relativity theory space-time fabric explain karti hai.': False,
     'Tesla alternating current electrical system develop kiya tha.': False,
     'Edison light bulb experiments me hazaro attempts kiye the.': False,
