@@ -597,7 +597,7 @@ AIAPIIntegration = {
     "PII (Personally Identifiable Information) Redaction/Anonymization before sending payloads to LLM APIs?": True,
     "LLM Hallucination Mitigation Output Validation Guardrails (Guardrails AI / NeMo Guardrails integration)?": True,
     "Token Window Overflow Management Tokenizer truncation, Sliding Window History Summarization strategies?": True,
-    "AI Model Latency Optimization Async Parallel LLM Calls Speculative Decoding/Routing Simple Queries to Smaller Models?": False,
+    "AI Model Latency Optimization Async Parallel LLM Calls Speculative Decoding/Routing Simple Queries to Smaller Models?": True,
     "Fine-Tuned Model API Deployment vs RAG Strategy Cost Performance Accuracy Trade-Off Analysis?": False,
     "Prompt Injection Attack Prevention Security Middleware Input Sanitization Boundary Enforcement?": False,
     "AI Output Structured Schema Enforcement (Instructor/Pydantic/Zod) guaranteed JSON contract response?": False,
