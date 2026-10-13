@@ -437,7 +437,7 @@ AWS = {
     "AWS DynamoDB Data Modeling: Single-Table Design, Partition Keys, Sort Keys, Global Secondary Indexes (GSI) scaling?": True,
     "AWS Lambda Serverless Execution Cold Start Optimization, VPC Attachment latency, Memory/CPU provisioning?": True,
     "AWS ECS (Elastic Container Service) Fargate vs EC2 Launch Types task definitions autoscaling deployment?": True,
-    "AWS EKS (Elastic Kubernetes Service) Worker Node Groups, VPC CNI networking, IAM Roles for Service Accounts (IRSA)?": False,
+    "AWS EKS (Elastic Kubernetes Service) Worker Node Groups, VPC CNI networking, IAM Roles for Service Accounts (IRSA)?": True,
     "AWS CloudFront CDN Caching Strategies, Origin Request Policies, Edge Lambda / CloudFront Functions customizations?": False,
     "AWS API Gateway REST vs HTTP APIs throttling, API Keys, Custom Authorizer Lambda, Rate Limiting protection?": False,
     "AWS Route 53 Routing Policies: Latency-Based, Geolocation, Weighted, Failover Health Checks DNS routing?": False,
