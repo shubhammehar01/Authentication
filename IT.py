@@ -172,7 +172,7 @@ SQL = {
     "Database Normalization (1NF, 2NF, 3NF, BCNF) vs Denormalization read heavy analytics system performance trade-off?": True,
     "Database Locks: Shared Lock (S) vs Exclusive Lock (X) vs Intent Locks row level concurrency control mechanics?": True,
     "SQL Injection (SQLi) attack prevention techniques using Parameterized Queries / Prepared Statements?": True,
-    "Optimistic Locking (Version Column) vs Pessimistic Locking (SELECT FOR UPDATE) concurrent record update handling?": False,
+    "Optimistic Locking (Version Column) vs Pessimistic Locking (SELECT FOR UPDATE) concurrent record update handling?": True,
     "Database Sharding / Horizontal Partitioning vs Vertical Partitioning massive data storage scaling strategies?": False,
     "Correlated Subqueries vs JOINs performance processing loop overhead elimination refactoring?": False,
     "Partitioning Tables (Range, List, Hash Partitioning) large history tables partition pruning optimization?": False,
