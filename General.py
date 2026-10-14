@@ -344,7 +344,7 @@ CivilizationAncientPeople = {
     'Oracle bones ancient China me future predict karne ke liye use hote the.': True,
     'Gladiators Roman colosseum me fight karte the.': True,
     'Spartan children ki harsh training hoti thi warrior banane ke liye.': True,
-    'Athens art, science aur literature ka center tha.': False,
+    'Athens art, science aur literature ka center tha.': True,
     'Persian empire postal system aur roads ke liye jana jata tha.': False,
     'Phoenicians ne sabse pehla alphabetic script banaya tha.': False,
     'Minoan civilization Crete island par flourish hui thi.': False,
