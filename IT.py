@@ -21,7 +21,7 @@ Java = {
     "Java serialization security vulnerability ko prevent karne ke liye serialVersionUID aur transient fields kaise use karein?": True,
     "Immutable classes design karne ke key design guidelines kya hai aur why thread-safe hoti hain?": True,
     "ExecutorService thread pool exhaust hone par rejection policies (e.g. CallerRunsPolicy) kaise configure karoge?": True,
-    "Custom ClassLoader ki zarurat padti hai aur Delegation Model kaise kaam karta hai?": False,
+    "Custom ClassLoader ki zarurat padti hai aur Delegation Model kaise kaam karta hai?": True,
     "Java modules (JPMS) me strong encapsulation enforce karke legacy JARs ko kaise migrate karoge?": False,
     "Functional Interfaces aur Lambda Expressions se code readability aur memory allocation par kya impact hota hai?": False,
     "ForkJoinPool ka work-stealing algorithm large-scale computational tasks me latency kaise kam karta hai?": False,
