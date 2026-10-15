@@ -61,7 +61,7 @@ Python = {
     "Python Multiprocessing vs Threading vs Asyncio me se IO-bound vs CPU-bound tasks ke liye best module kaise select karoge?": True,
     "Python Memory Management me Reference Counting aur Cyclic Garbage Collector memory leaks ko kaise cleanup karte hain?": True,
     "Custom Decorators banate waqt functools.wraps ka use state aur metadata preserve karne ke liye kyun zaroori hai?": True,
-    "Python generators aur iterators ka memory efficiency maintain karne me yield keyword ke sath kya role hai?": False,
+    "Python generators aur iterators ka memory efficiency maintain karne me yield keyword ke sath kya role hai?": True,
     "Python me Metaclasses ka use karke class creation behavior runtime par kaise customize/enforce karein?": False,
     "Context Managers (__enter__, __exit__) ka custom implementation resource handling (like DB locks/files) me kaise karein?": False,
     "Python dictionaries ki internal Hashtable implementation aur Hash Collision resolution mechanism kaise work karta hai?": False,
