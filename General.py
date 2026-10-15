@@ -237,7 +237,7 @@ SeaCreature = {
     'Seal aur sea lion me main difference ear flaps ka hota hai.': True,
     'Manatee ko sea cow bhi kaha jata hai.': True,
     'Lobster ka blood colorless hota hai jo oxygen milne par blue hota hai.': True,
-    'Oyster pearls produce karte hain jab koi irritant andar jata hai.': False,
+    'Oyster pearls produce karte hain jab koi irritant andar jata hai.': True,
     'Barnacles rock par chipke rehte hain aur filter feeding karte hain.': False,
     'Sea urchin ke paas sharp spines hote hain protection ke liye.': False,
     'Moray eel cave me chhipkar shikaar ka wait karti hai.': False,
