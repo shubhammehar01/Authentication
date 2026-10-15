@@ -24,7 +24,7 @@ AnimalPicture = {
     'Housefly ki life span sirf 2 weeks hoti hai.': True,
     'Jellyfish 95% paani se bani hoti hai.': True,
     'Camel ke paas 3 eyelids hoti hain jo unhe ret se bachati hain.': True,
-    'Squirrels plant lagane me anjaane me madad karti hain kyunki wo nuts bhool jaati hain.': False,
+    'Squirrels plant lagane me anjaane me madad karti hain kyunki wo nuts bhool jaati hain.': True,
     'Bat ekmatra mammal hai jo ud sakta hai.': False,
     'Platypus ke paas pet nahi hota hai.': False,
     'Otter sote waqt ek dusre ka haath pakad kar sote hain taaki beh na jayein.': False,
