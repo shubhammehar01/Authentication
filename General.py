@@ -505,7 +505,7 @@ PoliceSearching = {
     'Emergency helpline numbers quick response ke liye hote hain.': True,
     'SWAT teams high-risk hostage situations handle karti hain.': True,
     'Bomb disposal squads explosives neutralise karte hain.': True,
-    'Traffic police road safety aur rules enforce karti hai.': False,
+    'Traffic police road safety aur rules enforce karti hai.': True,
     'Speed cameras overspeeding vehicles detect karte hain.': False,
     'Breathalyzer tests drunk driving check karte hain.': False,
     'FIR (First Information Report) legal investigation start karti hai.': False,
