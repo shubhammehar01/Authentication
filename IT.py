@@ -280,7 +280,7 @@ MySql = {
     "MySQL Replication Topologies: Master-Slave, Master-Master, GTID Based Async vs Semi-Sync Replication delay mitigation?": True,
     "MySQL Connection Pooling HikariCP/ProxySQL load balancing, query routing and stale connection pruning?": True,
     "MySQL Table Partitioning (Range, Hash, List) pruning query execution time optimization strategy?": True,
-    "MySQL Online DDL / Schema Change Tools (`pt-online-schema-change`, `gh-ost`) zero downtime migrations on huge tables?": False,
+    "MySQL Online DDL / Schema Change Tools (`pt-online-schema-change`, `gh-ost`) zero downtime migrations on huge tables?": True,
     "MySQL InnoDB Buffer Pool Tuning (`innodb_buffer_pool_size`, `innodb_buffer_pool_instances`) RAM allocation limits?": False,
     "MySQL Lock Analysis: `SHOW ENGINE INNODB STATUS`, `performance_schema.data_locks` blocking queries identification?": False,
     "MySQL Backup and Restore: Physical Backups (`Percona XtraBackup`) vs Logical Backups (`mysqldump` / `mydumper`) strategies?": False,
