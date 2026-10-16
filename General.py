@@ -506,7 +506,7 @@ PoliceSearching = {
     'SWAT teams high-risk hostage situations handle karti hain.': True,
     'Bomb disposal squads explosives neutralise karte hain.': True,
     'Traffic police road safety aur rules enforce karti hai.': True,
-    'Speed cameras overspeeding vehicles detect karte hain.': False,
+    'Speed cameras overspeeding vehicles detect karte hain.': True,
     'Breathalyzer tests drunk driving check karte hain.': False,
     'FIR (First Information Report) legal investigation start karti hai.': False,
     'Warrants court se arrest ya search ke liye issue hote hain.': False,
