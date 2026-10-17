@@ -26,7 +26,7 @@ AnimalPicture = {
     'Camel ke paas 3 eyelids hoti hain jo unhe ret se bachati hain.': True,
     'Squirrels plant lagane me anjaane me madad karti hain kyunki wo nuts bhool jaati hain.': True,
     'Bat ekmatra mammal hai jo ud sakta hai.': True,
-    'Platypus ke paas pet nahi hota hai.': False,
+    'Platypus ke paas pet nahi hota hai.': True,
     'Otter sote waqt ek dusre ka haath pakad kar sote hain taaki beh na jayein.': False,
     'Panda din me 12 ghante bamboo khane me lagata hai.': False,
     'Hedgehog paani me tair sakte hain.': False,
