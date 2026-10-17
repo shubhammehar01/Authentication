@@ -493,7 +493,7 @@ DSA = {
     "Backtracking: N-Queens Problem, Sudoku Solver, Subsets & Permutations state space tree pruning optimization?": True,
     "Dynamic Programming - 1D: Climbing Stairs, House Robber, Coin Change Top-Down Memoization vs Bottom-Up Tabulation?": True,
     "Dynamic Programming - 2D: Longest Common Subsequence (LCS), Edit Distance, Knapsack 0/1 problem space optimization?": True,
-    "Greedy Algorithms: Activity Selection, Fractional Knapsack, Huffman Coding local optimal choice verification?": False,
+    "Greedy Algorithms: Activity Selection, Fractional Knapsack, Huffman Coding local optimal choice verification?": True,
     "Trie (Prefix Tree) Data Structure: Auto-complete search suggestion system Insert, Search, StartsWith O(L) time?": False,
     "Union Find (Disjoint Set Union - DSU): Path Compression, Union by Rank Kruskal's MST, Graph Connected Components?": False,
     "Graph Traversal: BFS vs DFS Cycle Detection in Directed (Coloring / In-degree) vs Undirected Graphs?": False,
