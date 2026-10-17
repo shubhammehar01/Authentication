@@ -77,7 +77,7 @@ War = {
     'Crusades medieval period ki religious wars thin.': True,
     'Battle of Waterloo Napoleon ki final defeat thi.': True,
     'Vietnam war me helicopter ka massive use hua tha.': True,
-    ' trench warfare WWII me soldiers ke liye nightmare thi.': False,
+    ' trench warfare WWII me soldiers ke liye nightmare thi.': True,
     'Military intelligence war jeetne me sabse bada role play karti hai.': False,
     'Cavalry units purane zamane me fast attack ke liye thi.': False,
     'Siege engines se bade kile ki deewarein todi jaati thin.': False,
