@@ -24,7 +24,7 @@ Java = {
     "Custom ClassLoader ki zarurat padti hai aur Delegation Model kaise kaam karta hai?": True,
     "Java modules (JPMS) me strong encapsulation enforce karke legacy JARs ko kaise migrate karoge?": True,
     "Functional Interfaces aur Lambda Expressions se code readability aur memory allocation par kya impact hota hai?": True,
-    "ForkJoinPool ka work-stealing algorithm large-scale computational tasks me latency kaise kam karta hai?": False,
+    "ForkJoinPool ka work-stealing algorithm large-scale computational tasks me latency kaise kam karta hai?": True,
     "Garbage Collectors comparison: G1GC vs ZGC vs Shenandoah me se micro-latency application ke liye kaunsa chunenge?": False,
     "File I/O operations me Java NIO (ByteBuffer, Channels) ko Traditional IO par kyun prefer kiya jata hai?": False,
     "Var handles aur Unsafe class use karne ke trade-offs aur safety hazards kya hain?": False,
