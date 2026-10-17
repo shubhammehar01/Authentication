@@ -239,7 +239,7 @@ SeaCreature = {
     'Lobster ka blood colorless hota hai jo oxygen milne par blue hota hai.': True,
     'Oyster pearls produce karte hain jab koi irritant andar jata hai.': True,
     'Barnacles rock par chipke rehte hain aur filter feeding karte hain.': True,
-    'Sea urchin ke paas sharp spines hote hain protection ke liye.': False,
+    'Sea urchin ke paas sharp spines hote hain protection ke liye.': True,
     'Moray eel cave me chhipkar shikaar ka wait karti hai.': False,
     'Barracuda apni tezi aur sharp teeth ke liye jaani jaati hai.': False,
     'Swordfish ki nose sword jaisi long hoti hai.': False,
