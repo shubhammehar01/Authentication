@@ -335,7 +335,7 @@ React = {
     "React High Order Components (HOC) vs Render Props vs Custom Hooks evolution clean code refactoring?": True,
     "React Virtualized Lists (`react-window`, `react-virtualized`) DOM node count reduction performance scaling?": True,
     "React Controlled vs Uncontrolled Components (`useRef` hook) form performance re-render optimization?": True,
-    "React `useLayoutEffect` vs `useEffect` DOM measurement mutations layout shift flicker prevention?": False,
+    "React `useLayoutEffect` vs `useEffect` DOM measurement mutations layout shift flicker prevention?": True,
     "React Batching Updates (Automatic Batching React 18) async event handlers re-render optimizations?": False,
     "React Form Management: React Hook Form vs Formik re-render overhead validation schema (Zod/Yup) integration?": False,
     "React Concurrent Features: `useTransition` and `useDeferredValue` UI non-blocking rendering responsiveness?": False,
