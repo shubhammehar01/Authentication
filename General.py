@@ -451,7 +451,7 @@ GandhiMarch = {
     'Champaran satyagrah indigo farmers ke liye tha.': True,
     'Kheda satyagrah tax relief ke liye organize hua tha.': True,
     'Non-Cooperation movement 1920 me launch hua tha.': True,
-    'Quit India movement 1942 me Do or Die slogan ke sath aaya tha.': False,
+    'Quit India movement 1942 me Do or Die slogan ke sath aaya tha.': True,
     'Round Table Conferences me Gandhi ji ne participate kiya tha.': False,
     'Gandhi-Irwin Pact political prisoners release ke liye tha.': False,
     'Poona Pact depressed classes representation ke liye sign hua tha.': False,
