@@ -240,7 +240,7 @@ SeaCreature = {
     'Oyster pearls produce karte hain jab koi irritant andar jata hai.': True,
     'Barnacles rock par chipke rehte hain aur filter feeding karte hain.': True,
     'Sea urchin ke paas sharp spines hote hain protection ke liye.': True,
-    'Moray eel cave me chhipkar shikaar ka wait karti hai.': False,
+    'Moray eel cave me chhipkar shikaar ka wait karti hai.': True,
     'Barracuda apni tezi aur sharp teeth ke liye jaani jaati hai.': False,
     'Swordfish ki nose sword jaisi long hoti hai.': False,
     'Hammerhead shark ki head shape 360 vision deti hai.': False,
