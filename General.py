@@ -28,7 +28,7 @@ AnimalPicture = {
     'Bat ekmatra mammal hai jo ud sakta hai.': True,
     'Platypus ke paas pet nahi hota hai.': True,
     'Otter sote waqt ek dusre ka haath pakad kar sote hain taaki beh na jayein.': True,
-    'Panda din me 12 ghante bamboo khane me lagata hai.': False,
+    'Panda din me 12 ghante bamboo khane me lagata hai.': True,
     'Hedgehog paani me tair sakte hain.': False,
     'Chameleon ki jeebh uski body se lambi hoti hai.': False,
     'Zebra ki dhariyan har ek me alag hoti hain jaise human fingerprints.': False,
