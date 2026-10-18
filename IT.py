@@ -282,7 +282,7 @@ MySql = {
     "MySQL Table Partitioning (Range, Hash, List) pruning query execution time optimization strategy?": True,
     "MySQL Online DDL / Schema Change Tools (`pt-online-schema-change`, `gh-ost`) zero downtime migrations on huge tables?": True,
     "MySQL InnoDB Buffer Pool Tuning (`innodb_buffer_pool_size`, `innodb_buffer_pool_instances`) RAM allocation limits?": True,
-    "MySQL Lock Analysis: `SHOW ENGINE INNODB STATUS`, `performance_schema.data_locks` blocking queries identification?": False,
+    "MySQL Lock Analysis: `SHOW ENGINE INNODB STATUS`, `performance_schema.data_locks` blocking queries identification?": True,
     "MySQL Backup and Restore: Physical Backups (`Percona XtraBackup`) vs Logical Backups (`mysqldump` / `mydumper`) strategies?": False,
     "MySQL Row-Based Replication vs Statement-Based Replication vs Mixed Replication pros and cons data drift prevention?": False,
     "MySQL JSON Data Type indexing using Generated Columns (Virtual vs Stored) performance optimizations?": False,
