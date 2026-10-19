@@ -439,7 +439,7 @@ AWS = {
     "AWS ECS (Elastic Container Service) Fargate vs EC2 Launch Types task definitions autoscaling deployment?": True,
     "AWS EKS (Elastic Kubernetes Service) Worker Node Groups, VPC CNI networking, IAM Roles for Service Accounts (IRSA)?": True,
     "AWS CloudFront CDN Caching Strategies, Origin Request Policies, Edge Lambda / CloudFront Functions customizations?": True,
-    "AWS API Gateway REST vs HTTP APIs throttling, API Keys, Custom Authorizer Lambda, Rate Limiting protection?": False,
+    "AWS API Gateway REST vs HTTP APIs throttling, API Keys, Custom Authorizer Lambda, Rate Limiting protection?": True,
     "AWS Route 53 Routing Policies: Latency-Based, Geolocation, Weighted, Failover Health Checks DNS routing?": False,
     "AWS KMS (Key Management Service) Envelope Encryption Symmetric vs Asymmetric Keys Customer Managed Keys setup?": False,
     "AWS CloudWatch Logs Insights, Metrics, Alarms, Synthetic Canaries production monitoring alert routing?": False,
