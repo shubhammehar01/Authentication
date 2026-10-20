@@ -346,7 +346,7 @@ CivilizationAncientPeople = {
     'Spartan children ki harsh training hoti thi warrior banane ke liye.': True,
     'Athens art, science aur literature ka center tha.': True,
     'Persian empire postal system aur roads ke liye jana jata tha.': True,
-    'Phoenicians ne sabse pehla alphabetic script banaya tha.': False,
+    'Phoenicians ne sabse pehla alphabetic script banaya tha.': True,
     'Minoan civilization Crete island par flourish hui thi.': False,
     'Mycenaean civilization early Greek history ka part hai.': False,
     'Olmec civilization giant stone heads ke liye famous hai.': False,
