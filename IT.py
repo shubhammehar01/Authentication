@@ -860,7 +860,7 @@ RestAPIDesign = {
     "Idempotency Key Implementation (`Idempotency-Key` Header) Distributed Locks Redis Request Deduplication?": True,
     "REST API Versioning Strategies: URI Path Versioning, Query Parameter, Custom Request Headers, Accept Header (Content Negotiation)?": True,
     "REST API Error Handling Architecture: Standardized JSON Error Payload (RFC 7807 Problem Details)?": True,
-    "REST API Security: OAuth 2.0 Access Tokens, Refresh Token Rotation, Scopes, JWT Validation, Rate Limiting?": False,
+    "REST API Security: OAuth 2.0 Access Tokens, Refresh Token Rotation, Scopes, JWT Validation, Rate Limiting?": True,
     "REST API Caching HTTP Headers: `Cache-Control`, `ETag` (Entity Tag), `If-None-Match`, `Last-Modified` Validation?": False,
     "HATEOAS (Hypermedia As The Engine Of Application State) Level 3 Richardson Maturity Model Implementation?": False,
     "REST API Field Filtering Dynamic Projections (`?fields=id,name,email`) Payload Size Reduction?": False,
