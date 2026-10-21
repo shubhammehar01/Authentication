@@ -184,7 +184,7 @@ NaturalDisaster = {
     'Pacific Tsunami Warning Center earthquakes detect karta hai.': True,
     'Magma zameen ke andar hota hai aur lava bahar aane par kehte hain.': True,
     'Supervolcanoes huge explosive eruptions kar sakte hain.': True,
-    'Monsoon floods south asia me har saal common hain.': False,
+    'Monsoon floods south asia me har saal common hain.': True,
     'El Nino weather pattern global climate ko affect karta hai.': False,
     'La Nina conditions opposite effects laati hain.': False,
     'Glacier melting se sea level rise ho raha hai.': False,
