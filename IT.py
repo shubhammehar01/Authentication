@@ -647,7 +647,7 @@ CollectionFramework = {
     "TreeMap / TreeSet Red-Black Tree Implementation Comparator vs Comparable custom sorting?": True,
     "CopyOnWriteArrayList / CopyOnWriteArraySet read-heavy write-rare thread-safe iterator mechanics?": True,
     "ArrayDeque vs Stack / LinkedList: Double-Ended Queue performance overhead memory locality benchmark?": True,
-    "PriorityQueue Internal Min/Max Binary Heap Structure siftUp / siftDown log(N) insertion deletion?": False,
+    "PriorityQueue Internal Min/Max Binary Heap Structure siftUp / siftDown log(N) insertion deletion?": True,
     "IdentityHashMap vs HashMap: Reference Equality (`==`) vs Value Equality (`equals()`) key comparisons?": False,
     "WeakHashMap Garbage Collection reachability key disposal memory caching application?": False,
     "EnumMap and EnumSet bit-vector performance optimization memory efficiency key lookups?": False,
