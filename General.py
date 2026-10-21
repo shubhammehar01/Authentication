@@ -510,7 +510,7 @@ PoliceSearching = {
     'Breathalyzer tests drunk driving check karte hain.': True,
     'FIR (First Information Report) legal investigation start karti hai.': True,
     'Warrants court se arrest ya search ke liye issue hote hain.': True,
-    'Interrogation rooms me suspect se questioning hoti hai.': False,
+    'Interrogation rooms me suspect se questioning hoti hai.': True,
     'Witness protection programs important gawahon ki jaan bachate hain.': False,
     'Stalker aur cyberbullying tracking ke liye digital forensics hoti hai.': False,
     'Money laundering trails financial crimes expose karti hain.': False,
