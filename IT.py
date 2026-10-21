@@ -122,7 +122,7 @@ JavaScript = {
     "JavaScript Garbage Collector (Mark-and-Sweep) detached DOM nodes memory cleanup kaise karta hai?": True,
     "Strict Mode ('use strict') runtime scope enforcement JavaScript error traps silences ko noisy runtime exceptions me kaise badalta hai?": True,
     "ES6 Modules (import/export) tree-shaking dead code elimination bundling pipelines me kaise enable karti hai?": True,
-    "Custom Event Listeners and Emitter patterns memory leak avoid karne ke liye target teardown lifecycle listener remove kaise karte hain?": False,
+    "Custom Event Listeners and Emitter patterns memory leak avoid karne ke liye target teardown lifecycle listener remove kaise karte hain?": True,
     "WeakMap aur WeakSet objects garbage collection reachability ignore karke private metadata caching me kaise help karte hain?": False,
     "JavaScript Object Immutability: Object.freeze() vs Object.seal() vs Object.preventExtensions() me operational differences kya hain?": False,
     "Optional Chaining (?.) aur Nullish Coalescing (??) falsy logic zero/empty-strings bugs avoid karne me kaise effective hain?": False,
