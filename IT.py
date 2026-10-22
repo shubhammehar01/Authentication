@@ -442,7 +442,7 @@ AWS = {
     "AWS API Gateway REST vs HTTP APIs throttling, API Keys, Custom Authorizer Lambda, Rate Limiting protection?": True,
     "AWS Route 53 Routing Policies: Latency-Based, Geolocation, Weighted, Failover Health Checks DNS routing?": True,
     "AWS KMS (Key Management Service) Envelope Encryption Symmetric vs Asymmetric Keys Customer Managed Keys setup?": True,
-    "AWS CloudWatch Logs Insights, Metrics, Alarms, Synthetic Canaries production monitoring alert routing?": False,
+    "AWS CloudWatch Logs Insights, Metrics, Alarms, Synthetic Canaries production monitoring alert routing?": True,
     "AWS Secrets Manager vs Systems Manager (SSM) Parameter Store secret rotation automated Lambda triggering?": False,
     "AWS Cost Optimization: Savings Plans, Reserved Instances (RI), Spot Instances Auto Scaling fault tolerance?": False,
     "AWS SQS (Simple Queue Service) Standard vs FIFO queues Dead Letter Queues (DLQ) visibility timeout handling?": False,
