@@ -701,7 +701,7 @@ OOPs = {
     "Design Patterns: Factory Method Pattern vs Abstract Factory Pattern Extensible Object Creation?": True,
     "Design Patterns: Singleton Pattern Thread-Safety, Double-Checked Locking, Serialization / Reflection Breaks Fixes?": True,
     "Design Patterns: Strategy Pattern Dynamic Behavior Switching runtime algorithm swapping?": True,
-    "Design Patterns: Observer Pattern Event Driven Architecture Reactive Loose Coupling Decoupling?": False,
+    "Design Patterns: Observer Pattern Event Driven Architecture Reactive Loose Coupling Decoupling?": True,
     "Design Patterns: Decorator Pattern Adding Responsibilities Dynamically Object Wrapper Inheritance Alternative?": False,
     "Design Patterns: Adapter Pattern Legacy Code Wrapper Incompatible Interface Bridges Integration?": False,
     "Design Patterns: Builder Pattern Complex Object Creation Method Chaining Immutability Enforcement?": False,
