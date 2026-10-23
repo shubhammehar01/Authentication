@@ -667,7 +667,7 @@ ScientistExperiments = {
     'Einstein relativity theory space-time fabric explain karti hai.': True,
     'Tesla alternating current electrical system develop kiya tha.': True,
     'Edison light bulb experiments me hazaro attempts kiye the.': True,
-    'Darwin evolution theory Galapagos islands par study karke di thi.': False,
+    'Darwin evolution theory Galapagos islands par study karke di thi.': True,
     'Goodall chimpanzee research animal behavior par groundbreaking thi.': False,
     'Hawking radiation black holes se related theory thi.': False,
     'Turing test artificial intelligence human-like intelligence measure karta hai.': False,
