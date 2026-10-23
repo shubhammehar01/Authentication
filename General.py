@@ -552,7 +552,7 @@ RoketSatellite = {
     'Geostationary satellites earth ke sath synchronous rotate karti hain.': True,
     'GPS satellites navigation aur timing signals provide karti hain.': True,
     'Hubble Space Telescope deep space images capture karta hai.': True,
-    'James Webb Space Telescope infrared astronomy me advance hai.': False,
+    'James Webb Space Telescope infrared astronomy me advance hai.': True,
     'International Space Station (ISS) space me orbiting lab hai.': False,
     'Mars rovers red planet ki surface explore karte hain.': False,
     'Lunar orbiters moon mapping aur water ice search karte hain.': False,
