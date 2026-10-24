@@ -137,7 +137,7 @@ IndiaPak = {
     'Partition ki stories oral history archives me save hain.': True,
     'Diplomatic missions dono capitals me established hain.': True,
     'UN observers border area me peace monitor karte rahe hain.': True,
-    'Himalayan ecosystem dono desho me shared hai.': False,
+    'Himalayan ecosystem dono desho me shared hai.': True,
     'Monsoon pattern dono regions ki agriculture ko affect karta hai.': False,
     'Traditional textiles aur crafts me common designs hain.': False,
     'Railway history pre-independence era se shared hai.': False,
