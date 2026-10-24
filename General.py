@@ -612,7 +612,7 @@ Machines = {
     'Transformers voltage levels step up ya down karte hain.': True,
     'Compressors air pressure increase karte hain pneumatic tools ke liye.': True,
     'Pumps liquids transport karne ke liye pipelines me use hote hain.': True,
-    'Heat exchangers thermal energy transfer karte hain systems ke beech.': False,
+    'Heat exchangers thermal energy transfer karte hain systems ke beech.': True,
     'Industrial boilers high pressure steam produce karte hain.': False,
     'Centrifuges high speed rotation se liquids separate karte hain.': False,
     'Packaging machines food aur consumer goods pack karti hain.': False,
