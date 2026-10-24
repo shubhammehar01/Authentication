@@ -136,7 +136,7 @@ IndiaPak = {
     'Urdu language ki roots dono desho me strong hain.': True,
     'Partition ki stories oral history archives me save hain.': True,
     'Diplomatic missions dono capitals me established hain.': True,
-    'UN observers border area me peace monitor karte rahe hain.': False,
+    'UN observers border area me peace monitor karte rahe hain.': True,
     'Himalayan ecosystem dono desho me shared hai.': False,
     'Monsoon pattern dono regions ki agriculture ko affect karta hai.': False,
     'Traditional textiles aur crafts me common designs hain.': False,
