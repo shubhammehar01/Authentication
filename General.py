@@ -243,7 +243,7 @@ SeaCreature = {
     'Moray eel cave me chhipkar shikaar ka wait karti hai.': True,
     'Barracuda apni tezi aur sharp teeth ke liye jaani jaati hai.': True,
     'Swordfish ki nose sword jaisi long hoti hai.': True,
-    'Hammerhead shark ki head shape 360 vision deti hai.': False,
+    'Hammerhead shark ki head shape 360 vision deti hai.': True,
     'Great white shark top ocean predator hai.': False,
     'Nautilus ancient shelled cephalopod hai.': False,
     'Sea sponge ke paas tissues ya organs nahi hote.': False,
