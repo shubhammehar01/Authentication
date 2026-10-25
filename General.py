@@ -397,7 +397,7 @@ FlyVehicles = {
     'Refueling aircraft mid-air me doosre plane me fuel transfer karte hain.': True,
     'Unmanned Aerial Vehicles (UAVs) military aur civilian use me hain.': True,
     'Spaceplanes atmosphere aur space dono me fly kar sakte hain.': True,
-    'Electric aircrafts zero emission aviation goal par work kar rahe hain.': False,
+    'Electric aircrafts zero emission aviation goal par work kar rahe hain.': True,
     'Hydrogen powered planes future aviation ki direction hain.': False,
     'Jet streams high altitude strong winds hoti hain jo flight speed affect karti hain.': False,
     'Black box flight recorder crash investigation ke liye hota hai.': False,
