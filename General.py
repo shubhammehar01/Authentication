@@ -299,7 +299,7 @@ factoryEngineers = {
     'Forging metal ko hammer karke strong banati hai.': True,
     'Machining process me turning, milling aur drilling hoti hain.': True,
     'Additive manufacturing ya 3D printing layer by layer parts banati hai.': True,
-    'Industrial robots repetitive tasks bina thake karte hain.': False,
+    'Industrial robots repetitive tasks bina thake karte hain.': True,
     'Sensors temperature, pressure aur vibration measure karte hain.': False,
     'Data analytics factory efficiency ko optimize karti hai.': False,
     'Green manufacturing eco-friendly processes adopt karti hai.': False,
