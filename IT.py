@@ -223,7 +223,7 @@ SpringBoot = {
     "Spring AOP (Aspect Oriented Programming) custom annotations creation logging, execution time profiling, security interceptors?": True,
     "Spring Boot Graceful Shutdown handling active long running in-flight HTTP requests termination prevention?": True,
     "Spring Security JWT Authentication, Refresh Token Rotation, Stateless Stateless Filter Chain implementation?": True,
-    "Spring Transaction Management (`@Transactional`) Propagation levels (REQUIRED, REQUIRES_NEW) and Isolation levels handling?": False,
+    "Spring Transaction Management (`@Transactional`) Propagation levels (REQUIRED, REQUIRES_NEW) and Isolation levels handling?": True,
     "Spring Boot Application Multi-Profile configuration (`application-dev.yml`, `application-prod.yml`) external secrets management?": False,
     "Spring Cloud Resilience4j Circuit Breaker, Rate Limiter, Retry, Bulkhead patterns service failure resilience?": False,
     "Spring Boot Microservices Distributed Tracing with Micrometer Tracing / Zipkin / OpenTelemetry traceId injection?": False,
