@@ -338,7 +338,7 @@ React = {
     "React `useLayoutEffect` vs `useEffect` DOM measurement mutations layout shift flicker prevention?": True,
     "React Batching Updates (Automatic Batching React 18) async event handlers re-render optimizations?": True,
     "React Form Management: React Hook Form vs Formik re-render overhead validation schema (Zod/Yup) integration?": True,
-    "React Concurrent Features: `useTransition` and `useDeferredValue` UI non-blocking rendering responsiveness?": False,
+    "React Concurrent Features: `useTransition` and `useDeferredValue` UI non-blocking rendering responsiveness?": True,
     "React Query (TanStack Query) / SWR Data Fetching: Caching, Deduping, Optimistic Updates, Stale-Time management?": False,
     "React Memory Leaks: Unsubscribed listeners, active fetch controllers component unmount cleanup hooks?": False,
     "React Dynamic Imports Webpack Module Federation Micro-Frontends integration architecture?": False,
