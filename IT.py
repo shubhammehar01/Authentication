@@ -543,7 +543,7 @@ SystemDesign = {
     "Distributed Message Queue Design (Kafka/RabbitMQ): Partitioning, Consumer Groups, At-least-once vs Exactly-once?": True,
     "E-Commerce Flash Sale System Design: High Concurrency Inventory Locks, Overbooking Prevention, Queueing?": True,
     "Real-Time Chat Application Design (WhatsApp/Slack): WebSockets, Long Polling, Presence Server, Message Storage?": True,
-    "Video Streaming Platform Design (YouTube/Netflix): Video Transcoding, Chunking (HLS/DASH), CDN Distribution?": False,
+    "Video Streaming Platform Design (YouTube/Netflix): Video Transcoding, Chunking (HLS/DASH), CDN Distribution?": True,
     "Location-Based Service Design (Uber/Nearby Places): QuadTree, Geohash, Spatial Indexing Real-Time Tracking?": False,
     "Distributed File Storage System Design (Google Drive/Dropbox): File Chunking, Sync Protocol, Metadata DB?": False,
     "News Feed / Social Network System Design (Twitter/Instagram): Push vs Pull Model, Fan-out on write vs read?": False,
