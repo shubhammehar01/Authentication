@@ -175,7 +175,7 @@ SQL = {
     "Optimistic Locking (Version Column) vs Pessimistic Locking (SELECT FOR UPDATE) concurrent record update handling?": True,
     "Database Sharding / Horizontal Partitioning vs Vertical Partitioning massive data storage scaling strategies?": True,
     "Correlated Subqueries vs JOINs performance processing loop overhead elimination refactoring?": True,
-    "Partitioning Tables (Range, List, Hash Partitioning) large history tables partition pruning optimization?": False,
+    "Partitioning Tables (Range, List, Hash Partitioning) large history tables partition pruning optimization?": True,
     "Database Connection Pooling (HikariCP / PgBouncer) configuration parameters tuning exhaust DB connections avoid karne ke liye?": False,
     "UPSERT operations (INSERT ON CONFLICT / MERGE INTO) atomic concurrency updates handling without key collisions?": False,
     "Database Deadlock identification analysis DB engine locks trace detection resolution strategies?": False,
