@@ -349,7 +349,7 @@ CivilizationAncientPeople = {
     'Phoenicians ne sabse pehla alphabetic script banaya tha.': True,
     'Minoan civilization Crete island par flourish hui thi.': True,
     'Mycenaean civilization early Greek history ka part hai.': True,
-    'Olmec civilization giant stone heads ke liye famous hai.': False,
+    'Olmec civilization giant stone heads ke liye famous hai.': True,
     'Easter Island ke moai statues mysterious hain.': False,
     'Anasazi cliff dwellings North America me milti hain.': False,
     'Viking warriors seafaring aur exploration ke liye jaane jaate the.': False,
