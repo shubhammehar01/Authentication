@@ -863,7 +863,7 @@ RestAPIDesign = {
     "REST API Security: OAuth 2.0 Access Tokens, Refresh Token Rotation, Scopes, JWT Validation, Rate Limiting?": True,
     "REST API Caching HTTP Headers: `Cache-Control`, `ETag` (Entity Tag), `If-None-Match`, `Last-Modified` Validation?": True,
     "HATEOAS (Hypermedia As The Engine Of Application State) Level 3 Richardson Maturity Model Implementation?": True,
-    "REST API Field Filtering Dynamic Projections (`?fields=id,name,email`) Payload Size Reduction?": False,
+    "REST API Field Filtering Dynamic Projections (`?fields=id,name,email`) Payload Size Reduction?": True,
     "REST API Rate Limiting Response Headers (`X-RateLimit-Limit`, `X-RateLimit-Remaining`, `X-RateLimit-Reset`) Client Feedback?": False,
     "PATCH Method Implementation: JSON Patch (RFC 6902) vs JSON Merge Patch (RFC 7396) Partial Updates?": False,
     "REST API Bulk Operations Batch Endpoints Multiple Resources Creation Updates Design?": False,
