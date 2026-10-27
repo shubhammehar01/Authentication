@@ -300,7 +300,7 @@ factoryEngineers = {
     'Machining process me turning, milling aur drilling hoti hain.': True,
     'Additive manufacturing ya 3D printing layer by layer parts banati hai.': True,
     'Industrial robots repetitive tasks bina thake karte hain.': True,
-    'Sensors temperature, pressure aur vibration measure karte hain.': False,
+    'Sensors temperature, pressure aur vibration measure karte hain.': True,
     'Data analytics factory efficiency ko optimize karti hai.': False,
     'Green manufacturing eco-friendly processes adopt karti hai.': False,
     'Zero waste factories environmental impact minimize karti hain.': False,
