@@ -79,7 +79,7 @@ War = {
     'Vietnam war me helicopter ka massive use hua tha.': True,
     ' trench warfare WWII me soldiers ke liye nightmare thi.': True,
     'Military intelligence war jeetne me sabse bada role play karti hai.': True,
-    'Cavalry units purane zamane me fast attack ke liye thi.': False,
+    'Cavalry units purane zamane me fast attack ke liye thi.': True,
     'Siege engines se bade kile ki deewarein todi jaati thin.': False,
     'Chemical weapons ka use ab international law ke tahat ban hai.': False,
     'Red Cross ki shuruwat war wounded soldiers ki help ke liye hui thi.': False,
