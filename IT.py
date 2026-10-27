@@ -763,7 +763,7 @@ Git = {
     "Git Worktree simultaneous checkout multiple branches separate directories context switching?": True,
     "Git `.gitignore` and `.gitkeep` rules tracked file untracking (`git rm --cached`) syntax fixes?": True,
     "Git Detached HEAD state explanation commit creation recovery branch creation fixes?": True,
-    "Git Pull vs Git Fetch (`git fetch` + `git merge` / `git rebase`) remote tracking synchronization?": False,
+    "Git Pull vs Git Fetch (`git fetch` + `git merge` / `git rebase`) remote tracking synchronization?": True,
     "Git Remote Management (`git remote add`, `prune`, `set-url`) multiple upstream repositories sync?": False,
     "Git Config scoping (System, Global, Local) SSH keys configuration multiple GitHub accounts?": False,
     "Git Patch Creation (`git format-patch`) and Application (`git apply` / `git am`) offline code share?": False,
