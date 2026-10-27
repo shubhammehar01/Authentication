@@ -495,7 +495,7 @@ DSA = {
     "Dynamic Programming - 2D: Longest Common Subsequence (LCS), Edit Distance, Knapsack 0/1 problem space optimization?": True,
     "Greedy Algorithms: Activity Selection, Fractional Knapsack, Huffman Coding local optimal choice verification?": True,
     "Trie (Prefix Tree) Data Structure: Auto-complete search suggestion system Insert, Search, StartsWith O(L) time?": True,
-    "Union Find (Disjoint Set Union - DSU): Path Compression, Union by Rank Kruskal's MST, Graph Connected Components?": False,
+    "Union Find (Disjoint Set Union - DSU): Path Compression, Union by Rank Kruskal's MST, Graph Connected Components?": True,
     "Graph Traversal: BFS vs DFS Cycle Detection in Directed (Coloring / In-degree) vs Undirected Graphs?": False,
     "Topological Sort: Kahn's Algorithm (BFS In-degree) vs DFS Course Schedule Prerequisite Order resolution?": False,
     "Shortest Path Algorithms: Dijkstra's (Priority Queue) vs Bellman-Ford (Negative Edge Weights) vs Floyd-Warshall?": False,
