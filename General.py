@@ -613,7 +613,7 @@ Machines = {
     'Compressors air pressure increase karte hain pneumatic tools ke liye.': True,
     'Pumps liquids transport karne ke liye pipelines me use hote hain.': True,
     'Heat exchangers thermal energy transfer karte hain systems ke beech.': True,
-    'Industrial boilers high pressure steam produce karte hain.': False,
+    'Industrial boilers high pressure steam produce karte hain.': True,
     'Centrifuges high speed rotation se liquids separate karte hain.': False,
     'Packaging machines food aur consumer goods pack karti hain.': False,
     'Sorting machines barcodes aur sensors se items categorize karti hain.': False,
