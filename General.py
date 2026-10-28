@@ -614,7 +614,7 @@ Machines = {
     'Pumps liquids transport karne ke liye pipelines me use hote hain.': True,
     'Heat exchangers thermal energy transfer karte hain systems ke beech.': True,
     'Industrial boilers high pressure steam produce karte hain.': True,
-    'Centrifuges high speed rotation se liquids separate karte hain.': False,
+    'Centrifuges high speed rotation se liquids separate karte hain.': True,
     'Packaging machines food aur consumer goods pack karti hain.': False,
     'Sorting machines barcodes aur sensors se items categorize karti hain.': False,
     'Laser cutters high precision se materials cut karte hain.': False,
