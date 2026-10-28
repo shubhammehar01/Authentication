@@ -514,7 +514,7 @@ PoliceSearching = {
     'Witness protection programs important gawahon ki jaan bachate hain.': True,
     'Stalker aur cyberbullying tracking ke liye digital forensics hoti hai.': True,
     'Money laundering trails financial crimes expose karti hain.': True,
-    'Counterfeit currency detection machines fake notes pakadti hain.': False,
+    'Counterfeit currency detection machines fake notes pakadti hain.': True,
     'Anti-narcotics cells drugs smuggling rokti hain.': False,
     'Human trafficking rescue operations me police raid karti hai.': False,
     'Juvenile justice boards minor offenders ke liye hote hain.': False,
