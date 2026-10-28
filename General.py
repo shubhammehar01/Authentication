@@ -31,7 +31,7 @@ AnimalPicture = {
     'Panda din me 12 ghante bamboo khane me lagata hai.': True,
     'Hedgehog paani me tair sakte hain.': True,
     'Chameleon ki jeebh uski body se lambi hoti hai.': True,
-    'Zebra ki dhariyan har ek me alag hoti hain jaise human fingerprints.': False,
+    'Zebra ki dhariyan har ek me alag hoti hain jaise human fingerprints.': True,
     'Owl ki aakhon ki putliyan move nahi karti, wo sir ghumate hain.': False,
     'Ants apne wajan se 50 guna zyada wajan utha sakti hain.': False,
     'Blue whale ki tongue ka wajan ek elephant jitna hota hai.': False,
