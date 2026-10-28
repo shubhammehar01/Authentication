@@ -285,7 +285,7 @@ MySql = {
     "MySQL Lock Analysis: `SHOW ENGINE INNODB STATUS`, `performance_schema.data_locks` blocking queries identification?": True,
     "MySQL Backup and Restore: Physical Backups (`Percona XtraBackup`) vs Logical Backups (`mysqldump` / `mydumper`) strategies?": True,
     "MySQL Row-Based Replication vs Statement-Based Replication vs Mixed Replication pros and cons data drift prevention?": True,
-    "MySQL JSON Data Type indexing using Generated Columns (Virtual vs Stored) performance optimizations?": False,
+    "MySQL JSON Data Type indexing using Generated Columns (Virtual vs Stored) performance optimizations?": True,
     "MySQL High Availability Architecture: Orchestrator, MHA (Master High Availability), MySQL InnoDB Cluster setup?": False,
     "MySQL Optimizer Hints (`FORCE INDEX`, `STRAIGHT_JOIN`) overriding bad query execution plan choices?": False,
     "MySQL Temporary Tables creation on disk (FileSort / Created_tmp_disk_tables) memory exhaustion fixes?": False,
