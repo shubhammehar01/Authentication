@@ -669,7 +669,7 @@ ScientistExperiments = {
     'Edison light bulb experiments me hazaro attempts kiye the.': True,
     'Darwin evolution theory Galapagos islands par study karke di thi.': True,
     'Goodall chimpanzee research animal behavior par groundbreaking thi.': True,
-    'Hawking radiation black holes se related theory thi.': False,
+    'Hawking radiation black holes se related theory thi.': True,
     'Turing test artificial intelligence human-like intelligence measure karta hai.': False,
     'Meselson-Stahl experiment DNA replication semi-conservative prove karta hai.': False,
     'Hershey-Chase experiment DNA ko genetic material confirm karta hai.': False,
