@@ -809,7 +809,7 @@ Redis = {
     "Redis Transactions (MULTI, EXEC, WATCH, DISCARD) Optimistic Locking CAS implementation?": True,
     "Redis Lua Scripting (`EVAL`) Atomic Execution complex multi-step operations server side execution?": True,
     "Redis Distributed Locking Algorithm (Redlock): Multi-node consensus locking reliability validation?": True,
-    "Redis Performance Optimization: Pipeline Processing Batch Commands Network RTT Latency Drop?": False,
+    "Redis Performance Optimization: Pipeline Processing Batch Commands Network RTT Latency Drop?": True,
     "Redis Single-Threaded Event Loop Architecture (epoll/kqueue) I/O Multiplexing why so fast analysis?": False,
     "Redis Memory Fragmentation Ratio (`INFO memory`) `activedefrag` defragmentation tuning?": False,
     "Redis HyperLogLog Probabilistic Data Structure Millions Cardinality Unique Visitor Count Memory Savings?": False,
