@@ -185,7 +185,7 @@ NaturalDisaster = {
     'Magma zameen ke andar hota hai aur lava bahar aane par kehte hain.': True,
     'Supervolcanoes huge explosive eruptions kar sakte hain.': True,
     'Monsoon floods south asia me har saal common hain.': True,
-    'El Nino weather pattern global climate ko affect karta hai.': False,
+    'El Nino weather pattern global climate ko affect karta hai.': True,
     'La Nina conditions opposite effects laati hain.': False,
     'Glacier melting se sea level rise ho raha hai.': False,
     'Tidal waves moon gravity aur storms ki wajah se hoti hain.': False,
