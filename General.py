@@ -398,7 +398,7 @@ FlyVehicles = {
     'Unmanned Aerial Vehicles (UAVs) military aur civilian use me hain.': True,
     'Spaceplanes atmosphere aur space dono me fly kar sakte hain.': True,
     'Electric aircrafts zero emission aviation goal par work kar rahe hain.': True,
-    'Hydrogen powered planes future aviation ki direction hain.': False,
+    'Hydrogen powered planes future aviation ki direction hain.': True,
     'Jet streams high altitude strong winds hoti hain jo flight speed affect karti hain.': False,
     'Black box flight recorder crash investigation ke liye hota hai.': False,
     'Radar altimeter ground se height measure karta hai.': False,
