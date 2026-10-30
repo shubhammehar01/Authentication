@@ -340,7 +340,7 @@ React = {
     "React Form Management: React Hook Form vs Formik re-render overhead validation schema (Zod/Yup) integration?": True,
     "React Concurrent Features: `useTransition` and `useDeferredValue` UI non-blocking rendering responsiveness?": True,
     "React Query (TanStack Query) / SWR Data Fetching: Caching, Deduping, Optimistic Updates, Stale-Time management?": True,
-    "React Memory Leaks: Unsubscribed listeners, active fetch controllers component unmount cleanup hooks?": False,
+    "React Memory Leaks: Unsubscribed listeners, active fetch controllers component unmount cleanup hooks?": True,
     "React Dynamic Imports Webpack Module Federation Micro-Frontends integration architecture?": False,
     "React Profiler API, React DevTools performance Flamegraph analysis identifying component bottlenecks?": False,
     "React Synthetic Events System Event Delegation cross-browser consistency native event mapping?": False,
