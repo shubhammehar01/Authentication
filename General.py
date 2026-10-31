@@ -399,7 +399,7 @@ FlyVehicles = {
     'Spaceplanes atmosphere aur space dono me fly kar sakte hain.': True,
     'Electric aircrafts zero emission aviation goal par work kar rahe hain.': True,
     'Hydrogen powered planes future aviation ki direction hain.': True,
-    'Jet streams high altitude strong winds hoti hain jo flight speed affect karti hain.': False,
+    'Jet streams high altitude strong winds hoti hain jo flight speed affect karti hain.': True,
     'Black box flight recorder crash investigation ke liye hota hai.': False,
     'Radar altimeter ground se height measure karta hai.': False,
     'Cockpit me dual controls pilot aur co-pilot ke paas hote hain.': False,
