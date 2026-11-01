@@ -387,7 +387,7 @@ Docker = {
     "Docker Compose multi-container orchestrations dependencies healthchecks (`depends_on` with `condition`) setup?": True,
     "Docker Entrypoint vs CMD difference override behavior initialization scripts execution handling?": True,
     "Docker Logging Drivers: json-file, journald, fluentd, log-rotation policies disk space exhaustion prevention?": True,
-    "Docker Container Healthcheck configuration (`HEALTHCHECK` directive) automated container auto-healing restart?": False,
+    "Docker Container Healthcheck configuration (`HEALTHCHECK` directive) automated container auto-healing restart?": True,
     "Docker Image Scanning Tools (Trivy, Grype, Docker Scout) vulnerability evaluation CI/CD pipeline integration?": False,
     "Docker Container Zombie Processes PID 1 init process problem `tini` / `--init` signal handling termination?": False,
     "Docker Swarm vs Kubernetes basic container orchestration, services, stack deployments scaling trade-offs?": False,
