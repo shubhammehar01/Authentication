@@ -554,7 +554,7 @@ RoketSatellite = {
     'Hubble Space Telescope deep space images capture karta hai.': True,
     'James Webb Space Telescope infrared astronomy me advance hai.': True,
     'International Space Station (ISS) space me orbiting lab hai.': True,
-    'Mars rovers red planet ki surface explore karte hain.': False,
+    'Mars rovers red planet ki surface explore karte hain.': True,
     'Lunar orbiters moon mapping aur water ice search karte hain.': False,
     'Solar panels satellites ko electricity provide karte hain.': False,
     'Rocket propulsion Newton ke third law par work karta hai.': False,
