@@ -515,7 +515,7 @@ PoliceSearching = {
     'Stalker aur cyberbullying tracking ke liye digital forensics hoti hai.': True,
     'Money laundering trails financial crimes expose karti hain.': True,
     'Counterfeit currency detection machines fake notes pakadti hain.': True,
-    'Anti-narcotics cells drugs smuggling rokti hain.': False,
+    'Anti-narcotics cells drugs smuggling rokti hain.': True,
     'Human trafficking rescue operations me police raid karti hai.': False,
     'Juvenile justice boards minor offenders ke liye hote hain.': False,
     'Prison security systems inmates ko monitor karte hain.': False,
