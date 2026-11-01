@@ -766,7 +766,7 @@ Git = {
     "Git Pull vs Git Fetch (`git fetch` + `git merge` / `git rebase`) remote tracking synchronization?": True,
     "Git Remote Management (`git remote add`, `prune`, `set-url`) multiple upstream repositories sync?": True,
     "Git Config scoping (System, Global, Local) SSH keys configuration multiple GitHub accounts?": True,
-    "Git Patch Creation (`git format-patch`) and Application (`git apply` / `git am`) offline code share?": False,
+    "Git Patch Creation (`git format-patch`) and Application (`git apply` / `git am`) offline code share?": True,
     "Git Garbage Collection (`git gc`, `git prune`) repository compression loose objects cleanup?": False,
     "Git Branch Protection Rules Enforcing Pull Request Reviews Required Status Checks Linear History?": False,
     "Git Merge Conflicts Resolution Tools (VSCode, KDiff3, Meld) 3-way merge resolution?": False,
