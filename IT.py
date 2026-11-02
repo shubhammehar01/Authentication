@@ -176,7 +176,7 @@ SQL = {
     "Database Sharding / Horizontal Partitioning vs Vertical Partitioning massive data storage scaling strategies?": True,
     "Correlated Subqueries vs JOINs performance processing loop overhead elimination refactoring?": True,
     "Partitioning Tables (Range, List, Hash Partitioning) large history tables partition pruning optimization?": True,
-    "Database Connection Pooling (HikariCP / PgBouncer) configuration parameters tuning exhaust DB connections avoid karne ke liye?": False,
+    "Database Connection Pooling (HikariCP / PgBouncer) configuration parameters tuning exhaust DB connections avoid karne ke liye?": True,
     "UPSERT operations (INSERT ON CONFLICT / MERGE INTO) atomic concurrency updates handling without key collisions?": False,
     "Database Deadlock identification analysis DB engine locks trace detection resolution strategies?": False,
     "Full-Text Search Indexing (TSVECTOR, MATCH AGAINST) unstructured text search LIKE '%keyword%' slow query replacements?": False,
