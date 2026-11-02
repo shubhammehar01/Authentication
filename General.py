@@ -245,7 +245,7 @@ SeaCreature = {
     'Swordfish ki nose sword jaisi long hoti hai.': True,
     'Hammerhead shark ki head shape 360 vision deti hai.': True,
     'Great white shark top ocean predator hai.': True,
-    'Nautilus ancient shelled cephalopod hai.': False,
+    'Nautilus ancient shelled cephalopod hai.': True,
     'Sea sponge ke paas tissues ya organs nahi hote.': False,
     'Plankton ocean food web ka foundation hai.': False,
     'Krill blue whale ka main diet hai.': False,
