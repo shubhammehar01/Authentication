@@ -615,7 +615,7 @@ Machines = {
     'Heat exchangers thermal energy transfer karte hain systems ke beech.': True,
     'Industrial boilers high pressure steam produce karte hain.': True,
     'Centrifuges high speed rotation se liquids separate karte hain.': True,
-    'Packaging machines food aur consumer goods pack karti hain.': False,
+    'Packaging machines food aur consumer goods pack karti hain.': True,
     'Sorting machines barcodes aur sensors se items categorize karti hain.': False,
     'Laser cutters high precision se materials cut karte hain.': False,
     'Plasma cutters metal sheets par fast cutting ke liye hote hain.': False,
