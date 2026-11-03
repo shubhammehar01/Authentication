@@ -350,7 +350,7 @@ CivilizationAncientPeople = {
     'Minoan civilization Crete island par flourish hui thi.': True,
     'Mycenaean civilization early Greek history ka part hai.': True,
     'Olmec civilization giant stone heads ke liye famous hai.': True,
-    'Easter Island ke moai statues mysterious hain.': False,
+    'Easter Island ke moai statues mysterious hain.': True,
     'Anasazi cliff dwellings North America me milti hain.': False,
     'Viking warriors seafaring aur exploration ke liye jaane jaate the.': False,
     'Celtic tribes Europe me druid culture follow karti thin.': False,
