@@ -401,7 +401,7 @@ FlyVehicles = {
     'Hydrogen powered planes future aviation ki direction hain.': True,
     'Jet streams high altitude strong winds hoti hain jo flight speed affect karti hain.': True,
     'Black box flight recorder crash investigation ke liye hota hai.': True,
-    'Radar altimeter ground se height measure karta hai.': False,
+    'Radar altimeter ground se height measure karta hai.': True,
     'Cockpit me dual controls pilot aur co-pilot ke paas hote hain.': False,
     'Turbulence air pocket ya wind shear ki wajah se hoti hai.': False,
     'Lift, weight, thrust aur drag flight ke 4 main forces hain.': False,
