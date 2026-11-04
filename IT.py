@@ -29,7 +29,7 @@ Java = {
     "File I/O operations me Java NIO (ByteBuffer, Channels) ko Traditional IO par kyun prefer kiya jata hai?": True,
     "Var handles aur Unsafe class use karne ke trade-offs aur safety hazards kya hain?": True,
     "Try-with-resources statement me custom AutoCloseable resources ka leak-free cleanup kaise verify karoge?": True,
-    "AtomicInteger aur LongAdder ke bich high-thread contention me performance difference kya hai?": False,
+    "AtomicInteger aur LongAdder ke bich high-thread contention me performance difference kya hai?": True,
     "Java Records vs Lombok Data Annotations: Immutability aur boiler-plate reduction me kaunsa better hai?": False,
     "Deep Copy vs Shallow Copy in object cloning: Prototype pattern implementation me issues kaise avoid karein?": False,
     "Enum Singleton Pattern serialization aur reflection attacks ke against safe kyun hota hai?": False,
