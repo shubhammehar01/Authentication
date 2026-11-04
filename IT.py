@@ -287,7 +287,7 @@ MySql = {
     "MySQL Row-Based Replication vs Statement-Based Replication vs Mixed Replication pros and cons data drift prevention?": True,
     "MySQL JSON Data Type indexing using Generated Columns (Virtual vs Stored) performance optimizations?": True,
     "MySQL High Availability Architecture: Orchestrator, MHA (Master High Availability), MySQL InnoDB Cluster setup?": True,
-    "MySQL Optimizer Hints (`FORCE INDEX`, `STRAIGHT_JOIN`) overriding bad query execution plan choices?": False,
+    "MySQL Optimizer Hints (`FORCE INDEX`, `STRAIGHT_JOIN`) overriding bad query execution plan choices?": True,
     "MySQL Temporary Tables creation on disk (FileSort / Created_tmp_disk_tables) memory exhaustion fixes?": False,
     "MySQL `max_connections` tuning vs `thread_cache_size` thread creation overhead reduction under load spikes?": False,
     "MySQL `innodb_flush_log_at_trx_commit` setting performance vs ACID durability persistence trade-off tuning?": False,
