@@ -497,7 +497,7 @@ DSA = {
     "Trie (Prefix Tree) Data Structure: Auto-complete search suggestion system Insert, Search, StartsWith O(L) time?": True,
     "Union Find (Disjoint Set Union - DSU): Path Compression, Union by Rank Kruskal's MST, Graph Connected Components?": True,
     "Graph Traversal: BFS vs DFS Cycle Detection in Directed (Coloring / In-degree) vs Undirected Graphs?": True,
-    "Topological Sort: Kahn's Algorithm (BFS In-degree) vs DFS Course Schedule Prerequisite Order resolution?": False,
+    "Topological Sort: Kahn's Algorithm (BFS In-degree) vs DFS Course Schedule Prerequisite Order resolution?": True,
     "Shortest Path Algorithms: Dijkstra's (Priority Queue) vs Bellman-Ford (Negative Edge Weights) vs Floyd-Warshall?": False,
     "Minimum Spanning Tree (MST): Prim's Algorithm vs Kruskal's Algorithm network cable layout optimization?": False,
     "String Matching Algorithms: KMP (Knuth-Morris-Pratt) Prefix Function vs Rabin-Karp Rolling Hash algorithm?": False,
