@@ -141,7 +141,7 @@ IndiaPak = {
     'Monsoon pattern dono regions ki agriculture ko affect karta hai.': True,
     'Traditional textiles aur crafts me common designs hain.': True,
     'Railway history pre-independence era se shared hai.': True,
-    'Postal services history me connect karti thin.': False,
+    'Postal services history me connect karti thin.': True,
     'Archaeological sites jaise Harappa Pakistan me hain.': False,
     'Taxila ancient university region ka important center tha.': False,
     'Sikh shrines jaise Nankana Sahib Pakistan me sthit hain.': False,
