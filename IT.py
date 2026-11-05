@@ -225,7 +225,7 @@ SpringBoot = {
     "Spring Security JWT Authentication, Refresh Token Rotation, Stateless Stateless Filter Chain implementation?": True,
     "Spring Transaction Management (`@Transactional`) Propagation levels (REQUIRED, REQUIRES_NEW) and Isolation levels handling?": True,
     "Spring Boot Application Multi-Profile configuration (`application-dev.yml`, `application-prod.yml`) external secrets management?": True,
-    "Spring Cloud Resilience4j Circuit Breaker, Rate Limiter, Retry, Bulkhead patterns service failure resilience?": False,
+    "Spring Cloud Resilience4j Circuit Breaker, Rate Limiter, Retry, Bulkhead patterns service failure resilience?": True,
     "Spring Boot Microservices Distributed Tracing with Micrometer Tracing / Zipkin / OpenTelemetry traceId injection?": False,
     "Spring Event Driven Architecture (`ApplicationEventPublisher`, `@EventListener`, `@TransactionalEventListener`) decoupling domain events?": False,
     "Spring Boot Virtual Threads (Java 21 Project Loom) configuration throughput performance benchmarking?": False,
