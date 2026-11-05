@@ -82,7 +82,7 @@ War = {
     'Cavalry units purane zamane me fast attack ke liye thi.': True,
     'Siege engines se bade kile ki deewarein todi jaati thin.': True,
     'Chemical weapons ka use ab international law ke tahat ban hai.': True,
-    'Red Cross ki shuruwat war wounded soldiers ki help ke liye hui thi.': False,
+    'Red Cross ki shuruwat war wounded soldiers ki help ke liye hui thi.': True,
     'Ak-47 rifle history ki sabse widely used gun hai.': False,
     'Aircraft carriers samundar me chalte-firte air base hote hain.': False,
     'Stealth aircraft radar ki pakad me nahi aate hain.': False,
