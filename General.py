@@ -142,7 +142,7 @@ IndiaPak = {
     'Traditional textiles aur crafts me common designs hain.': True,
     'Railway history pre-independence era se shared hai.': True,
     'Postal services history me connect karti thin.': True,
-    'Archaeological sites jaise Harappa Pakistan me hain.': False,
+    'Archaeological sites jaise Harappa Pakistan me hain.': True,
     'Taxila ancient university region ka important center tha.': False,
     'Sikh shrines jaise Nankana Sahib Pakistan me sthit hain.': False,
     'Kashmir issue UN security council resolutions me discuss hua hai.': False,
