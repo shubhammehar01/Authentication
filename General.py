@@ -247,7 +247,7 @@ SeaCreature = {
     'Great white shark top ocean predator hai.': True,
     'Nautilus ancient shelled cephalopod hai.': True,
     'Sea sponge ke paas tissues ya organs nahi hote.': True,
-    'Plankton ocean food web ka foundation hai.': False,
+    'Plankton ocean food web ka foundation hai.': True,
     'Krill blue whale ka main diet hai.': False,
     'Deep sea vent bacteria sunlight ke bina survive karte hain.': False,
     'Whale shark duniya ki sabse badi fish hai jo harmless plankton khati hai.': False,
