@@ -499,7 +499,7 @@ DSA = {
     "Graph Traversal: BFS vs DFS Cycle Detection in Directed (Coloring / In-degree) vs Undirected Graphs?": True,
     "Topological Sort: Kahn's Algorithm (BFS In-degree) vs DFS Course Schedule Prerequisite Order resolution?": True,
     "Shortest Path Algorithms: Dijkstra's (Priority Queue) vs Bellman-Ford (Negative Edge Weights) vs Floyd-Warshall?": True,
-    "Minimum Spanning Tree (MST): Prim's Algorithm vs Kruskal's Algorithm network cable layout optimization?": False,
+    "Minimum Spanning Tree (MST): Prim's Algorithm vs Kruskal's Algorithm network cable layout optimization?": True,
     "String Matching Algorithms: KMP (Knuth-Morris-Pratt) Prefix Function vs Rabin-Karp Rolling Hash algorithm?": False,
     "Bit Manipulation: Single Number, Counting Bits, Subsets Generation XOR operations Bitmasks optimizations?": False,
     "Intervals Problems: Merge Intervals, Insert Interval, Non-overlapping Intervals sorting greedy approach?": False,
