@@ -83,7 +83,7 @@ War = {
     'Siege engines se bade kile ki deewarein todi jaati thin.': True,
     'Chemical weapons ka use ab international law ke tahat ban hai.': True,
     'Red Cross ki shuruwat war wounded soldiers ki help ke liye hui thi.': True,
-    'Ak-47 rifle history ki sabse widely used gun hai.': False,
+    'Ak-47 rifle history ki sabse widely used gun hai.': True,
     'Aircraft carriers samundar me chalte-firte air base hote hain.': False,
     'Stealth aircraft radar ki pakad me nahi aate hain.': False,
     'Military satellites global positioning aur communication ke liye hoti hain.': False,
