@@ -67,7 +67,7 @@ Python = {
     "Python dictionaries ki internal Hashtable implementation aur Hash Collision resolution mechanism kaise work karta hai?": True,
     "Type Hinting aur mypy static type analysis enterprise Python codebase me bugs prevent karne me kaise help karti hai?": True,
     "Celery async task queue with Redis/RabbitMQ background processing retry logic and rate limit ke sath kaise design karein?": True,
-    "cProfile aur line_profiler ka use karke bottleneck code blocks ko line-by-line profiling kaise karein?": False,
+    "cProfile aur line_profiler ka use karke bottleneck code blocks ko line-by-line profiling kaise karein?": True,
     "PyPy vs CPython: PyPy JIT compiler optimization backend services me speed limits kaise boost karta hai?": False,
     "Ctypes ya CFFI ka use karke Python ko C/C++ libraries se connect karke high performance calculation kaise achieve karein?": False,
     "Python Data Classes vs Pydantic models: Data validation, serialization aur API schemas me kaunsa best choice hai?": False,
