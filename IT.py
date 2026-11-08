@@ -811,7 +811,7 @@ Redis = {
     "Redis Distributed Locking Algorithm (Redlock): Multi-node consensus locking reliability validation?": True,
     "Redis Performance Optimization: Pipeline Processing Batch Commands Network RTT Latency Drop?": True,
     "Redis Single-Threaded Event Loop Architecture (epoll/kqueue) I/O Multiplexing why so fast analysis?": True,
-    "Redis Memory Fragmentation Ratio (`INFO memory`) `activedefrag` defragmentation tuning?": False,
+    "Redis Memory Fragmentation Ratio (`INFO memory`) `activedefrag` defragmentation tuning?": True,
     "Redis HyperLogLog Probabilistic Data Structure Millions Cardinality Unique Visitor Count Memory Savings?": False,
     "Redis Sorted Sets (ZSET) SkipList Data Structure Leaderboard Ranking Real-Time Performance?": False,
     "Redis Slowlog Analysis identifying blocking long-running commands (`KEYS *` alternative `SCAN`)?": False,
