@@ -189,7 +189,7 @@ NaturalDisaster = {
     'La Nina conditions opposite effects laati hain.': True,
     'Glacier melting se sea level rise ho raha hai.': True,
     'Tidal waves moon gravity aur storms ki wajah se hoti hain.': True,
-    'Dust storms desert regions me visibility zero kar dete hain.': False,
+    'Dust storms desert regions me visibility zero kar dete hain.': True,
     'Hailstorms me barish ke sath bade ice pieces girte hain.': False,
     'Limnic eruption lake ke andar se gas release hone se hota hai.': False,
     'Pyroclastic flow volcano se nikli hot gas aur ash hoti hai.': False,
