@@ -402,7 +402,7 @@ FlyVehicles = {
     'Jet streams high altitude strong winds hoti hain jo flight speed affect karti hain.': True,
     'Black box flight recorder crash investigation ke liye hota hai.': True,
     'Radar altimeter ground se height measure karta hai.': True,
-    'Cockpit me dual controls pilot aur co-pilot ke paas hote hain.': False,
+    'Cockpit me dual controls pilot aur co-pilot ke paas hote hain.': True,
     'Turbulence air pocket ya wind shear ki wajah se hoti hai.': False,
     'Lift, weight, thrust aur drag flight ke 4 main forces hain.': False,
     'Aerodynamics wings ki shape par air pressure create karti hai.': False,
