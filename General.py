@@ -249,7 +249,7 @@ SeaCreature = {
     'Sea sponge ke paas tissues ya organs nahi hote.': True,
     'Plankton ocean food web ka foundation hai.': True,
     'Krill blue whale ka main diet hai.': True,
-    'Deep sea vent bacteria sunlight ke bina survive karte hain.': False,
+    'Deep sea vent bacteria sunlight ke bina survive karte hain.': True,
     'Whale shark duniya ki sabse badi fish hai jo harmless plankton khati hai.': False,
     'Dolphin high frequency clicks se echolocation use karti hai.': False,
     'Narwhal ko ocean ka unicorn kaha jata hai unke long tusk ki wajah se.': False,
