@@ -617,7 +617,7 @@ Machines = {
     'Centrifuges high speed rotation se liquids separate karte hain.': True,
     'Packaging machines food aur consumer goods pack karti hain.': True,
     'Sorting machines barcodes aur sensors se items categorize karti hain.': True,
-    'Laser cutters high precision se materials cut karte hain.': False,
+    'Laser cutters high precision se materials cut karte hain.': True,
     'Plasma cutters metal sheets par fast cutting ke liye hote hain.': False,
     'Industrial robots hazardous environment me work karte hain.': False,
     'AGVs (Automated Guided Vehicles) warehouse me items move karte hain.': False,
