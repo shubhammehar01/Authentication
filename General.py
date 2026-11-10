@@ -85,7 +85,7 @@ War = {
     'Red Cross ki shuruwat war wounded soldiers ki help ke liye hui thi.': True,
     'Ak-47 rifle history ki sabse widely used gun hai.': True,
     'Aircraft carriers samundar me chalte-firte air base hote hain.': True,
-    'Stealth aircraft radar ki pakad me nahi aate hain.': False,
+    'Stealth aircraft radar ki pakad me nahi aate hain.': True,
     'Military satellites global positioning aur communication ke liye hoti hain.': False,
     'Medal of Honor bravery ke liye diya jane wala top award hai.': False,
     'Pyrrhic victory aisi jeet hoti hai jisme nuksan bahut zyada hota hai.': False,
