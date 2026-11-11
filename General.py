@@ -352,7 +352,7 @@ CivilizationAncientPeople = {
     'Olmec civilization giant stone heads ke liye famous hai.': True,
     'Easter Island ke moai statues mysterious hain.': True,
     'Anasazi cliff dwellings North America me milti hain.': True,
-    'Viking warriors seafaring aur exploration ke liye jaane jaate the.': False,
+    'Viking warriors seafaring aur exploration ke liye jaane jaate the.': True,
     'Celtic tribes Europe me druid culture follow karti thin.': False,
     'Aboriginal people Australia ki oldest continuous culture hain.': False,
     'Polynesian navigators stars dekh kar ocean cross karte the.': False,
