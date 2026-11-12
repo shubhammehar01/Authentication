@@ -671,7 +671,7 @@ ScientistExperiments = {
     'Goodall chimpanzee research animal behavior par groundbreaking thi.': True,
     'Hawking radiation black holes se related theory thi.': True,
     'Turing test artificial intelligence human-like intelligence measure karta hai.': True,
-    'Meselson-Stahl experiment DNA replication semi-conservative prove karta hai.': False,
+    'Meselson-Stahl experiment DNA replication semi-conservative prove karta hai.': True,
     'Hershey-Chase experiment DNA ko genetic material confirm karta hai.': False,
     'Franklin X-ray crystallography se DNA structure discover karne me help ki.': False,
     'Millikan oil drop experiment electron charge measure karta hai.': False,
