@@ -455,7 +455,7 @@ GandhiMarch = {
     'Round Table Conferences me Gandhi ji ne participate kiya tha.': True,
     'Gandhi-Irwin Pact political prisoners release ke liye tha.': True,
     'Poona Pact depressed classes representation ke liye sign hua tha.': True,
-    'Young India aur Harijan newspapers Gandhi ji run karte the.': False,
+    'Young India aur Harijan newspapers Gandhi ji run karte the.': True,
     'Autobiography My Experiments with Truth famous book hai.': False,
     'Aga Khan Palace me Gandhi ji imprisoned rahe the.': False,
     'Birla House Delhi me unka assassination hua tha.': False,
