@@ -70,7 +70,7 @@ Python = {
     "cProfile aur line_profiler ka use karke bottleneck code blocks ko line-by-line profiling kaise karein?": True,
     "PyPy vs CPython: PyPy JIT compiler optimization backend services me speed limits kaise boost karta hai?": True,
     "Ctypes ya CFFI ka use karke Python ko C/C++ libraries se connect karke high performance calculation kaise achieve karein?": True,
-    "Python Data Classes vs Pydantic models: Data validation, serialization aur API schemas me kaunsa best choice hai?": False,
+    "Python Data Classes vs Pydantic models: Data validation, serialization aur API schemas me kaunsa best choice hai?": True,
     "Monkey Patching dynamic runtime updates me testing ke alawa production me code instability kyun create karti hai?": False,
     "Deepcopy vs Shallowcopy in Python: Nested mutable objects (lists/dicts) copy karte waqt memory bugs kaise avoid karein?": False,
     "Walrus Operator (:=) syntax optimization readable conditionals aur while loops me complexity kaise kam karta hai?": False,
