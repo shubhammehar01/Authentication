@@ -178,7 +178,7 @@ SQL = {
     "Partitioning Tables (Range, List, Hash Partitioning) large history tables partition pruning optimization?": True,
     "Database Connection Pooling (HikariCP / PgBouncer) configuration parameters tuning exhaust DB connections avoid karne ke liye?": True,
     "UPSERT operations (INSERT ON CONFLICT / MERGE INTO) atomic concurrency updates handling without key collisions?": True,
-    "Database Deadlock identification analysis DB engine locks trace detection resolution strategies?": False,
+    "Database Deadlock identification analysis DB engine locks trace detection resolution strategies?": True,
     "Full-Text Search Indexing (TSVECTOR, MATCH AGAINST) unstructured text search LIKE '%keyword%' slow query replacements?": False,
     "Materialized Views automatic refresh indexing caching aggregation dashboards performance optimization?": False,
     "Database Migration Tools (Flyway / Liquibase) schema versioning automated CI/CD pipeline rollbacks handling?": False,
