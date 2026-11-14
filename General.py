@@ -33,7 +33,7 @@ AnimalPicture = {
     'Chameleon ki jeebh uski body se lambi hoti hai.': True,
     'Zebra ki dhariyan har ek me alag hoti hain jaise human fingerprints.': True,
     'Owl ki aakhon ki putliyan move nahi karti, wo sir ghumate hain.': True,
-    'Ants apne wajan se 50 guna zyada wajan utha sakti hain.': False,
+    'Ants apne wajan se 50 guna zyada wajan utha sakti hain.': True,
     'Blue whale ki tongue ka wajan ek elephant jitna hota hai.': False,
     'Wolf pack ka ek strict social hierarchy system hota hai.': False,
     'Eagle 3 km door se apne shikaar ko dekh sakta hai.': False,
