@@ -290,7 +290,7 @@ MySql = {
     "MySQL Optimizer Hints (`FORCE INDEX`, `STRAIGHT_JOIN`) overriding bad query execution plan choices?": True,
     "MySQL Temporary Tables creation on disk (FileSort / Created_tmp_disk_tables) memory exhaustion fixes?": True,
     "MySQL `max_connections` tuning vs `thread_cache_size` thread creation overhead reduction under load spikes?": True,
-    "MySQL `innodb_flush_log_at_trx_commit` setting performance vs ACID durability persistence trade-off tuning?": False,
+    "MySQL `innodb_flush_log_at_trx_commit` setting performance vs ACID durability persistence trade-off tuning?": True,
     "MySQL Purging Strategy deleting historical millions records without locks escalation using Chunk Deletes?": False,
     "MySQL Spatial Indexes (GIS Data) R-Tree lookup optimization spatial geographic coordinate queries?": False,
     "MySQL Foreign Keys constraint overhead on write performance vs application enforced relational integrity?": False,
