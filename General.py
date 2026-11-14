@@ -302,7 +302,7 @@ factoryEngineers = {
     'Industrial robots repetitive tasks bina thake karte hain.': True,
     'Sensors temperature, pressure aur vibration measure karte hain.': True,
     'Data analytics factory efficiency ko optimize karti hai.': True,
-    'Green manufacturing eco-friendly processes adopt karti hai.': False,
+    'Green manufacturing eco-friendly processes adopt karti hai.': True,
     'Zero waste factories environmental impact minimize karti hain.': False,
     'Packaging machines products ko fast pack karti hain.': False,
     'Warehouse automation inventory management easy banata hai.': False,
