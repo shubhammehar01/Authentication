@@ -144,7 +144,7 @@ IndiaPak = {
     'Postal services history me connect karti thin.': True,
     'Archaeological sites jaise Harappa Pakistan me hain.': True,
     'Taxila ancient university region ka important center tha.': True,
-    'Sikh shrines jaise Nankana Sahib Pakistan me sthit hain.': False,
+    'Sikh shrines jaise Nankana Sahib Pakistan me sthit hain.': True,
     'Kashmir issue UN security council resolutions me discuss hua hai.': False,
     'Aman Ki Asha initiative media houses ne start kiya tha.': False,
     'Nobel Peace Prize winners me shared values ki baatein hui hain.': False,
