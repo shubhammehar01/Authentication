@@ -518,7 +518,7 @@ PoliceSearching = {
     'Anti-narcotics cells drugs smuggling rokti hain.': True,
     'Human trafficking rescue operations me police raid karti hai.': True,
     'Juvenile justice boards minor offenders ke liye hote hain.': True,
-    'Prison security systems inmates ko monitor karte hain.': False,
+    'Prison security systems inmates ko monitor karte hain.': True,
     'Police academies recruits ko physical aur legal training deti hain.': False,
     'Community policing public trust build karne me help karti hai.': False,
     'PCR vans emergency me sabse pehle spot par pahunchti hain.': False,
