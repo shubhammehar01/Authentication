@@ -547,7 +547,7 @@ SystemDesign = {
     "Location-Based Service Design (Uber/Nearby Places): QuadTree, Geohash, Spatial Indexing Real-Time Tracking?": True,
     "Distributed File Storage System Design (Google Drive/Dropbox): File Chunking, Sync Protocol, Metadata DB?": True,
     "News Feed / Social Network System Design (Twitter/Instagram): Push vs Pull Model, Fan-out on write vs read?": True,
-    "Payment Gateway Integration System Design: Idempotency Keys, Two-Phase Commit, Reconciliation Loop?": False,
+    "Payment Gateway Integration System Design: Idempotency Keys, Two-Phase Commit, Reconciliation Loop?": True,
     "API Gateway System Design: Routing, Rate Limiting, Authentication Relay, Circuit Breaking, SSL Termination?": False,
     "Distributed Transactions: Saga Pattern (Choreography vs Orchestration) vs Two-Phase Commit (2PC)?": False,
     "Search Engine Auto-Complete / Typeahead System Design: Trie Data Structure Caching Multi-node Partitioning?": False,
