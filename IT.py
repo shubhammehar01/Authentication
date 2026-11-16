@@ -32,7 +32,7 @@ Java = {
     "AtomicInteger aur LongAdder ke bich high-thread contention me performance difference kya hai?": True,
     "Java Records vs Lombok Data Annotations: Immutability aur boiler-plate reduction me kaunsa better hai?": True,
     "Deep Copy vs Shallow Copy in object cloning: Prototype pattern implementation me issues kaise avoid karein?": True,
-    "Enum Singleton Pattern serialization aur reflection attacks ke against safe kyun hota hai?": False,
+    "Enum Singleton Pattern serialization aur reflection attacks ke against safe kyun hota hai?": True,
     "Method Overriding me covariance return types ka use karke cleaner APIs kaise design karein?": False,
     "ThreadLocal variables ki wajah se web application application servers par memory leak kyun hoti hai aur clean up kaise karein?": False,
     "Marker Interfaces (like Serializable) ka modern Java annotations ke compare me kya significance hai?": False,
