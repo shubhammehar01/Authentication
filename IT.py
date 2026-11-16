@@ -650,7 +650,7 @@ CollectionFramework = {
     "PriorityQueue Internal Min/Max Binary Heap Structure siftUp / siftDown log(N) insertion deletion?": True,
     "IdentityHashMap vs HashMap: Reference Equality (`==`) vs Value Equality (`equals()`) key comparisons?": True,
     "WeakHashMap Garbage Collection reachability key disposal memory caching application?": True,
-    "EnumMap and EnumSet bit-vector performance optimization memory efficiency key lookups?": False,
+    "EnumMap and EnumSet bit-vector performance optimization memory efficiency key lookups?": True,
     "BlockingQueue implementations (ArrayBlockingQueue vs LinkedBlockingQueue vs PriorityBlockingQueue) Producer-Consumer pattern?": False,
     "Collections.unmodifiableCollection() vs List.of() (Java 9+ Immutable Collections) runtime modification attempts?": False,
     "Custom Class as HashMap Key: Importance of overriding `hashCode()` and `equals()` contract immutability requirements?": False,
