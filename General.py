@@ -251,7 +251,7 @@ SeaCreature = {
     'Krill blue whale ka main diet hai.': True,
     'Deep sea vent bacteria sunlight ke bina survive karte hain.': True,
     'Whale shark duniya ki sabse badi fish hai jo harmless plankton khati hai.': True,
-    'Dolphin high frequency clicks se echolocation use karti hai.': False,
+    'Dolphin high frequency clicks se echolocation use karti hai.': True,
     'Narwhal ko ocean ka unicorn kaha jata hai unke long tusk ki wajah se.': False,
     'Sea otter shell todne ke liye stones use karte hain.': False,
     'Pelican samundar ke upar se dive karke fish pakadte hain.': False,
