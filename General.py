@@ -620,7 +620,7 @@ Machines = {
     'Laser cutters high precision se materials cut karte hain.': True,
     'Plasma cutters metal sheets par fast cutting ke liye hote hain.': True,
     'Industrial robots hazardous environment me work karte hain.': True,
-    'AGVs (Automated Guided Vehicles) warehouse me items move karte hain.': False,
+    'AGVs (Automated Guided Vehicles) warehouse me items move karte hain.': True,
     'Forklifts pallets lift aur transport karne ke liye hote hain.': False,
     'Cranes skyscrapers construction me heavy materials lift karti hain.': False,
     'Bulldozers land clearing aur soil pushing ke liye use hote hain.': False,
