@@ -353,7 +353,7 @@ CivilizationAncientPeople = {
     'Easter Island ke moai statues mysterious hain.': True,
     'Anasazi cliff dwellings North America me milti hain.': True,
     'Viking warriors seafaring aur exploration ke liye jaane jaate the.': True,
-    'Celtic tribes Europe me druid culture follow karti thin.': False,
+    'Celtic tribes Europe me druid culture follow karti thin.': True,
     'Aboriginal people Australia ki oldest continuous culture hain.': False,
     'Polynesian navigators stars dekh kar ocean cross karte the.': False,
     'Silk Road ancient trade route tha jo East aur West ko connect karta tha.': False,
