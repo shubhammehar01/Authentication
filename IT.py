@@ -343,7 +343,7 @@ React = {
     "React Memory Leaks: Unsubscribed listeners, active fetch controllers component unmount cleanup hooks?": True,
     "React Dynamic Imports Webpack Module Federation Micro-Frontends integration architecture?": True,
     "React Profiler API, React DevTools performance Flamegraph analysis identifying component bottlenecks?": True,
-    "React Synthetic Events System Event Delegation cross-browser consistency native event mapping?": False,
+    "React Synthetic Events System Event Delegation cross-browser consistency native event mapping?": True,
     "React Prop Drilling solutions Context API vs State Management libraries vs Component Composition?": False,
     "React Strict Mode double rendering execution detection side-effects detection in development?": False,
     "React Server Side Rendering (SSR) vs Static Site Generation (SSG) vs Incremental Static Regeneration (ISR)?": False,
