@@ -86,7 +86,7 @@ War = {
     'Ak-47 rifle history ki sabse widely used gun hai.': True,
     'Aircraft carriers samundar me chalte-firte air base hote hain.': True,
     'Stealth aircraft radar ki pakad me nahi aate hain.': True,
-    'Military satellites global positioning aur communication ke liye hoti hain.': False,
+    'Military satellites global positioning aur communication ke liye hoti hain.': True,
     'Medal of Honor bravery ke liye diya jane wala top award hai.': False,
     'Pyrrhic victory aisi jeet hoti hai jisme nuksan bahut zyada hota hai.': False,
     'Treaty of Versailles ne WWI ko khatam kiya tha.': False,
