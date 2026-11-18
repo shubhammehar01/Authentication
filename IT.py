@@ -292,7 +292,7 @@ MySql = {
     "MySQL `max_connections` tuning vs `thread_cache_size` thread creation overhead reduction under load spikes?": True,
     "MySQL `innodb_flush_log_at_trx_commit` setting performance vs ACID durability persistence trade-off tuning?": True,
     "MySQL Purging Strategy deleting historical millions records without locks escalation using Chunk Deletes?": True,
-    "MySQL Spatial Indexes (GIS Data) R-Tree lookup optimization spatial geographic coordinate queries?": False,
+    "MySQL Spatial Indexes (GIS Data) R-Tree lookup optimization spatial geographic coordinate queries?": True,
     "MySQL Foreign Keys constraint overhead on write performance vs application enforced relational integrity?": False,
     "MySQL Full-Text Search (FT_MIN_WORD_LEN, Stopwords) Natural Language / Boolean Mode query optimization?": False,
     "MySQL Auto-Increment Lock Modes (`innodb_autoinc_lock_mode`) high concurrency batch insert locks contention fixes?": False,
