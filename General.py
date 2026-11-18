@@ -303,7 +303,7 @@ factoryEngineers = {
     'Sensors temperature, pressure aur vibration measure karte hain.': True,
     'Data analytics factory efficiency ko optimize karti hai.': True,
     'Green manufacturing eco-friendly processes adopt karti hai.': True,
-    'Zero waste factories environmental impact minimize karti hain.': False,
+    'Zero waste factories environmental impact minimize karti hain.': True,
     'Packaging machines products ko fast pack karti hain.': False,
     'Warehouse automation inventory management easy banata hai.': False,
     'Forklifts pallets transport karne ke liye use hote hain.': False,
