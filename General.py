@@ -404,7 +404,7 @@ FlyVehicles = {
     'Radar altimeter ground se height measure karta hai.': True,
     'Cockpit me dual controls pilot aur co-pilot ke paas hote hain.': True,
     'Turbulence air pocket ya wind shear ki wajah se hoti hai.': True,
-    'Lift, weight, thrust aur drag flight ke 4 main forces hain.': False,
+    'Lift, weight, thrust aur drag flight ke 4 main forces hain.': True,
     'Aerodynamics wings ki shape par air pressure create karti hai.': False,
     'Fuselage airplane ka main body structure hota hai.': False,
     'Landing gear wheels aur brakes ko support karta hai.': False,
