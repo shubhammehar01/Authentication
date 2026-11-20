@@ -672,7 +672,7 @@ ScientistExperiments = {
     'Hawking radiation black holes se related theory thi.': True,
     'Turing test artificial intelligence human-like intelligence measure karta hai.': True,
     'Meselson-Stahl experiment DNA replication semi-conservative prove karta hai.': True,
-    'Hershey-Chase experiment DNA ko genetic material confirm karta hai.': False,
+    'Hershey-Chase experiment DNA ko genetic material confirm karta hai.': True,
     'Franklin X-ray crystallography se DNA structure discover karne me help ki.': False,
     'Millikan oil drop experiment electron charge measure karta hai.': False,
     'Rutherford gold foil experiment atom ke nucleus ko discover karta hai.': False,
