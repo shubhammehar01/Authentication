@@ -550,7 +550,7 @@ SystemDesign = {
     "Payment Gateway Integration System Design: Idempotency Keys, Two-Phase Commit, Reconciliation Loop?": True,
     "API Gateway System Design: Routing, Rate Limiting, Authentication Relay, Circuit Breaking, SSL Termination?": True,
     "Distributed Transactions: Saga Pattern (Choreography vs Orchestration) vs Two-Phase Commit (2PC)?": True,
-    "Search Engine Auto-Complete / Typeahead System Design: Trie Data Structure Caching Multi-node Partitioning?": False,
+    "Search Engine Auto-Complete / Typeahead System Design: Trie Data Structure Caching Multi-node Partitioning?": True,
     "Key-Value Store Design (DynamoDB/Cassandra style): LSM Trees vs B-Trees, Write Path, Read Path, Hinted Handoff?": False,
     "Metrics Aggregation / Monitoring System Design (Prometheus/Grafana): Time-Series Database (TSDB), Push vs Pull?": False,
     "Distributed Lock Manager Design: Redis Redlock vs Zookeeper Ephemeral Sequential Nodes Consensus?": False,
