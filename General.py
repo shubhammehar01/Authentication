@@ -145,7 +145,7 @@ IndiaPak = {
     'Archaeological sites jaise Harappa Pakistan me hain.': True,
     'Taxila ancient university region ka important center tha.': True,
     'Sikh shrines jaise Nankana Sahib Pakistan me sthit hain.': True,
-    'Kashmir issue UN security council resolutions me discuss hua hai.': False,
+    'Kashmir issue UN security council resolutions me discuss hua hai.': True,
     'Aman Ki Asha initiative media houses ne start kiya tha.': False,
     'Nobel Peace Prize winners me shared values ki baatein hui hain.': False,
     'Diaspora communities abroad me aapas me milti hain.': False,
