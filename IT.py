@@ -770,7 +770,7 @@ Git = {
     "Git Garbage Collection (`git gc`, `git prune`) repository compression loose objects cleanup?": True,
     "Git Branch Protection Rules Enforcing Pull Request Reviews Required Status Checks Linear History?": True,
     "Git Merge Conflicts Resolution Tools (VSCode, KDiff3, Meld) 3-way merge resolution?": True,
-    "Git Blame and Git Log Filtering (`git log -S`, `git log -G`) code authorship audit history tracking?": False,
+    "Git Blame and Git Log Filtering (`git log -S`, `git log -G`) code authorship audit history tracking?": True,
     "Git Internal Architecture: DAG (Directed Acyclic Graph), Blobs, Trees, Commits, Annotated Tags?": False,
     "Git Clone Options (`--depth 1` Shallow Clone, `--sparse` Sparse Checkout) huge repository clone speedups?": False,
     "Git Push Force Safeguards (`git push --force-with-lease`) overwriting remote changes prevention?": False,
