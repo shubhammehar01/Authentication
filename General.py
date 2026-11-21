@@ -193,7 +193,7 @@ NaturalDisaster = {
     'Hailstorms me barish ke sath bade ice pieces girte hain.': True,
     'Limnic eruption lake ke andar se gas release hone se hota hai.': True,
     'Pyroclastic flow volcano se nikli hot gas aur ash hoti hai.': True,
-    'Epicenter earthquake ka surface point hota hai.': False,
+    'Epicenter earthquake ka surface point hota hai.': True,
     'Fault lines tectonic plates ke boundaries hoti hain.': False,
     'Emergency kits natural disaster ke time life save karti hain.': False,
     'Meteorological departments weather forecasting karte hain.': False,
