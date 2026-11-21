@@ -920,7 +920,7 @@ MicroservicesArchitecture = {
     "Correlation ID Propagation HTTP Headers / Message Metadata Tracing Requests End-To-End Cross Services?": True,
     "Centralized Configuration Management (Spring Cloud Config, Consul, HashiCorp Vault) Dynamic Refresh?": True,
     "Database Per Microservice Pattern Polyglot Persistence Join Data Across Services Resolution?": True,
-    "Distributed Caching Strategies Invalidation In-Memory vs Shared Caching Layer Data Stale Prevention?": False,
+    "Distributed Caching Strategies Invalidation In-Memory vs Shared Caching Layer Data Stale Prevention?": True,
     "Service Mesh Architecture (Istio, Linkerd) Sidecar Proxy Control Plane Traffic Routing Mutual TLS (mTLS)?": False,
     "Microservices Deployment Strategies: Blue-Green Deployments, Canary Releases, Rolling Updates Deployment Risk Mitigation?": False,
     "Domain-Driven Design (DDD) Bounded Contexts Domain Events Ubiquitous Language Service Boundaries Mapping?": False,
