@@ -815,7 +815,7 @@ Redis = {
     "Redis HyperLogLog Probabilistic Data Structure Millions Cardinality Unique Visitor Count Memory Savings?": True,
     "Redis Sorted Sets (ZSET) SkipList Data Structure Leaderboard Ranking Real-Time Performance?": True,
     "Redis Slowlog Analysis identifying blocking long-running commands (`KEYS *` alternative `SCAN`)?": True,
-    "Redis Client-Side Caching (RESP3 Protocol) Invalidation Messages Local Application Cache Sync?": False,
+    "Redis Client-Side Caching (RESP3 Protocol) Invalidation Messages Local Application Cache Sync?": True,
     "Redis Hot Key Problem Detection / Mitigation Strategies Read Replicas Caching Local Buffering?": False,
     "Redis Big Keys Problem (`--bigkeys`) Memory Latency Blocking Operations Deletion (`UNLINK` async)?": False,
     "Redis Cluster Hash Slots Distribution (16384 slots) Hash Tags `{user100}` co-locating keys?": False,
