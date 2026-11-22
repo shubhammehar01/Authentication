@@ -304,7 +304,7 @@ factoryEngineers = {
     'Data analytics factory efficiency ko optimize karti hai.': True,
     'Green manufacturing eco-friendly processes adopt karti hai.': True,
     'Zero waste factories environmental impact minimize karti hain.': True,
-    'Packaging machines products ko fast pack karti hain.': False,
+    'Packaging machines products ko fast pack karti hain.': True,
     'Warehouse automation inventory management easy banata hai.': False,
     'Forklifts pallets transport karne ke liye use hote hain.': False,
     'Cranes heavy machinery lift karne me help karti hain.': False,
