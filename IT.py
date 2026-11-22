@@ -865,7 +865,7 @@ RestAPIDesign = {
     "HATEOAS (Hypermedia As The Engine Of Application State) Level 3 Richardson Maturity Model Implementation?": True,
     "REST API Field Filtering Dynamic Projections (`?fields=id,name,email`) Payload Size Reduction?": True,
     "REST API Rate Limiting Response Headers (`X-RateLimit-Limit`, `X-RateLimit-Remaining`, `X-RateLimit-Reset`) Client Feedback?": True,
-    "PATCH Method Implementation: JSON Patch (RFC 6902) vs JSON Merge Patch (RFC 7396) Partial Updates?": False,
+    "PATCH Method Implementation: JSON Patch (RFC 6902) vs JSON Merge Patch (RFC 7396) Partial Updates?": True,
     "REST API Bulk Operations Batch Endpoints Multiple Resources Creation Updates Design?": False,
     "REST API File Upload / Download Streaming Attachments Multipart Form Data vs Presigned S3 URLs?": False,
     "Cross-Origin Resource Sharing (CORS) Security Preflight `OPTIONS` Request Origin Headers Authorization?": False,
