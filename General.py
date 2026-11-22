@@ -521,7 +521,7 @@ PoliceSearching = {
     'Prison security systems inmates ko monitor karte hain.': True,
     'Police academies recruits ko physical aur legal training deti hain.': True,
     'Community policing public trust build karne me help karti hai.': True,
-    'PCR vans emergency me sabse pehle spot par pahunchti hain.': False,
+    'PCR vans emergency me sabse pehle spot par pahunchti hain.': True,
     'Blue corner notice international enquiries ke liye hota hai.': False,
     'Red corner notice wanted criminals arrest karne ke liye hota hai.': False,
     'Autopsy reports death cause determine karti hain.': False,
