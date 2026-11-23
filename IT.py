@@ -125,7 +125,7 @@ JavaScript = {
     "Custom Event Listeners and Emitter patterns memory leak avoid karne ke liye target teardown lifecycle listener remove kaise karte hain?": True,
     "WeakMap aur WeakSet objects garbage collection reachability ignore karke private metadata caching me kaise help karte hain?": True,
     "JavaScript Object Immutability: Object.freeze() vs Object.seal() vs Object.preventExtensions() me operational differences kya hain?": True,
-    "Optional Chaining (?.) aur Nullish Coalescing (??) falsy logic zero/empty-strings bugs avoid karne me kaise effective hain?": False,
+    "Optional Chaining (?.) aur Nullish Coalescing (??) falsy logic zero/empty-strings bugs avoid karne me kaise effective hain?": True,
     "Async/Await syntactic sugar underlying Promises execution errors ko try/catch hierarchy me catch karne ka strategy kya hai?": False,
     "XSS (Cross-Site Scripting) vulnerabilities client JS injection se prevent karne ke liye innerHTML avoid karke Sanitization kaise karein?": False,
     "CSRF (Cross-Site Request Forgery) protection headers aur SameSite Cookie attributes JavaScript apps me security compliance kaise build karte hain?": False,
