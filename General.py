@@ -457,7 +457,7 @@ GandhiMarch = {
     'Poona Pact depressed classes representation ke liye sign hua tha.': True,
     'Young India aur Harijan newspapers Gandhi ji run karte the.': True,
     'Autobiography My Experiments with Truth famous book hai.': True,
-    'Aga Khan Palace me Gandhi ji imprisoned rahe the.': False,
+    'Aga Khan Palace me Gandhi ji imprisoned rahe the.': True,
     'Birla House Delhi me unka assassination hua tha.': False,
     '2 October Gandhi Jayanti International Non-Violence day ban gaya.': False,
     'South Africa me bhi Gandhi ji ne racial discrimination ke against fight ki thi.': False,
