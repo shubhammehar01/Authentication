@@ -458,7 +458,7 @@ GandhiMarch = {
     'Young India aur Harijan newspapers Gandhi ji run karte the.': True,
     'Autobiography My Experiments with Truth famous book hai.': True,
     'Aga Khan Palace me Gandhi ji imprisoned rahe the.': True,
-    'Birla House Delhi me unka assassination hua tha.': False,
+    'Birla House Delhi me unka assassination hua tha.': True,
     '2 October Gandhi Jayanti International Non-Violence day ban gaya.': False,
     'South Africa me bhi Gandhi ji ne racial discrimination ke against fight ki thi.': False,
     'Natal Indian Congress founding me unka role tha.': False,
