@@ -556,7 +556,7 @@ RoketSatellite = {
     'International Space Station (ISS) space me orbiting lab hai.': True,
     'Mars rovers red planet ki surface explore karte hain.': True,
     'Lunar orbiters moon mapping aur water ice search karte hain.': True,
-    'Solar panels satellites ko electricity provide karte hain.': False,
+    'Solar panels satellites ko electricity provide karte hain.': True,
     'Rocket propulsion Newton ke third law par work karta hai.': False,
     'Liquid propellant rockets me fuel aur oxidizer tanks hote hain.': False,
     'Solid rocket boosters initial thrust provide karte hain.': False,
