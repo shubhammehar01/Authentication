@@ -623,7 +623,7 @@ Machines = {
     'AGVs (Automated Guided Vehicles) warehouse me items move karte hain.': True,
     'Forklifts pallets lift aur transport karne ke liye hote hain.': True,
     'Cranes skyscrapers construction me heavy materials lift karti hain.': True,
-    'Bulldozers land clearing aur soil pushing ke liye use hote hain.': False,
+    'Bulldozers land clearing aur soil pushing ke liye use hote hain.': True,
     'Road rollers asphalt surface compact karte hain.': False,
     'Concrete mixers cement, sand aur water mix karte hain.': False,
     'Tractors agricultural fields me farming operations karte hain.': False,
