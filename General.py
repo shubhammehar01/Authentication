@@ -557,7 +557,7 @@ RoketSatellite = {
     'Mars rovers red planet ki surface explore karte hain.': True,
     'Lunar orbiters moon mapping aur water ice search karte hain.': True,
     'Solar panels satellites ko electricity provide karte hain.': True,
-    'Rocket propulsion Newton ke third law par work karta hai.': False,
+    'Rocket propulsion Newton ke third law par work karta hai.': True,
     'Liquid propellant rockets me fuel aur oxidizer tanks hote hain.': False,
     'Solid rocket boosters initial thrust provide karte hain.': False,
     'Escape velocity earth ki gravity overcome karne ke liye zaroori hai.': False,
