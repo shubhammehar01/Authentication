@@ -445,7 +445,7 @@ AWS = {
     "AWS CloudWatch Logs Insights, Metrics, Alarms, Synthetic Canaries production monitoring alert routing?": True,
     "AWS Secrets Manager vs Systems Manager (SSM) Parameter Store secret rotation automated Lambda triggering?": True,
     "AWS Cost Optimization: Savings Plans, Reserved Instances (RI), Spot Instances Auto Scaling fault tolerance?": True,
-    "AWS SQS (Simple Queue Service) Standard vs FIFO queues Dead Letter Queues (DLQ) visibility timeout handling?": False,
+    "AWS SQS (Simple Queue Service) Standard vs FIFO queues Dead Letter Queues (DLQ) visibility timeout handling?": True,
     "AWS SNS (Simple Notification Service) Pub/Sub fan-out architecture SQS Lambda HTTP targets integration?": False,
     "AWS EventBridge (CloudWatch Events) Event-Driven Architecture microservices event bus routing filtering?": False,
     "AWS CloudTrail API Logging Security Auditing, GuardDuty Threat Detection Automated Remediation actions?": False,
