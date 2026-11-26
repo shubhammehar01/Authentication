@@ -354,7 +354,7 @@ CivilizationAncientPeople = {
     'Anasazi cliff dwellings North America me milti hain.': True,
     'Viking warriors seafaring aur exploration ke liye jaane jaate the.': True,
     'Celtic tribes Europe me druid culture follow karti thin.': True,
-    'Aboriginal people Australia ki oldest continuous culture hain.': False,
+    'Aboriginal people Australia ki oldest continuous culture hain.': True,
     'Polynesian navigators stars dekh kar ocean cross karte the.': False,
     'Silk Road ancient trade route tha jo East aur West ko connect karta tha.': False,
     'Bronze Age me metal tools aur weapons banna shuru hue the.': False,
