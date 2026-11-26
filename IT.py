@@ -34,7 +34,7 @@ Java = {
     "Deep Copy vs Shallow Copy in object cloning: Prototype pattern implementation me issues kaise avoid karein?": True,
     "Enum Singleton Pattern serialization aur reflection attacks ke against safe kyun hota hai?": True,
     "Method Overriding me covariance return types ka use karke cleaner APIs kaise design karein?": True,
-    "ThreadLocal variables ki wajah se web application application servers par memory leak kyun hoti hai aur clean up kaise karein?": False,
+    "ThreadLocal variables ki wajah se web application application servers par memory leak kyun hoti hai aur clean up kaise karein?": True,
     "Marker Interfaces (like Serializable) ka modern Java annotations ke compare me kya significance hai?": False,
     "Java 17 Pattern Matching for switch and instanceof se code refactoring kaise streamline karein?": False,
     "Dynamic Proxies (JDK Proxies vs ByteBuddy/CGLIB) ka AOP frameworks me kya role hai?": False,
