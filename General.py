@@ -624,7 +624,7 @@ Machines = {
     'Forklifts pallets lift aur transport karne ke liye hote hain.': True,
     'Cranes skyscrapers construction me heavy materials lift karti hain.': True,
     'Bulldozers land clearing aur soil pushing ke liye use hote hain.': True,
-    'Road rollers asphalt surface compact karte hain.': False,
+    'Road rollers asphalt surface compact karte hain.': True,
     'Concrete mixers cement, sand aur water mix karte hain.': False,
     'Tractors agricultural fields me farming operations karte hain.': False,
     'Harvesters crops cutting aur threshing ek sath karte hain.': False,
