@@ -703,7 +703,7 @@ OOPs = {
     "Design Patterns: Strategy Pattern Dynamic Behavior Switching runtime algorithm swapping?": True,
     "Design Patterns: Observer Pattern Event Driven Architecture Reactive Loose Coupling Decoupling?": True,
     "Design Patterns: Decorator Pattern Adding Responsibilities Dynamically Object Wrapper Inheritance Alternative?": True,
-    "Design Patterns: Adapter Pattern Legacy Code Wrapper Incompatible Interface Bridges Integration?": False,
+    "Design Patterns: Adapter Pattern Legacy Code Wrapper Incompatible Interface Bridges Integration?": True,
     "Design Patterns: Builder Pattern Complex Object Creation Method Chaining Immutability Enforcement?": False,
     "Design Patterns: Proxy Pattern Virtual Proxy, Protection Proxy, Dynamic Remote Proxies?": False,
     "Design Patterns: Facade Pattern Simplifying Complex Subsystem Interfaces Client Abstraction?": False,
