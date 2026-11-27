@@ -459,7 +459,7 @@ GandhiMarch = {
     'Autobiography My Experiments with Truth famous book hai.': True,
     'Aga Khan Palace me Gandhi ji imprisoned rahe the.': True,
     'Birla House Delhi me unka assassination hua tha.': True,
-    '2 October Gandhi Jayanti International Non-Violence day ban gaya.': False,
+    '2 October Gandhi Jayanti International Non-Violence day ban gaya.': True,
     'South Africa me bhi Gandhi ji ne racial discrimination ke against fight ki thi.': False,
     'Natal Indian Congress founding me unka role tha.': False,
     'Tolstoy Farm South Africa me establish ki gayi thi.': False,
