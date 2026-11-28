@@ -407,7 +407,7 @@ FlyVehicles = {
     'Lift, weight, thrust aur drag flight ke 4 main forces hain.': True,
     'Aerodynamics wings ki shape par air pressure create karti hai.': True,
     'Fuselage airplane ka main body structure hota hai.': True,
-    'Landing gear wheels aur brakes ko support karta hai.': False,
+    'Landing gear wheels aur brakes ko support karta hai.': True,
     'Flaps takeoff aur landing ke waqt lift increase karte hain.': False,
     'Rudder plane ko left ya right turn karne me help karta hai.': False,
     'Elevators pitch control ke liye horizontal tails par hote hain.': False,
